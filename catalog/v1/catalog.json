@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T05:55:15+09:00",
- "featured": "mihonapp/mihon",
+ "generatedAt": "2026-11-16T06:06:59+09:00",
+ "featured": "TeamNewPipe/NewPipe",
  "themes": [],
  "apps": [
   {
@@ -9,7 +9,7 @@
    "name": "NewPipe",
    "owner": "TeamNewPipe",
    "avatarUrl": "https://avatars.githubusercontent.com/u/22159318?v=4",
-   "stars": 40738,
+   "stars": 40739,
    "license": "GPL-3.0",
    "topics": [
     "4k",
@@ -404,7 +404,7 @@
    "name": "spotube",
    "owner": "team-spotube",
    "avatarUrl": "https://avatars.githubusercontent.com/u/263316120?v=4",
-   "stars": 50789,
+   "stars": 50790,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -515,7 +515,7 @@
    "name": "ente",
    "owner": "ente",
    "avatarUrl": "https://avatars.githubusercontent.com/u/64603161?v=4",
-   "stars": 30151,
+   "stars": 30152,
    "license": "AGPL-3.0",
    "topics": [
     "2fa",
@@ -583,7 +583,7 @@
    "name": "dsh-Go",
    "owner": "ccch1mneyyy",
    "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
-   "stars": 23702,
+   "stars": 23705,
    "license": "AGPL-3.0",
    "topics": [
     "ai-agent",
@@ -605,7 +605,7 @@
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 6.3693
+   "score": 6.3694
   },
   {
    "repo": "getpaseo/paseo",
@@ -831,7 +831,7 @@
    "name": "komi-store",
    "owner": "komi-store",
    "avatarUrl": "https://avatars.githubusercontent.com/u/323530639?v=4",
-   "stars": 20736,
+   "stars": 20737,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -929,7 +929,7 @@
    "name": "Metrolist",
    "owner": "MetrolistGroup",
    "avatarUrl": "https://avatars.githubusercontent.com/u/260068764?v=4",
-   "stars": 14431,
+   "stars": 14433,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1709,7 +1709,7 @@
    "name": "Canta",
    "owner": "samolego",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34912839?v=4",
-   "stars": 7360,
+   "stars": 7361,
    "license": "LGPL-3.0",
    "topics": [
     "android",
@@ -1725,7 +1725,7 @@
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.7683
+   "score": 5.7684
   },
   {
    "repo": "d4rken-org/sdmaid-se",
@@ -1780,7 +1780,7 @@
    "name": "tasks",
    "owner": "tasks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/9398829?v=4",
-   "stars": 5750,
+   "stars": 5749,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1794,7 +1794,7 @@
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.7488
+   "score": 5.7487
   },
   {
    "repo": "capcom6/android-sms-gateway",
@@ -2346,7 +2346,7 @@
    "name": "mangayomi",
    "owner": "kodjodevf",
    "avatarUrl": "https://avatars.githubusercontent.com/u/107993382?v=4",
-   "stars": 4490,
+   "stars": 4491,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -2371,7 +2371,7 @@
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.6414
+   "score": 5.6415
   },
   {
    "repo": "TeamAmaze/AmazeFileManager",
@@ -2407,7 +2407,7 @@
    "name": "mullvadvpn-app",
    "owner": "mullvad",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10848549?v=4",
-   "stars": 7782,
+   "stars": 7781,
    "license": "GPL-3.0",
    "topics": [
     "electron",
@@ -2664,7 +2664,7 @@
    "name": "nectarlink",
    "owner": "thtbee",
    "avatarUrl": "https://avatars.githubusercontent.com/u/302257494?v=4",
-   "stars": 4459,
+   "stars": 4460,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -2685,7 +2685,7 @@
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.5891
+   "score": 5.5892
   },
   {
    "repo": "czy0729/Bangumi",
@@ -2859,7 +2859,7 @@
    "name": "client",
    "owner": "Droid-ify",
    "avatarUrl": "https://avatars.githubusercontent.com/u/123971387?v=4",
-   "stars": 7755,
+   "stars": 7756,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3085,6 +3085,98 @@
    "themes": [],
    "cardTag": null,
    "score": 5.4963
+  },
+  {
+   "repo": "AdAway/AdAway",
+   "name": "AdAway",
+   "owner": "AdAway",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/20455853?v=4",
+   "stars": 9627,
+   "license": "GPL-3.0",
+   "topics": [
+    "ad-blocker",
+    "android",
+    "blocker",
+    "hosts",
+    "vpn"
+   ],
+   "latestTag": "v6.1.4",
+   "latestDate": "2024-10-27",
+   "apkCount": 1,
+   "screenshots": [
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot1.png",
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot2.png",
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot3.png",
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot4.png"
+   ],
+   "card": {
+    "oneLiner": "호스트 파일과 로컬 VPN을 이용해 기기 전체 광고를 막는 앱",
+    "forWhom": "안드로이드에서 광고와 추적 연결을 걸러 내고 싶은 사람",
+    "features": [
+     "호스트 파일 수정 및 로컬 VPN 차단 지원",
+     "원하는 호스트 소스 목록 직접 추가",
+     "VPN 차단에서 제외할 앱 개별 지정"
+    ],
+    "howToStart": [
+     "F-Droid나 공식 웹사이트에서 앱을 내려받아 설치합니다.",
+     "기기 환경에 맞춰 루팅 방식 또는 로컬 VPN 방식을 선택합니다.",
+     "호스트 소스를 동기화하거나 원하는 차단 목록을 추가합니다."
+    ],
+    "praise": [
+     {
+      "text": "루팅된 기기나 커스텀 롬 환경에서 광고 차단이 원활하게 작동합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=23317644",
+      "date": "2020-05-26",
+      "old": true
+     },
+     {
+      "text": "루팅 권한 없이도 로컬 VPN 방식으로 간편하게 사용할 수 있습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=24545728",
+      "date": "2020-09-21",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "루팅 설정에 따라 CPU 점유율이 치솟고 배터리가 빠르게 닳는 문제가 보고되었습니다.",
+      "source": "GitHub 이슈 #4112",
+      "url": "https://github.com/AdAway/AdAway/issues/4112",
+      "date": "2024-07-19",
+      "old": true
+     },
+     {
+      "text": "VPN 모드에서 일시 중지하더라도 일정 시간이 지나면 자동으로 다시 켜지는 현상이 있습니다.",
+      "source": "GitHub 이슈 #4022",
+      "url": "https://github.com/AdAway/AdAway/issues/4022",
+      "date": "2023-11-03",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2024-10-27예요",
+      "url": "https://github.com/AdAway/AdAway/releases"
+     },
+     {
+      "text": "최신 버전은 안드로이드 8 이상을 요구하며, 구형 기기는 버전 4를 사용해야 합니다.",
+      "url": "https://github.com/AdAway/AdAway#readme"
+     },
+     {
+      "text": "특정 루팅 환경에서 새 호스트 파일 설치 및 동기화가 실패할 수 있습니다.",
+      "url": "https://github.com/AdAway/AdAway/issues/4201"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-latest"
+   },
+   "themes": [
+    "network-vpn",
+    "privacy"
+   ],
+   "cardTag": "v6.1.4",
+   "score": 5.4835
   },
   {
    "repo": "mikepenz/AboutLibraries",
@@ -3822,7 +3914,7 @@
    "name": "SmsForwarder",
    "owner": "pppscn",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5105854?v=4",
-   "stars": 28887,
+   "stars": 28886,
    "license": "BSD-2-Clause",
    "topics": [
     "android",
@@ -3905,7 +3997,7 @@
    "name": "termux-app",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 64947,
+   "stars": 64946,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -3981,7 +4073,7 @@
    "name": "RTranslator",
    "owner": "niedev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/32955129?v=4",
-   "stars": 10658,
+   "stars": 10659,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -4283,29 +4375,6 @@
    "themes": [],
    "cardTag": null,
    "score": 4.0095
-  },
-  {
-   "repo": "AdAway/AdAway",
-   "name": "AdAway",
-   "owner": "AdAway",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/20455853?v=4",
-   "stars": 9627,
-   "license": "GPL-3.0",
-   "topics": [
-    "ad-blocker",
-    "android",
-    "blocker",
-    "hosts",
-    "vpn"
-   ],
-   "latestTag": "v6.1.4",
-   "latestDate": "2024-10-27",
-   "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 3.9835
   },
   {
    "repo": "huanghaibin-dev/CalendarView",
@@ -4618,7 +4687,7 @@
    "name": "termux-api",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 4651,
+   "stars": 4650,
    "license": null,
    "topics": [
     "android",
@@ -4631,7 +4700,7 @@
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 3.6676
+   "score": 3.6675
   },
   {
    "repo": "jing332/tts-server-android",
