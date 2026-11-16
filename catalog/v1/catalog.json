@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T12:53:28+09:00",
- "featured": "MuntashirAkon/AppManager",
+ "generatedAt": "2026-11-16T13:14:22+09:00",
+ "featured": "AnySoftKeyboard/AnySoftKeyboard",
  "themes": [
   {
    "id": "privacy",
@@ -15,11 +15,121 @@
     "M66B/NetGuard",
     "mullvad/mullvadvpn-app",
     "florisboard/florisboard",
-    "AdAway/AdAway"
+    "AdAway/AdAway",
+    "FossifyOrg/Camera"
+   ]
+  },
+  {
+   "id": "notes-tasks",
+   "title": "메모·할 일",
+   "subtitle": "기록하고 챙기는 가벼운 앱",
+   "apps": [
+    "tasks/tasks",
+    "quillpad/quillpad",
+    "nextcloud/notes-android",
+    "orgzly/orgzly-android",
+    "FossifyOrg/Notes"
    ]
   }
  ],
  "apps": [
+  {
+   "repo": "rustdesk/rustdesk",
+   "name": "rustdesk",
+   "owner": "rustdesk",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
+   "stars": 129625,
+   "license": "AGPL-3.0",
+   "topics": [
+    "android",
+    "anydesk",
+    "dart",
+    "flatpak",
+    "flutter",
+    "flutter-apps",
+    "ios",
+    "linux",
+    "macos",
+    "p2p",
+    "rdp",
+    "remote-control",
+    "remote-desktop",
+    "rust",
+    "rust-lang",
+    "teamviewer",
+    "vnc",
+    "wayland",
+    "windows"
+   ],
+   "latestTag": "1.5.3",
+   "latestDate": "2026-11-09",
+   "apkCount": 4,
+   "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+   "summaryKo": "원격 제어를 지원하는 오픈소스 데스크톱 프로그램",
+   "screenshots": [
+    "https://raw.githubusercontent.com/rustdesk/rustdesk/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/rustdesk/rustdesk/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/rustdesk/rustdesk/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+    "https://raw.githubusercontent.com/rustdesk/rustdesk/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png"
+   ],
+   "card": {
+    "oneLiner": "원격 제어를 지원하는 오픈소스 데스크톱 프로그램",
+    "forWhom": "다른 컴퓨터를 멀리서 제어하고 싶은 사용자",
+    "features": [
+     "Rust로 작성된 원격 제어 솔루션",
+     "별도의 복잡한 설정 없이 바로 사용 가능",
+     "공용 서버 사용 혹은 자체 서버 구축 지원"
+    ],
+    "howToStart": [
+     "공식 저장소나 릴리스 페이지에서 기기에 맞는 버전을 내려받습니다.",
+     "프로그램을 실행하고 화면에 나오는 연결 정보를 확인합니다.",
+     "원격지 기기와 연결하여 제어를 시작합니다."
+    ],
+    "praise": [
+     {
+      "text": "일부 대체재와 달리 속도가 느려지지 않고 부드럽게 작동합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=42967734",
+      "date": "2025-02-06",
+      "old": true
+     },
+     {
+      "text": "직접 서버를 구축해서 사용할 때 매우 견고하고 안정적입니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.ca/comment/7616257",
+      "date": "2024-02-27",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "자동 업데이트 기능이 없어 직접 내려받아 업데이트해야 합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=42968688",
+      "date": "2025-02-07",
+      "old": true
+     },
+     {
+      "text": "설정에서 중계 서버 사용을 꺼두어도 관련 도메인으로 연결을 시도합니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.ml/comment/8728945",
+      "date": "2024-02-27",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "공용 서버 장애나 정책 변경 시 접속에 문제가 생길 수 있습니다.",
+      "url": "https://github.com/rustdesk/rustdesk/issues/7027"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "1.5.3",
+   "score": 8.5743
+  },
   {
    "repo": "TeamNewPipe/NewPipe",
    "name": "NewPipe",
@@ -43,6 +153,8 @@
    "latestTag": "v0.29.3",
    "latestDate": "2026-11-10",
    "apkCount": 2,
+   "description": "A libre lightweight streaming front-end for Android.",
+   "summaryKo": "계정 없이 가볍게 영상과 음악을 즐기는 재생 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/00.png",
     "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png",
@@ -119,7 +231,7 @@
    "name": "mihon",
    "owner": "mihonapp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/156513628?v=4",
-   "stars": 25326,
+   "stars": 25327,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -135,6 +247,8 @@
    "latestTag": "v0.21.3",
    "latestDate": "2026-10-25",
    "apkCount": 6,
+   "description": "Free and open source manga reader for Android",
+   "summaryKo": "안드로이드 기기에서 만화와 웹툰을 모아 읽는 리더기 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/mihonapp/mihon/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
     "https://raw.githubusercontent.com/mihonapp/mihon/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
@@ -200,14 +314,14 @@
     "reading-news"
    ],
    "cardTag": "v0.21.3",
-   "score": 7.783
+   "score": 7.7831
   },
   {
    "repo": "maxrave-dev/SimpMusic",
    "name": "SimpMusic",
    "owner": "maxrave-dev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/113747128?v=4",
-   "stars": 13432,
+   "stars": 13433,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -232,6 +346,8 @@
    "latestTag": "v2.6.0",
    "latestDate": "2026-11-14",
    "apkCount": 9,
+   "description": "A cross-platform music app using YouTube Music for backend",
+   "summaryKo": "광고 없이 백그라운드로 듣는 오픈소스 유튜브 뮤직 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/maxrave-dev/SimpMusic/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
     "https://raw.githubusercontent.com/maxrave-dev/SimpMusic/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/10.jpg",
@@ -313,7 +429,7 @@
    "name": "koreader",
    "owner": "koreader",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3957564?v=4",
-   "stars": 31119,
+   "stars": 31120,
    "license": "AGPL-3.0",
    "topics": [
     "cbz",
@@ -340,6 +456,8 @@
    "latestTag": "v2026.07.1",
    "latestDate": "2026-08-01",
    "apkCount": 3,
+   "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+   "summaryKo": "전자책과 문서를 다양한 형식으로 편하게 읽는 뷰어",
    "screenshots": [
     "https://github.com/koreader/koreader-artwork/raw/master/koreader-menu-thumbnail.png",
     "https://github.com/koreader/koreader-artwork/raw/master/koreader-footnotes-thumbnail.png",
@@ -391,7 +509,7 @@
     "reading-news"
    ],
    "cardTag": "v2026.07.1",
-   "score": 7.4067
+   "score": 7.4068
   },
   {
    "repo": "deniscerri/ytdlnis",
@@ -417,6 +535,8 @@
    "latestTag": "v1.9.1.1",
    "latestDate": "2026-10-19",
    "apkCount": 10,
+   "description": "Full-featured audio/video downloader for Android using yt-dlp",
+   "summaryKo": "yt-dlp를 활용해 여러 사이트의 영상과 음악을 쉽게 내려받는 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/deniscerri/ytdlnis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png",
     "https://raw.githubusercontent.com/deniscerri/ytdlnis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png",
@@ -516,6 +636,8 @@
    "latestTag": "4.5.8",
    "latestDate": "2026-10-31",
    "apkCount": 2,
+   "description": "Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.",
+   "summaryKo": "안드로이드용 KeePass 호환 비밀번호 및 인증서 관리 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/fastlane/metadata/android/en-US/images/phoneScreenshots/screen1.png",
     "https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/fastlane/metadata/android/en-US/images/phoneScreenshots/screen2.png",
@@ -597,7 +719,7 @@
    "name": "tasks",
    "owner": "tasks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/9398829?v=4",
-   "stars": 5749,
+   "stars": 5750,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -607,6 +729,8 @@
    "latestTag": "15.14",
    "latestDate": "2026-11-14",
    "apkCount": 2,
+   "description": "Bringing Astrid Tasks back from the dead",
+   "summaryKo": "할 일을 기록하고 관리하는 오픈소스 앱입니다.",
    "screenshots": [
     "https://raw.githubusercontent.com/tasks/tasks/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpg",
     "https://raw.githubusercontent.com/tasks/tasks/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.jpg",
@@ -672,7 +796,7 @@
     "notes-tasks"
    ],
    "cardTag": "15.14",
-   "score": 7.2487
+   "score": 7.2488
   },
   {
    "repo": "beemdevelopment/Aegis",
@@ -695,6 +819,8 @@
    "latestTag": "v3.4.3",
    "latestDate": "2026-09-06",
    "apkCount": 1,
+   "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
+   "summaryKo": "안전하게 2단계 인증 코드를 관리하는 오픈소스 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/beemdevelopment/Aegis/HEAD/metadata/en-US/images/phoneScreenshots/screenshot1.png?raw=true",
     "https://raw.githubusercontent.com/beemdevelopment/Aegis/HEAD/metadata/en-US/images/phoneScreenshots/screenshot2.png?raw=true",
@@ -768,6 +894,8 @@
    "latestTag": "v1.7.5",
    "latestDate": "2026-09-20",
    "apkCount": 2,
+   "description": "Material Design file manager for Android",
+   "summaryKo": "안드로이드용 오픈소스 파일 관리자 앱입니다.",
    "screenshots": [
     "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
     "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
@@ -835,6 +963,8 @@
    "latestTag": "v32.1",
    "latestDate": "2026-08-20",
    "apkCount": 1,
+   "description": "An alternative frontend for YouTube, for Android.",
+   "summaryKo": "추적과 광고 없이 유튜브 영상을 볼 수 있는 오픈소스 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/libre-tube/LibreTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_1.jpg",
     "https://raw.githubusercontent.com/libre-tube/LibreTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_10.jpg",
@@ -935,6 +1065,8 @@
    "latestTag": "v0.5.8",
    "latestDate": "2026-10-13",
    "apkCount": 10,
+   "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
+   "summaryKo": "안드로이드에서 광고 차단, 방화벽, VPN을 함께 쓰는 앱",
    "screenshots": [
     "https://hosted.weblate.org/widgets/rethink-dns-firewall/-/287x66-black.png",
     "https://rethinkdns.com/ico/moz-builders-2000x550.png"
@@ -1017,6 +1149,8 @@
    "latestTag": "v4.1.1",
    "latestDate": "2026-09-04",
    "apkCount": 1,
+   "description": "A full-featured package manager and viewer for Android",
+   "summaryKo": "안드로이드 앱을 관리하고 추적 요소를 차단하는 도구입니다.",
    "screenshots": [
     "https://raw.githubusercontent.com/MuntashirAkon/AppManager/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
     "https://raw.githubusercontent.com/MuntashirAkon/AppManager/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
@@ -1079,43 +1213,6 @@
    "score": 7.0829
   },
   {
-   "repo": "rustdesk/rustdesk",
-   "name": "rustdesk",
-   "owner": "rustdesk",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
-   "stars": 129621,
-   "license": "AGPL-3.0",
-   "topics": [
-    "android",
-    "anydesk",
-    "dart",
-    "flatpak",
-    "flutter",
-    "flutter-apps",
-    "ios",
-    "linux",
-    "macos",
-    "p2p",
-    "rdp",
-    "remote-control",
-    "remote-desktop",
-    "rust",
-    "rust-lang",
-    "teamviewer",
-    "vnc",
-    "wayland",
-    "windows"
-   ],
-   "latestTag": "1.5.3",
-   "latestDate": "2026-11-09",
-   "apkCount": 4,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 7.0743
-  },
-  {
    "repo": "FossifyOrg/Gallery",
    "name": "Gallery",
    "owner": "FossifyOrg",
@@ -1132,6 +1229,8 @@
    "latestTag": "1.14.2",
    "latestDate": "2026-11-07",
    "apkCount": 5,
+   "description": "Browse your memories without any interruptions with this photo and video gallery",
+   "summaryKo": "광고와 데이터 수집이 없는 개인정보 보호 사진 및 동영상 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
     "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
@@ -1219,6 +1318,8 @@
    "latestTag": "2.2.1",
    "latestDate": "2026-11-12",
    "apkCount": 1,
+   "description": "A lightweight keyboard for Android",
+   "summaryKo": "특수키와 기호 입력이 편리한 가벼운 오픈소스 가상 키보드",
    "screenshots": [
     "https://raw.githubusercontent.com/Julow/Unexpected-Keyboard/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
     "https://raw.githubusercontent.com/Julow/Unexpected-Keyboard/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
@@ -1288,11 +1389,78 @@
    "score": 7.0038
   },
   {
+   "repo": "oliexdev/openScale",
+   "name": "openScale",
+   "owner": "oliexdev",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/10166185?v=4",
+   "stars": 2672,
+   "license": "GPL-3.0",
+   "topics": [],
+   "latestTag": "v3.1.4",
+   "latestDate": "2026-10-31",
+   "apkCount": 1,
+   "description": "Open-source weight and body metrics tracker, with support for Bluetooth scales",
+   "summaryKo": "블루투스 체중계와 연동해 몸 상태를 기록하는 오픈소스 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/oliexdev/openScale/master/fastlane/metadata/android/en-GB/images/phoneScreenshots/1_en-GB.png",
+    "https://raw.githubusercontent.com/oliexdev/openScale/master/fastlane/metadata/android/en-GB/images/phoneScreenshots/2_en-GB.png",
+    "https://raw.githubusercontent.com/oliexdev/openScale/master/fastlane/metadata/android/en-GB/images/phoneScreenshots/3_en-GB.png",
+    "https://raw.githubusercontent.com/oliexdev/openScale/master/fastlane/metadata/android/en-GB/images/phoneScreenshots/4_en-GB.png",
+    "https://raw.githubusercontent.com/oliexdev/openScale/master/fastlane/metadata/android/en-GB/images/phoneScreenshots/5_en-GB.png",
+    "https://raw.githubusercontent.com/oliexdev/openScale/master/fastlane/metadata/android/en-GB/images/phoneScreenshots/6_en-GB.png"
+   ],
+   "card": {
+    "oneLiner": "블루투스 체중계와 연동해 몸 상태를 기록하는 오픈소스 앱",
+    "forWhom": "체중과 신체 변화를 광고 없이 안전하게 기록하고 싶은 사람",
+    "features": [
+     "다양한 블루투스 체중계 및 수동 입력 지원",
+     "체중, 체지방, 근육량 등 다양한 신체 지표 기록",
+     "그래프와 표로 한눈에 보는 진행 상황"
+    ],
+    "howToStart": [
+     "앱을 설치하고 블루투스 권한을 허용합니다.",
+     "지원하는 체중계와 연결하거나 직접 측정값을 입력합니다.",
+     "목표를 설정하고 신체 변화를 기록합니다."
+    ],
+    "praise": [
+     {
+      "text": "광고 없이 내 체중 데이터를 안전하게 관리할 수 있어서 만족스럽습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=31901569",
+      "date": "2022-06-27",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "일부 기기에서 블루투스 동기화나 알림 연동에 문제가 생길 때가 있습니다.",
+      "source": "GitHub 이슈 #1209",
+      "url": "https://github.com/oliexdev/openScale/issues/1209",
+      "date": "2025-12-02",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "일부 기종은 자동 감지나 연동 과정에서 오류가 발생할 수 있습니다.",
+      "url": "https://github.com/oliexdev/openScale/issues/1489"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "health-fitness"
+   ],
+   "cardTag": "v3.1.4",
+   "score": 6.8393
+  },
+  {
    "repo": "2dust/v2rayNG",
    "name": "v2rayNG",
    "owner": "2dust",
    "avatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
-   "stars": 65969,
+   "stars": 65970,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1311,6 +1479,8 @@
    "latestTag": "2.3.15",
    "latestDate": "2026-11-01",
    "apkCount": 10,
+   "description": "A V2Ray client for Android, support Xray core and v2fly core",
+   "summaryKo": "다양한 네트워크 프로토콜을 다루는 안드로이드용 프록시 앱",
    "screenshots": [],
    "card": {
     "oneLiner": "다양한 네트워크 프로토콜을 다루는 안드로이드용 프록시 앱",
@@ -1387,6 +1557,9 @@
    "latestTag": "v6.0.0",
    "latestDate": "2026-11-10",
    "apkCount": 1,
+   "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+   "summaryKo": "데스크톱과 모바일 모두에서 사용할 수 있는 오픈소스 음악 스트리밍 앱",
+   "summarySrc": "🎧 Open source music streaming app! Available for both desktop & mobile!",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1411,6 +1584,8 @@
    "latestTag": "1.13-r2",
    "latestDate": "2026-09-08",
    "apkCount": 1,
+   "description": "Android on screen keyboard for multiple languages and NO internet access",
+   "summaryKo": "여러 언어와 제스처 입력을 지원하는 오픈소스 자판 앱",
    "screenshots": [],
    "card": {
     "oneLiner": "여러 언어와 제스처 입력을 지원하는 오픈소스 자판 앱",
@@ -1477,7 +1652,7 @@
    "name": "gkd",
    "owner": "gkd-kit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/138121201?v=4",
-   "stars": 44831,
+   "stars": 44832,
    "license": "GPL-3.0",
    "topics": [
     "accessibility",
@@ -1495,18 +1670,108 @@
    "latestTag": "v1.13.2",
    "latestDate": "2026-11-13",
    "apkCount": 1,
+   "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+   "summaryKo": "무장애, 고급 선택기, 구독 규칙을 기반으로 화면을 탭하는 안드로이드 앱",
+   "summarySrc": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 6.6351
+   "score": 6.6352
+  },
+  {
+   "repo": "quillpad/quillpad",
+   "name": "quillpad",
+   "owner": "quillpad",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/118094128?v=4",
+   "stars": 1426,
+   "license": "GPL-3.0",
+   "topics": [
+    "evernote",
+    "google-keep",
+    "joplin",
+    "keep",
+    "knowledge-management",
+    "markdown",
+    "nextcloud-notes",
+    "note-taking",
+    "notepad",
+    "notes",
+    "notes-app",
+    "privacy",
+    "tasks",
+    "todo-list"
+   ],
+   "latestTag": "v1.5.16",
+   "latestDate": "2026-11-11",
+   "apkCount": 1,
+   "description": "Take beautiful markdown notes and stay organized with task lists.",
+   "summaryKo": "마크다운을 지원하고 넥스트클라우드 동기화가 되는 오픈소스 메모 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/quillpad/quillpad/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/quillpad/quillpad/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/quillpad/quillpad/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+    "https://raw.githubusercontent.com/quillpad/quillpad/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png"
+   ],
+   "card": {
+    "oneLiner": "마크다운을 지원하고 넥스트클라우드 동기화가 되는 오픈소스 메모 앱",
+    "forWhom": "광고 없는 안드로이드 메모 앱과 마크다운 기능을 찾는 분",
+    "features": [
+     "마크다운 지원 메모 작성 및 할 일 목록 만들기",
+     "넥스트클라우드와 메모 동기화 지원",
+     "압축 파일 백업 및 복원 기능"
+    ],
+    "howToStart": [
+     "F-Droid나 구글 플레이 스토어에서 Quillpad를 내려받습니다.",
+     "앱을 열고 마크다운으로 메모나 할 일 목록을 작성합니다.",
+     "필요시 설정에서 넥스트클라우드 동기화나 백업을 이용합니다."
+    ],
+    "praise": [
+     {
+      "text": "넥스트클라우드와 동기화하여 사용할 수 있는 점이 좋습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=38337971",
+      "date": "2023-11-19",
+      "old": true
+     },
+     {
+      "text": "구글 킵과 비슷한 레이아웃을 가진 마크다운 메모 앱입니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.ml/post/6440983",
+      "date": "2023-10-13",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "넥스트클라우드 웹에서 만든 할 일 목록의 체크박스를 해제할 수 없는 기묘한 점이 있습니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.ml/post/6440983",
+      "date": "2023-10-13",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "안드로이드 외에 다른 플랫폼으로는 지원하지 않습니다.",
+      "url": "https://lemmy.world/post/22688019"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "notes-tasks"
+   ],
+   "cardTag": "v1.5.16",
+   "score": 6.627
   },
   {
    "repo": "Predidit/Kazumi",
    "name": "Kazumi",
    "owner": "Predidit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34627277?v=4",
-   "stars": 42677,
+   "stars": 42682,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1521,6 +1786,9 @@
    "latestTag": "2.4.4",
    "latestDate": "2026-11-12",
    "apkCount": 1,
+   "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+   "summaryKo": "사용자 규칙 기반 애니메이션 수집 앱으로 온라인 시청과 자막을 지원",
+   "summarySrc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1538,6 +1806,8 @@
    "latestTag": "2.337",
    "latestDate": "2026-08-01",
    "apkCount": 1,
+   "description": "A simple way to block access to the internet per app",
+   "summaryKo": "루트 권한 없이 앱별로 인터넷 연결을 차단하거나 허용하는 방화벽",
    "screenshots": [
     "https://raw.githubusercontent.com/M66B/NetGuard/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
     "https://raw.githubusercontent.com/M66B/NetGuard/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg",
@@ -1627,6 +1897,9 @@
    "latestTag": "32.71s",
    "latestDate": "2026-11-06",
    "apkCount": 4,
+   "description": "Browse media content with your own rules on Android TV",
+   "summaryKo": "안드로이드 TV에서 자신만의 규칙으로 미디어 콘텐츠 탐색",
+   "summarySrc": "Browse media content with your own rules on Android TV",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1654,6 +1927,8 @@
    "latestTag": "0.16.2",
    "latestDate": "2026-06-03",
    "apkCount": 1,
+   "description": "An Android RSS reader presented in Material You style.",
+   "summaryKo": "머티리얼 유 디자인을 적용한 안드로이드 RSS 리더 앱입니다.",
    "screenshots": [
     "https://raw.githubusercontent.com/ReadYouApp/ReadYou/main/fastlane/metadata/android/en-US/images/phoneScreenshots/feeds.png",
     "https://raw.githubusercontent.com/ReadYouApp/ReadYou/main/fastlane/metadata/android/en-US/images/phoneScreenshots/flow.png",
@@ -1738,6 +2013,9 @@
    "latestTag": "photos-v1.3.70",
    "latestDate": "2026-11-13",
    "apkCount": 1,
+   "description": "💚 End-to-end encrypted cloud for everything.",
+   "summaryKo": "모든 데이터를 위한 종단간 암호화 클라우드",
+   "summarySrc": "💚 End-to-end encrypted cloud for everything.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1749,7 +2027,7 @@
    "name": "Ehviewer_CN_SXJ",
    "owner": "xiaojieonly",
    "avatarUrl": "https://avatars.githubusercontent.com/u/49278135?v=4",
-   "stars": 29160,
+   "stars": 29161,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -1771,6 +2049,9 @@
    "latestTag": "2.0.2.7",
    "latestDate": "2026-11-02",
    "apkCount": 1,
+   "description": "ehviewer，用爱发电，快乐前行",
+   "summaryKo": "열정을 담아 즐겁게 전진하는 ehviewer",
+   "summarySrc": "ehviewer，用爱发电，快乐前行",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1782,7 +2063,7 @@
    "name": "dsh-Go",
    "owner": "ccch1mneyyy",
    "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
-   "stars": 23936,
+   "stars": 23948,
    "license": "AGPL-3.0",
    "topics": [
     "ai-agent",
@@ -1800,11 +2081,14 @@
    "latestTag": "v1.1.0",
    "latestDate": "2026-11-15",
    "apkCount": 1,
+   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "summaryKo": "휴대폰 본체에서 실행하거나 PC를 원격 제어하는 딥시크 하네스",
+   "summarySrc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 6.3736
+   "score": 6.3738
   },
   {
    "repo": "getpaseo/paseo",
@@ -1833,6 +2117,9 @@
    "latestTag": "v0.15.4",
    "latestDate": "2026-11-10",
    "apkCount": 1,
+   "description": "Orchestrate multiple coding agents from desktop and mobile",
+   "summaryKo": "데스크톱과 모바일에서 여러 코딩 에이전트를 오케스트레이션",
+   "summarySrc": "Orchestrate multiple coding agents from desktop and mobile",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1871,6 +2158,9 @@
    "latestTag": "v20.0.0",
    "latestDate": "2026-11-06",
    "apkCount": 1,
+   "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+   "summaryKo": "시간 상자 및 시간 추적 기능이 통합된 고급 할일 목록 앱",
+   "summarySrc": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1899,6 +2189,9 @@
    "latestTag": "v1.0.4",
    "latestDate": "2026-10-16",
    "apkCount": 2,
+   "description": "AirPods liberated from Apple's ecosystem.",
+   "summaryKo": "애플 생태계에서 벗어난 에어팟",
+   "summarySrc": "AirPods liberated from Apple's ecosystem.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1906,11 +2199,88 @@
    "score": 6.3181
   },
   {
+   "repo": "termux/termux-app",
+   "name": "termux-app",
+   "owner": "termux",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
+   "stars": 64968,
+   "license": "NOASSERTION",
+   "topics": [
+    "android",
+    "hacktoberfest",
+    "linux",
+    "terminal",
+    "termux"
+   ],
+   "latestTag": "v0.118.3",
+   "latestDate": "2025-05-22",
+   "apkCount": 5,
+   "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+   "summaryKo": "안드로이드에서 리눅스 환경과 터미널을 쓸 수 있는 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/termux/termux-app/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
+    "https://raw.githubusercontent.com/termux/termux-app/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg",
+    "https://raw.githubusercontent.com/termux/termux-app/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg",
+    "https://raw.githubusercontent.com/termux/termux-app/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg"
+   ],
+   "card": {
+    "oneLiner": "안드로이드에서 리눅스 환경과 터미널을 쓸 수 있는 앱",
+    "forWhom": "폰에서 리눅스 명령어나 터미널 환경이 필요한 사람",
+    "features": [
+     "안드로이드용 터미널 에뮬레이터 환경 제공",
+     "다양한 플러그인과 패키지 관리 지원",
+     "리눅스 명령어 및 스크립트 실행 가능"
+    ],
+    "howToStart": [
+     "F-Droid나 깃허브에서 앱을 내려받아 설치합니다.",
+     "앱을 열어 기본 터미널 환경을 실행합니다.",
+     "패키지 관리 명령어로 필요한 도구를 설치해 사용합니다."
+    ],
+    "praise": [
+     {
+      "text": "안드로이드에서 쓸 만한 유일한 터미널 에뮬레이터입니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=47047063",
+      "date": "2026-02-17",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "최신 안드로이드 버전에서 백그라운드 프로세스가 강제로 종료되는 문제가 있습니다.",
+      "source": "GitHub 이슈 #2366",
+      "url": "https://github.com/termux/termux-app/issues/2366",
+      "date": "2021-10-29",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2025-05-22예요",
+      "url": "https://github.com/termux/termux-app/releases"
+     },
+     {
+      "text": "안드로이드 12 이상에서는 백그라운드 프로세스 제한으로 인해 터미널 작업이 강제 종료될 수 있습니다.",
+      "url": "https://github.com/termux/termux-app#readme"
+     },
+     {
+      "text": "서로 다른 경로에서 받은 앱이나 플러그인은 서명이 달라 함께 설치할 수 없습니다.",
+      "url": "https://github.com/termux/termux-app#readme"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "v0.118.3",
+   "score": 6.3127
+  },
+  {
    "repo": "bggRGjQaUbCoE/PiliPlus",
    "name": "PiliPlus",
    "owner": "bggRGjQaUbCoE",
    "avatarUrl": "https://avatars.githubusercontent.com/u/114972867?v=4",
-   "stars": 20915,
+   "stars": 20916,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1923,6 +2293,7 @@
    "latestTag": "2.2.1",
    "latestDate": "2026-11-14",
    "apkCount": 3,
+   "description": "PiliPlus",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1951,6 +2322,9 @@
    "latestTag": "v14.1.0",
    "latestDate": "2026-11-11",
    "apkCount": 1,
+   "description": "Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-",
+   "summaryKo": "다양한 플레이어와 자막, 필터, 워터마크를 지원하는 비디오 플레이어",
+   "summarySrc": "Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -1982,11 +2356,91 @@
    "latestTag": "v1.80.1",
    "latestDate": "2026-11-11",
    "apkCount": 1,
+   "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
+   "summaryKo": "안드로이드, iOS, 리눅스 등을 지원하는 실시간 물리 기반 렌더링 엔진",
+   "summarySrc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
    "score": 6.2896
+  },
+  {
+   "repo": "nextcloud/notes-android",
+   "name": "notes-android",
+   "owner": "nextcloud",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/19211038?v=4",
+   "stars": 1115,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "android-client",
+    "java",
+    "nextcloud",
+    "nextcloud-notes",
+    "notebook",
+    "notes",
+    "screenshot",
+    "widget"
+   ],
+   "latestTag": "35.0.0",
+   "latestDate": "2026-09-16",
+   "apkCount": 1,
+   "description": "✎ Android client for Nextcloud Notes app.",
+   "summaryKo": "넥스트클라우드와 연동하는 안드로이드 메모 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/nextcloud/notes-android/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/nextcloud/notes-android/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/nextcloud/notes-android/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+    "https://raw.githubusercontent.com/nextcloud/notes-android/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png",
+    "https://raw.githubusercontent.com/nextcloud/notes-android/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png",
+    "https://raw.githubusercontent.com/nextcloud/notes-android/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png"
+   ],
+   "card": {
+    "oneLiner": "넥스트클라우드와 연동하는 안드로이드 메모 앱",
+    "forWhom": "넥스트클라우드를 직접 구축해 사용하는 분",
+    "features": [
+     "여러 계정 등록 및 메모 목록 관리",
+     "마크다운 지원 및 다크 모드",
+     "위젯으로 홈화면에서 바로 보기"
+    ],
+    "howToStart": [
+     "넥스트클라우드 서버와 Notes 앱을 준비합니다.",
+     "앱을 내려받고 내 계정 정보를 입력해 로그인합니다.",
+     "서버와 메모를 동기화하여 작성하고 관리합니다."
+    ],
+    "praise": [
+     {
+      "text": "구글 킵 대신 쓸 수 있는 오픈소스 대안입니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.world/post/2788639",
+      "date": "2023-08-07",
+      "old": true
+     }
+    ],
+    "complaints": [],
+    "cautions": [
+     {
+      "text": "메모에 넣은 이미지가 보이지 않는 문제가 있습니다.",
+      "url": "https://github.com/nextcloud/notes-android/issues/1051"
+     },
+     {
+      "text": "검색 시 앱이 강제로 닫힐 수 있습니다.",
+      "url": "https://github.com/nextcloud/notes-android/issues/1833"
+     },
+     {
+      "text": "동기화 과정에서 오류가 발생할 수 있습니다.",
+      "url": "https://github.com/nextcloud/notes-android/issues/3442"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "notes-tasks"
+   ],
+   "cardTag": "35.0.0",
+   "score": 6.2134
   },
   {
    "repo": "open-ani/animeko",
@@ -2019,6 +2473,9 @@
    "latestTag": "v6.4.0",
    "latestDate": "2026-10-24",
    "apkCount": 8,
+   "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
+   "summaryKo": "애니메이션 검색, 시청, 클라우드 동기화 및 오프라인 캐시를 지원하는 플랫폼",
+   "summarySrc": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2057,6 +2514,9 @@
    "latestTag": "2026.11.11-39-android",
    "latestDate": "2026-11-11",
    "apkCount": 1,
+   "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+   "summaryKo": "광고와 추적이 없는 여행자용 무료 오프라인 지도 앱",
+   "summarySrc": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2089,6 +2549,9 @@
    "latestTag": "v0.3.18.252432",
    "latestDate": "2026-11-12",
    "apkCount": 5,
+   "description": "Free implementation of Play Services",
+   "summaryKo": "플레이 서비스의 오픈소스 구현 버전",
+   "summarySrc": "Free implementation of Play Services",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2100,7 +2563,7 @@
    "name": "Metrolist",
    "owner": "MetrolistGroup",
    "avatarUrl": "https://avatars.githubusercontent.com/u/260068764?v=4",
-   "stars": 14446,
+   "stars": 14448,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2119,11 +2582,14 @@
    "latestTag": "v14.0.0",
    "latestDate": "2026-11-14",
    "apkCount": 2,
+   "description": "Material Design YouTube Music client for Android, iOS and desktop",
+   "summaryKo": "안드로이드, iOS, 데스크톱용 머티리얼 디자인 유튜브 뮤직 클라이언트",
+   "summarySrc": "Material Design YouTube Music client for Android, iOS and desktop",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 6.1488
+   "score": 6.1489
   },
   {
    "repo": "tiann/KernelSU",
@@ -2142,6 +2608,9 @@
    "latestTag": "v3.3.1",
    "latestDate": "2026-10-12",
    "apkCount": 1,
+   "description": "A Kernel based root solution for Android",
+   "summaryKo": "커널 기반의 안드로이드 루트 솔루션",
+   "summarySrc": "A Kernel based root solution for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2164,6 +2633,9 @@
    "latestTag": "K9MAIL_25_0",
    "latestDate": "2026-11-10",
    "apkCount": 1,
+   "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
+   "summaryKo": "안드로이드용 오픈소스 이메일 앱",
+   "summarySrc": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2187,6 +2659,9 @@
    "latestTag": "0.9.114",
    "latestDate": "2026-11-08",
    "apkCount": 4,
+   "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
+   "summaryKo": "프록시 없이 직접 연결과 동화 감상을 지원하는 픽시브 클라이언트",
+   "summarySrc": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2198,7 +2673,7 @@
    "name": "Unciv",
    "owner": "yairm210",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?v=4",
-   "stars": 11587,
+   "stars": 11588,
    "license": "MPL-2.0",
    "topics": [
     "4x",
@@ -2215,6 +2690,9 @@
    "latestTag": "5.0.0",
    "latestDate": "2026-11-12",
    "apkCount": 1,
+   "description": "Open-source Android/Desktop remake of Civ V",
+   "summaryKo": "문명 5의 오픈소스 안드로이드 및 데스크톱 리메이크 버전",
+   "summarySrc": "Open-source Android/Desktop remake of Civ V",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2226,12 +2704,14 @@
    "name": "Shizuku",
    "owner": "RikkaApps",
    "avatarUrl": "https://avatars.githubusercontent.com/u/31959043?v=4",
-   "stars": 33784,
+   "stars": 33785,
    "license": "Apache-2.0",
    "topics": [],
    "latestTag": "v13.6.0",
    "latestDate": "2025-05-25",
    "apkCount": 1,
+   "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+   "summaryKo": "루팅 없이도 앱에 시스템 수준 권한을 안전하게 연결해 주는 도구",
    "screenshots": [],
    "card": {
     "oneLiner": "루팅 없이도 앱에 시스템 수준 권한을 안전하게 연결해 주는 도구",
@@ -2306,7 +2786,7 @@
    "name": "cloudstream",
    "owner": "recloudstream",
    "avatarUrl": "https://avatars.githubusercontent.com/u/110591699?v=4",
-   "stars": 11312,
+   "stars": 11314,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2319,18 +2799,21 @@
    "latestTag": "v4.9.1",
    "latestDate": "2026-11-09",
    "apkCount": 1,
+   "description": "Android app for streaming and downloading media.",
+   "summaryKo": "미디어 스트리밍 및 다운로드를 위한 안드로이드 앱",
+   "summarySrc": "Android app for streaming and downloading media.",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 6.0152
+   "score": 6.0153
   },
   {
    "repo": "MorpheApp/morphe-manager",
    "name": "morphe-manager",
    "owner": "MorpheApp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/246280111?v=4",
-   "stars": 10474,
+   "stars": 10475,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2344,6 +2827,9 @@
    "latestTag": "v2.6.0",
    "latestDate": "2026-11-15",
    "apkCount": 1,
+   "description": "Morphe app patcher for Android",
+   "summaryKo": "안드로이드용 모피 앱 패처",
+   "summarySrc": "Morphe app patcher for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2367,6 +2853,8 @@
    "latestTag": "8.3.18",
    "latestDate": "2026-05-03",
    "apkCount": 1,
+   "description": "backup manager for android",
+   "summaryKo": "안드로이드 기기에서 앱과 데이터를 백업하고 복원하는 오픈소스 도구",
    "screenshots": [
     "https://raw.githubusercontent.com/NeoApplications/Neo-Backup/main/fastlane/metadata/android/en-US/images/phoneScreenshots/batch.png",
     "https://raw.githubusercontent.com/NeoApplications/Neo-Backup/main/fastlane/metadata/android/en-US/images/phoneScreenshots/details.png",
@@ -2463,6 +2951,8 @@
    "latestTag": "v1.13.1",
    "latestDate": "2024-10-16",
    "apkCount": 5,
+   "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+   "summaryKo": "다양한 영상 플랫폼의 영상과 오디오를 기기에 내려받는 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
     "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg",
@@ -2544,7 +3034,7 @@
    "name": "Mika",
    "owner": "wangzan101",
    "avatarUrl": "https://avatars.githubusercontent.com/u/102038245?v=4",
-   "stars": 8744,
+   "stars": 8748,
    "license": "Apache-2.0",
    "topics": [
     "accessibility",
@@ -2559,11 +3049,14 @@
    "latestTag": "v0.1.44",
    "latestDate": "2026-11-15",
    "apkCount": 2,
+   "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+   "summaryKo": "앱과 웹을 조작해 작업을 수행하는 온디바이스 AI 에이전트",
+   "summarySrc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.9363
+   "score": 5.9365
   },
   {
    "repo": "lollipopkit/flutter_server_box",
@@ -2592,6 +3085,9 @@
    "latestTag": "v1.0.1925",
    "latestDate": "2026-11-11",
    "apkCount": 3,
+   "description": "ServerBox - high performance server toolbox app & server written in Flutter & Rust.",
+   "summaryKo": "Flutter와 Rust로 작성된 고성능 서버 도구 상자 앱",
+   "summarySrc": "ServerBox - high performance server toolbox app & server written in Flutter & Rust.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2626,6 +3122,9 @@
    "latestTag": "v1.8.26",
    "latestDate": "2026-11-16",
    "apkCount": 3,
+   "description": "bika 哔咔 全平台客户端。A comic browser，support Android / iOS / MacOS / Windows / Linux.",
+   "summaryKo": "만화 브라우저 전 플랫폼 클라이언트",
+   "summarySrc": "bika 哔咔 全平台客户端。A comic browser，support Android / iOS / MacOS / Windows / Linux.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2652,6 +3151,9 @@
    "latestTag": "v2.25.3",
    "latestDate": "2026-10-17",
    "apkCount": 11,
+   "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+   "summaryKo": "안드로이드용 안키 플래시카드 앱",
+   "summarySrc": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2663,7 +3165,7 @@
    "name": "rikkahub",
    "owner": "rikkahub",
    "avatarUrl": "https://avatars.githubusercontent.com/u/211976783?v=4",
-   "stars": 8886,
+   "stars": 8887,
    "license": "AGPL-3.0",
    "topics": [
     "agent",
@@ -2680,6 +3182,9 @@
    "latestTag": "3.2.0",
    "latestDate": "2026-11-10",
    "apkCount": 1,
+   "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
+   "summaryKo": "여러 LLM 제공자를 지원하는 안드로이드 앱",
+   "summarySrc": "RikkaHub is an Android APP that supports for multiple LLM providers.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2691,7 +3196,7 @@
    "name": "android-ad-cleaner",
    "owner": "rddmwmddr",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5119232?v=4",
-   "stars": 8160,
+   "stars": 8161,
    "license": "MIT",
    "topics": [
     "adb",
@@ -2706,11 +3211,14 @@
    "latestTag": "v0.4.4",
    "latestDate": "2026-11-13",
    "apkCount": 1,
+   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+   "summaryKo": "안드로이드 폰의 광고와 마케팅 푸시를 차단하는 도구",
+   "summarySrc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.8953
+   "score": 5.8954
   },
   {
    "repo": "margelo/react-native-vision-camera",
@@ -2744,6 +3252,9 @@
    "latestTag": "v5.2.4",
    "latestDate": "2026-10-29",
    "apkCount": 1,
+   "description": "📸 A powerful, high-performance React Native Camera library.",
+   "summaryKo": "강력하고 고성능인 React Native 카메라 라이브러리",
+   "summarySrc": "📸 A powerful, high-performance React Native Camera library.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2767,6 +3278,8 @@
    "latestTag": "v2026.10.1-bwpm",
    "latestDate": "2026-10-29",
    "apkCount": 2,
+   "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+   "summaryKo": "안드로이드에서 비밀번호를 안전하게 보관하고 자동으로 입력하는 앱",
    "screenshots": [],
    "card": {
     "oneLiner": "안드로이드에서 비밀번호를 안전하게 보관하고 자동으로 입력하는 앱",
@@ -2831,6 +3344,9 @@
    "latestTag": "v2.3.2",
    "latestDate": "2026-10-17",
    "apkCount": 2,
+   "description": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
+   "summaryKo": "장기적인 긍정적 습관을 만들고 유지하기 위한 습관 추적기 앱",
+   "summarySrc": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2857,6 +3373,9 @@
    "latestTag": "v5.3.1",
    "latestDate": "2026-11-05",
    "apkCount": 2,
+   "description": "Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.",
+   "summaryKo": "Flutter와 Rust로 제작된 모바일 음악 유틸리티",
+   "summarySrc": "Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2895,6 +3414,9 @@
    "latestTag": "v20270101",
    "latestDate": "2026-09-14",
    "apkCount": 1,
+   "description": "A cross-platform programmable network tool",
+   "summaryKo": "크로스플랫폼 프로그래밍 가능 네트워크 도구",
+   "summarySrc": "A cross-platform programmable network tool",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2916,6 +3438,9 @@
    "latestTag": "v2.8.8",
    "latestDate": "2026-11-11",
    "apkCount": 1,
+   "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
+   "summaryKo": "휴대폰에서 실행되는 완전한 APK 워크숍 웹 투 앱 도구",
+   "summarySrc": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2927,7 +3452,7 @@
    "name": "dashbeam",
    "owner": "tonyantony300",
    "avatarUrl": "https://avatars.githubusercontent.com/u/54979586?v=4",
-   "stars": 10338,
+   "stars": 10340,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -2946,6 +3471,9 @@
    "latestTag": "v0.7.2",
    "latestDate": "2026-10-14",
    "apkCount": 3,
+   "description": "Share files nearby and beyond.",
+   "summaryKo": "주변 및 원격으로 파일 공유",
+   "summarySrc": "Share files nearby and beyond.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2968,6 +3496,9 @@
    "latestTag": "2.5.5.1",
    "latestDate": "2026-11-08",
    "apkCount": 1,
+   "description": "An app to view libraries used in apps in your device.",
+   "summaryKo": "기기 내 앱에 사용된 라이브러리를 확인하는 앱",
+   "summarySrc": "An app to view libraries used in apps in your device.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -2979,7 +3510,7 @@
    "name": "ImageToolbox",
    "owner": "T8RIN",
    "avatarUrl": "https://avatars.githubusercontent.com/u/52178347?v=4",
-   "stars": 15576,
+   "stars": 15577,
    "license": "Apache-2.0",
    "topics": [
     "ai",
@@ -3006,6 +3537,9 @@
    "latestTag": "4.2.0",
    "latestDate": "2026-09-04",
    "apkCount": 8,
+   "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
+   "summaryKo": "자르기, 필터, OCR 등 다양한 이미지 편집 기능을 제공하는 도구 앱",
+   "summarySrc": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3033,6 +3567,9 @@
    "latestTag": "v1.0.4",
    "latestDate": "2026-11-10",
    "apkCount": 1,
+   "description": "SoloPi 自动化测试工具",
+   "summaryKo": "SoloPi 자동화 테스트 도구",
+   "summarySrc": "SoloPi 自动化测试工具",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3056,6 +3593,9 @@
    "latestTag": "v4.1.0",
    "latestDate": "2026-10-29",
    "apkCount": 1,
+   "description": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!",
+   "summaryKo": "루트 권한 없이 안드로이드 앱을 제거하는 도구",
+   "summarySrc": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3067,7 +3607,7 @@
    "name": "sdmaid-se",
    "owner": "d4rken-org",
    "avatarUrl": "https://avatars.githubusercontent.com/u/109539113?v=4",
-   "stars": 8087,
+   "stars": 8089,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3080,11 +3620,14 @@
    "latestTag": "v2.2.2-rc0",
    "latestDate": "2026-10-19",
    "apkCount": 1,
+   "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
+   "summaryKo": "안드로이드의 가장 철저한 청소 도구",
+   "summarySrc": "SD Maid 2/SE is Android's most thorough cleaning tool.",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.7544
+   "score": 5.7545
   },
   {
    "repo": "SuperMonster003/AutoJs6",
@@ -3104,6 +3647,9 @@
    "latestTag": "v6.8.0",
    "latestDate": "2026-11-03",
    "apkCount": 5,
+   "description": "安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)",
+   "summaryKo": "안드로이드 플랫폼 JavaScript 자동화 도구",
+   "summarySrc": "安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3134,6 +3680,9 @@
    "latestTag": "v1.78.3",
    "latestDate": "2026-11-10",
    "apkCount": 2,
+   "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
+   "summaryKo": "API를 통해 문자를 송수신할 수 있는 안드로이드 SMS 게이트웨이",
+   "summarySrc": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3145,7 +3694,7 @@
    "name": "APatch",
    "owner": "bmax121",
    "avatarUrl": "https://avatars.githubusercontent.com/u/12316019?v=4",
-   "stars": 8178,
+   "stars": 8179,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3159,6 +3708,9 @@
    "latestTag": "11282",
    "latestDate": "2026-10-15",
    "apkCount": 1,
+   "description": "The patching of Android kernel and Android system",
+   "summaryKo": "안드로이드 커널 및 시스템 패치 도구",
+   "summarySrc": "The patching of Android kernel and Android system",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3182,6 +3734,9 @@
    "latestTag": "v5.5.0",
    "latestDate": "2026-10-21",
    "apkCount": 4,
+   "description": "An open-source Android app to let you browse YouTube and other services freely.",
+   "summaryKo": "유튜브 및 기타 서비스를 자유롭게 탐색하는 오픈소스 안드로이드 앱",
+   "summarySrc": "An open-source Android app to let you browse YouTube and other services freely.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3216,6 +3771,9 @@
    "latestTag": "v1.15.10",
    "latestDate": "2026-11-10",
    "apkCount": 7,
+   "description": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
+   "summaryKo": "Flutter로 제작된 안드로이드 갤러리 및 메타데이터 탐색기",
+   "summarySrc": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3239,6 +3797,7 @@
    "latestTag": "nightly",
    "latestDate": "2026-11-15",
    "apkCount": 2,
+   "description": "Termux X-server add-on.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3250,7 +3809,7 @@
    "name": "jev-chat-jarvis",
    "owner": "jev-chat",
    "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
-   "stars": 8402,
+   "stars": 8403,
    "license": "MIT",
    "topics": [
     "accessibility-service",
@@ -3266,6 +3825,9 @@
    "latestTag": "v1.7",
    "latestDate": "2026-10-05",
    "apkCount": 1,
+   "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
+   "summaryKo": "상대의 의도와 위험을 파악하고 답장을 작성해주는 채팅 보조 도구",
+   "summarySrc": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3298,6 +3860,9 @@
    "latestTag": "v1.37.2",
    "latestDate": "2026-11-13",
    "apkCount": 2,
+   "description": "The cross-platform open-source app built for handwriting",
+   "summaryKo": "필기를 위해 제작된 크로스플랫폼 오픈소스 앱",
+   "summarySrc": "The cross-platform open-source app built for handwriting",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3320,6 +3885,9 @@
    "latestTag": "v8.3.5",
    "latestDate": "2026-11-04",
    "apkCount": 2,
+   "description": "A Reddit client for Android",
+   "summaryKo": "안드로이드용 레딧 클라이언트",
+   "summarySrc": "A Reddit client for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3355,6 +3923,9 @@
    "latestTag": "v1.0.0",
    "latestDate": "2026-11-13",
    "apkCount": 1,
+   "description": "A human-centric, resource-aware Android node for edge computing and federated learning. Orchestrates distributed intelligence with privacy-first localization and empathetic hardware management.",
+   "summaryKo": "엣지 컴퓨팅과 연합 학습을 위한 인간 중심의 리소스 인식 안드로이드 노드",
+   "summarySrc": "A human-centric, resource-aware Android node for edge computing and federated learning. Orchestrates distributed intelligence with privacy-first localization and empathetic hardware management.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3378,6 +3949,7 @@
    "latestTag": "5.303.0",
    "latestDate": "2026-11-12",
    "apkCount": 1,
+   "description": "DuckDuckGo Android App",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3409,6 +3981,9 @@
    "latestTag": "v0.21.0",
    "latestDate": "2026-11-14",
    "apkCount": 5,
+   "description": "An Android native video player",
+   "summaryKo": "안드로이드 네이티브 비디오 플레이어",
+   "summarySrc": "An Android native video player",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3432,6 +4007,9 @@
    "latestTag": "1.2341",
    "latestDate": "2026-11-13",
    "apkCount": 2,
+   "description": "Fully featured, open source, privacy friendly email app for Android",
+   "summaryKo": "기능이 풍부하고 프라이버시를 보호하는 안드로이드 오픈소스 이메일 앱",
+   "summarySrc": "Fully featured, open source, privacy friendly email app for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3443,7 +4021,7 @@
    "name": "Operit",
    "owner": "AAswordman",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66207760?v=4",
-   "stars": 9628,
+   "stars": 9629,
    "license": "LGPL-3.0",
    "topics": [
     "agent",
@@ -3459,6 +4037,9 @@
    "latestTag": "v1.12.2",
    "latestDate": "2026-09-18",
    "apkCount": 1,
+   "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
+   "summaryKo": "안드로이드의 강력한 AI 에이전트 및 채팅 소프트웨어",
+   "summarySrc": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3483,6 +4064,9 @@
    "latestTag": "v6.6.5",
    "latestDate": "2026-11-11",
    "apkCount": 5,
+   "description": "NOVA opeN sOurce Video plAyer: main repository to build them all",
+   "summaryKo": "오픈소스 비디오 플레이어 NOVA의 메인 저장소",
+   "summarySrc": "NOVA opeN sOurce Video plAyer: main repository to build them all",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3510,6 +4094,9 @@
    "latestTag": "stable-35.0.2",
    "latestDate": "2026-10-28",
    "apkCount": 2,
+   "description": "📱 Nextcloud Android app",
+   "summaryKo": "넥스트클라우드 안드로이드 앱",
+   "summarySrc": "📱 Nextcloud Android app",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3539,6 +4126,9 @@
    "latestTag": "v1.3.6",
    "latestDate": "2026-11-15",
    "apkCount": 3,
+   "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
+   "summaryKo": "모바일과 데스크톱을 지원하는 Flutter LLM 채팅 클라이언트",
+   "summarySrc": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3575,6 +4165,9 @@
    "latestTag": "17.0",
    "latestDate": "2026-10-11",
    "apkCount": 1,
+   "description": "Android 技术中台，但愿人长久，搬砖不再有",
+   "summaryKo": "안드로이드 기술 플랫폼 프로젝트",
+   "summarySrc": "Android 技术中台，但愿人长久，搬砖不再有",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3598,6 +4191,9 @@
    "latestTag": "v0.20.0",
    "latestDate": "2026-11-10",
    "apkCount": 2,
+   "description": "Android TV Client for Jellyfin",
+   "summaryKo": "Jellyfin용 안드로이드 TV 클라이언트",
+   "summarySrc": "Android TV Client for Jellyfin",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3630,6 +4226,9 @@
    "latestTag": "v0.9.96",
    "latestDate": "2026-11-14",
    "apkCount": 6,
+   "description": "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
+   "summaryKo": "만화, 소설, 애니메이션을 즐길 수 있는 안드로이드, iOS 등 멀티플랫폼 앱",
+   "summarySrc": "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3659,6 +4258,9 @@
    "latestTag": "v3.11.4",
    "latestDate": "2026-10-15",
    "apkCount": 1,
+   "description": "Material design file manager for Android",
+   "summaryKo": "머티리얼 디자인 안드로이드 파일 관리자",
+   "summarySrc": "Material design file manager for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3683,6 +4285,8 @@
    "latestTag": "android/2026.12",
    "latestDate": "2026-09-30",
    "apkCount": 1,
+   "description": "The Mullvad VPN client app for desktop and mobile",
+   "summaryKo": "안전하고 사생활을 지켜주는 오픈소스 VPN 앱입니다.",
    "screenshots": [],
    "card": {
     "oneLiner": "안전하고 사생활을 지켜주는 오픈소스 VPN 앱입니다.",
@@ -3726,6 +4330,9 @@
    "latestTag": "v1.15-r6",
    "latestDate": "2026-10-15",
    "apkCount": 10,
+   "description": "Password manager app for Android",
+   "summaryKo": "안드로이드용 비밀번호 관리 앱",
+   "summarySrc": "Password manager app for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3743,6 +4350,9 @@
    "latestTag": "v4.2",
    "latestDate": "2026-10-12",
    "apkCount": 3,
+   "description": "Customizable and privacy-conscious open-source keyboard",
+   "summaryKo": "사용자 맞춤 설정이 가능하고 프라이버시를 존중하는 오픈소스 키보드",
+   "summarySrc": "Customizable and privacy-conscious open-source keyboard",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3773,6 +4383,9 @@
    "latestTag": "8.1.1",
    "latestDate": "2026-08-04",
    "apkCount": 1,
+   "description": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
+   "summaryKo": "학습과 실사용에 적합한 완성도 높은 플러터 오픈소스 프로젝트",
+   "summarySrc": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3800,6 +4413,7 @@
    "latestTag": "26.09",
    "latestDate": "2026-09-30",
    "apkCount": 1,
+   "description": "More Expressive InstallerX !",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3820,6 +4434,9 @@
    "latestTag": "v.1.8.2",
    "latestDate": "2026-10-02",
    "apkCount": 5,
+   "description": "Приложение локально запускает ByeDPI и перенаправляет весь трафик через него",
+   "summaryKo": "로컬에서 ByeDPI를 실행하고 트래픽을 우회하는 앱",
+   "summarySrc": "Приложение локально запускает ByeDPI и перенаправляет весь трафик через него",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3844,6 +4461,9 @@
    "latestTag": "v4.0.2",
    "latestDate": "2026-10-07",
    "apkCount": 2,
+   "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+   "summaryKo": "무작위 레벨과 적이 등장하는 전통 로그라이크 던전 크롤러",
+   "summarySrc": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3868,6 +4488,9 @@
    "latestTag": "v3.3.13",
    "latestDate": "2026-11-01",
    "apkCount": 4,
+   "description": "同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android",
+   "summaryKo": "안드로이드용 Rime 입력기 엔진 플랫폼",
+   "summarySrc": "同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3889,6 +4512,9 @@
    "latestTag": "v0.29.1.1817",
    "latestDate": "2026-10-11",
    "apkCount": 4,
+   "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+   "summaryKo": "공식 대체 텔레그램 클라이언트",
+   "summarySrc": "The main repository of Telegram X — official alternative Telegram client for Android.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3900,7 +4526,7 @@
    "name": "nectarlink",
    "owner": "thtbee",
    "avatarUrl": "https://avatars.githubusercontent.com/u/302257494?v=4",
-   "stars": 4492,
+   "stars": 4496,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -3917,11 +4543,14 @@
    "latestTag": "v0.1.5",
    "latestDate": "2026-11-05",
    "apkCount": 1,
+   "description": "Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.",
+   "summaryKo": "안드로이드폰과 PC를 하나처럼 연결하는 로컬 우선 암호화 앱",
+   "summarySrc": "Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.5923
+   "score": 5.5926
   },
   {
    "repo": "czy0729/Bangumi",
@@ -3946,6 +4575,9 @@
    "latestTag": "8.41.3",
    "latestDate": "2026-10-09",
    "apkCount": 1,
+   "description": ":electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。",
+   "summaryKo": "모바일용 비공식 bgm.tv 애니메이션 기록 클라이언트",
+   "summarySrc": ":electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -3981,6 +4613,9 @@
    "latestTag": "v1.7.0",
    "latestDate": "2026-11-01",
    "apkCount": 4,
+   "description": "📱 Two-Factor Authentication (2FA) client for Android + Wear OS",
+   "summaryKo": "안드로이드 및 Wear OS용 2단계 인증(2FA) 클라이언트",
+   "summarySrc": "📱 Two-Factor Authentication (2FA) client for Android + Wear OS",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4004,6 +4639,9 @@
    "latestTag": "v0.55.2",
    "latestDate": "2026-10-16",
    "apkCount": 2,
+   "description": "A modern Jellyfin client built with Expo",
+   "summaryKo": "Expo로 빌드한 모던한 Jellyfin 클라이언트",
+   "summarySrc": "A modern Jellyfin client built with Expo",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4015,7 +4653,7 @@
    "name": "zhihu-plus-plus",
    "owner": "zly2006",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66198935?v=4",
-   "stars": 4482,
+   "stars": 4483,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -4025,11 +4663,14 @@
    "latestTag": "0.31.1",
    "latestDate": "2026-10-23",
    "apkCount": 2,
+   "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
+   "summaryKo": "광고가 없고 AI 기능이 포함된 서드파티 지후 안드로이드 클라이언트",
+   "summarySrc": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 5.5201
+   "score": 5.5202
   },
   {
    "repo": "namidaco/namida",
@@ -4053,6 +4694,9 @@
    "latestTag": "v7.1.2",
    "latestDate": "2026-09-19",
    "apkCount": 2,
+   "description": "A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter",
+   "summaryKo": "유튜브를 지원하는 아름답고 기능이 풍부한 음악 및 비디오 플레이어",
+   "summarySrc": "A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4074,6 +4718,9 @@
    "latestTag": "v1.2.0",
    "latestDate": "2026-10-25",
    "apkCount": 4,
+   "description": "Third-party native Jellyfin Android app",
+   "summaryKo": "서드파티 네이티브 Jellyfin 안드로이드 앱",
+   "summarySrc": "Third-party native Jellyfin Android app",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4097,6 +4744,8 @@
    "latestTag": "v0.5.2",
    "latestDate": "2025-11-28",
    "apkCount": 2,
+   "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
+   "summaryKo": "개인정보를 보호하는 안드로이드 오픈소스 키보드 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/florisboard/florisboard/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
     "https://raw.githubusercontent.com/florisboard/florisboard/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
@@ -4186,6 +4835,9 @@
    "latestTag": "v3.4.2",
    "latestDate": "2026-10-13",
    "apkCount": 2,
+   "description": "An advanced Kernel based root solution for Android",
+   "summaryKo": "안드로이드를 위한 고급 커널 기반 루트 솔루션",
+   "summarySrc": "An advanced Kernel based root solution for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4213,6 +4865,7 @@
    "latestTag": "2.0.0",
    "latestDate": "2026-09-15",
    "apkCount": 1,
+   "description": "A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4239,6 +4892,7 @@
    "latestTag": "5.20.98.0",
    "latestDate": "2026-10-22",
    "apkCount": 2,
+   "description": "Official ProtonVPN Android app",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4277,6 +4931,9 @@
    "latestTag": "v3.3.25",
    "latestDate": "2026-09-11",
    "apkCount": 2,
+   "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+   "summaryKo": "웹 브라우저로 안드로이드폰을 안전하게 관리하는 오픈소스 앱",
+   "summarySrc": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4300,6 +4957,8 @@
    "latestTag": "v6.1.4",
    "latestDate": "2024-10-27",
    "apkCount": 1,
+   "description": "AdAway is a free and open source ad blocker for Android.",
+   "summaryKo": "호스트 파일과 로컬 VPN을 이용해 기기 전체 광고를 막는 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot1.png",
     "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot2.png",
@@ -4405,6 +5064,9 @@
    "latestTag": "15.3.0",
    "latestDate": "2026-10-13",
    "apkCount": 1,
+   "description": "AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose Multiplatform environments",
+   "summaryKo": "그레이들 프로젝트의 모든 종속성과 라이선스를 수집하고 UI 컴포넌트를 제공하는 라이브러리",
+   "summarySrc": "AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose Multiplatform environments",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4430,6 +5092,9 @@
    "latestTag": "v1.11.0",
    "latestDate": "2026-08-26",
    "apkCount": 1,
+   "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
+   "summaryKo": "루트 없이 안드로이드 앱을 비활성화, 숨기기, 중지, 제거",
+   "summarySrc": "Disable / Hide / Suspend / Uninstall Android apps without root.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4460,6 +5125,9 @@
    "latestTag": "v2.0.2",
    "latestDate": "2026-09-20",
    "apkCount": 1,
+   "description": "No-root network monitor, firewall and PCAP dumper for Android",
+   "summaryKo": "루팅이 필요 없는 안드로이드 네트워크 모니터, 방화벽 및 PCAP 덤퍼",
+   "summarySrc": "No-root network monitor, firewall and PCAP dumper for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4482,6 +5150,9 @@
    "latestTag": "v1.41.0",
    "latestDate": "2026-09-15",
    "apkCount": 1,
+   "description": "A search-focused Android launcher",
+   "summaryKo": "검색에 중점을 둔 안드로이드 런처",
+   "summarySrc": "A search-focused Android launcher",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4493,7 +5164,7 @@
    "name": "revanced-manager",
    "owner": "ReVanced",
    "avatarUrl": "https://avatars.githubusercontent.com/u/101597779?v=4",
-   "stars": 30184,
+   "stars": 30185,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4506,6 +5177,9 @@
    "latestTag": "v2.6.0",
    "latestDate": "2026-04-26",
    "apkCount": 1,
+   "description": "💊 Application to use ReVanced on Android",
+   "summaryKo": "안드로이드에서 리밴스드를 사용하기 위한 애플리케이션",
+   "summarySrc": "💊 Application to use ReVanced on Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4529,6 +5203,9 @@
    "latestTag": "17.9.7-RC-1-tor-0.4.9.14",
    "latestDate": "2026-10-09",
    "apkCount": 1,
+   "description": "The Github home of Orbot: Tor on Android (Also available on gitlab!)",
+   "summaryKo": "안드로이드에서 토르(Tor)를 사용할 수 있는 오르봇 깃허브 저장소",
+   "summarySrc": "The Github home of Orbot: Tor on Android (Also available on gitlab!)",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4556,6 +5233,8 @@
    "latestTag": "v1.8.11",
    "latestDate": "2026-01-29",
    "apkCount": 1,
+   "description": "Outliner for taking notes and managing to-do lists",
+   "summaryKo": "안드로이드에서 Org 모드 형식의 메모와 할 일을 관리하는 앱입니다.",
    "screenshots": [],
    "card": {
     "oneLiner": "안드로이드에서 Org 모드 형식의 메모와 할 일을 관리하는 앱입니다.",
@@ -4611,23 +5290,6 @@
    "score": 5.3557
   },
   {
-   "repo": "oliexdev/openScale",
-   "name": "openScale",
-   "owner": "oliexdev",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/10166185?v=4",
-   "stars": 2672,
-   "license": "GPL-3.0",
-   "topics": [],
-   "latestTag": "v3.1.4",
-   "latestDate": "2026-10-31",
-   "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 5.3393
-  },
-  {
    "repo": "z-huang/InnerTune",
    "name": "InnerTune",
    "owner": "z-huang",
@@ -4647,6 +5309,8 @@
    "latestTag": "v0.5.10",
    "latestDate": "2024-09-01",
    "apkCount": 5,
+   "description": "A Material 3 YouTube Music client for Android",
+   "summaryKo": "유튜브 음악을 광고 없이 감상하는 안드로이드 오픈소스 앱",
    "screenshots": [
     "https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png",
     "https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png",
@@ -4740,6 +5404,9 @@
    "latestTag": "1.7.5",
    "latestDate": "2026-08-15",
    "apkCount": 3,
+   "description": "Open-source engine for Heroes of Might and Magic III",
+   "summaryKo": "히어로즈 오브 마이트 앤 매직 3 오픈소스 엔진",
+   "summarySrc": "Open-source engine for Heroes of Might and Magic III",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4763,6 +5430,9 @@
    "latestTag": "v3.0.8",
    "latestDate": "2026-08-02",
    "apkCount": 4,
+   "description": "Share your VPN connection over hotspot or repeater! (root required)",
+   "summaryKo": "핫스팟이나 리피터를 통해 VPN 연결을 공유하는 앱",
+   "summarySrc": "Share your VPN connection over hotspot or repeater! (root required)",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4801,6 +5471,9 @@
    "latestTag": "v5.6.0",
    "latestDate": "2026-08-20",
    "apkCount": 2,
+   "description": "Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.",
+   "summaryKo": "안드로이드에서 아이콘 폰트나 벡터(.svg)를 드로어블로 사용하는 라이브러리",
+   "summarySrc": "Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4824,10 +5497,67 @@
    "latestTag": "1.6.4",
    "latestDate": "2026-11-07",
    "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
+   "description": "Easy app for managing your files without ads, respecting your privacy & security",
+   "summaryKo": "광고 없는 안드로이드 오픈소스 파일 관리자 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
+   ],
+   "card": {
+    "oneLiner": "광고 없는 안드로이드 오픈소스 파일 관리자 앱",
+    "forWhom": "광고 없이 기기 파일을 깔끔하고 안전하게 관리하고 싶은 사용자",
+    "features": [
+     "빠른 탐색과 파일 압축 및 전송 기능",
+     "비밀번호와 지문으로 중요한 파일 잠금",
+     "인터넷 연결 없이 기기에서 안전하게 작동"
+    ],
+    "howToStart": [
+     "구글 플레이 스토어 또는 F-Droid에서 Fossify File-Manager를 설치합니다.",
+     "앱을 실행하여 기기의 저장소 권한을 허용합니다.",
+     "폴더를 탐색하고 즐겨찾기와 검색 기능을 사용하여 파일을 관리합니다."
+    ],
+    "praise": [],
+    "complaints": [
+     {
+      "text": "구글 파일 앱과 달리 삭제한 파일이 휴지통으로 이동하지 않고 바로 영구 삭제되는 문제가 있습니다.",
+      "source": "GitHub 이슈 #89",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/89",
+      "date": "2024-04-28",
+      "old": true
+     },
+     {
+      "text": "지퍼 파일 압축 풀기 기능이 작동하지 않고 앱이 강제로 종료되는 현상이 발생합니다.",
+      "source": "GitHub 이슈 #526",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/526",
+      "date": "2026-11-14",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "일부 기기에서 /Android/data 및 /Android/obb 폴더에 접근하지 못하는 문제가 있을 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/16"
+     },
+     {
+      "text": "이름이 긴 파일의 경우 이름이 잘려서 표시될 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/72"
+     },
+     {
+      "text": "숨기기 해제 시 특정 이름의 파일 내용이 사라지는 오류가 보고되어 있습니다.",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/517"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "files-photos"
+   ],
+   "cardTag": "1.6.4",
    "score": 5.2251
   },
   {
@@ -4845,6 +5575,9 @@
    "latestTag": "1.14.0",
    "latestDate": "2026-05-13",
    "apkCount": 1,
+   "description": "[MAINTENANCE MODE] Modular and customizable Material Design UI components for Android",
+   "summaryKo": "안드로이드를 위한 모듈식 머티리얼 디자인 UI 컴포넌트",
+   "summarySrc": "[MAINTENANCE MODE] Modular and customizable Material Design UI components for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4873,6 +5606,9 @@
    "latestTag": "v7.0.3",
    "latestDate": "2026-08-13",
    "apkCount": 2,
+   "description": "Best Material You Design music player for Android",
+   "summaryKo": "최고의 안드로이드 머티리얼 유 디자인 음악 플레이어",
+   "summarySrc": "Best Material You Design music player for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4893,6 +5629,9 @@
    "latestTag": "v3.8.3",
    "latestDate": "2026-08-01",
    "apkCount": 1,
+   "description": "An Xposed module to intercept applist detections",
+   "summaryKo": "앱 목록 감지를 차단하는 Xposed 모듈",
+   "summarySrc": "An Xposed module to intercept applist detections",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -4919,43 +5658,14 @@
    "latestTag": "0.1.3",
    "latestDate": "2026-07-26",
    "apkCount": 37,
+   "description": "Fcitx5 input method framework and engines ported to Android",
+   "summaryKo": "안드로이드용 Fcitx5 입력기 프레임워크",
+   "summarySrc": "Fcitx5 input method framework and engines ported to Android",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
    "score": 5.1522
-  },
-  {
-   "repo": "quillpad/quillpad",
-   "name": "quillpad",
-   "owner": "quillpad",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/118094128?v=4",
-   "stars": 1426,
-   "license": "GPL-3.0",
-   "topics": [
-    "evernote",
-    "google-keep",
-    "joplin",
-    "keep",
-    "knowledge-management",
-    "markdown",
-    "nextcloud-notes",
-    "note-taking",
-    "notepad",
-    "notes",
-    "notes-app",
-    "privacy",
-    "tasks",
-    "todo-list"
-   ],
-   "latestTag": "v1.5.16",
-   "latestDate": "2026-11-11",
-   "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 5.127
   },
   {
    "repo": "spieglt/FlyingCarpet",
@@ -4984,6 +5694,9 @@
    "latestTag": "v10.0.0",
    "latestDate": "2026-07-26",
    "apkCount": 2,
+   "description": "Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.",
+   "summaryKo": "안드로이드, iOS, 리눅스, 맥OS, 윈도우 간의 기기 간 무선 파일 전송 앱",
+   "summarySrc": "Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5022,6 +5735,9 @@
    "latestTag": "v1.9.3",
    "latestDate": "2026-03-18",
    "apkCount": 4,
+   "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+   "summaryKo": "HTTP, 비트토렌트 등을 지원하는 빠르고 현대적인 다운로드 관리자",
+   "summarySrc": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5048,6 +5764,9 @@
    "latestTag": "v4.2.2",
    "latestDate": "2026-08-09",
    "apkCount": 5,
+   "description": "Click-to-run debian 13 with desktop environment on android!",
+   "summaryKo": "안드로이드에서 데스크톱 환경의 데비안 13을 클릭 한 번으로 실행하는 앱",
+   "summarySrc": "Click-to-run debian 13 with desktop environment on android!",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5083,6 +5802,9 @@
    "latestTag": "v4.1.5",
    "latestDate": "2026-08-04",
    "apkCount": 1,
+   "description": "A simple, rational music player for android",
+   "summaryKo": "안드로이드를 위한 심플하고 합리적인 음악 플레이어",
+   "summarySrc": "A simple, rational music player for android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5103,6 +5825,9 @@
    "latestTag": "v5.3.5-nightly",
    "latestDate": "2026-02-10",
    "apkCount": 2,
+   "description": "A shadowsocks client for Android",
+   "summaryKo": "안드로이드용 섀도우소క్స్ 클라이언트",
+   "summarySrc": "A shadowsocks client for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5136,6 +5861,9 @@
    "latestTag": "v1.14.1",
    "latestDate": "2026-07-17",
    "apkCount": 5,
+   "description": "Free and open source manga reader for Android",
+   "summaryKo": "안드로이드용 무료 오픈소스 만화 뷰어",
+   "summarySrc": "Free and open source manga reader for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5166,6 +5894,9 @@
    "latestTag": "28.3",
    "latestDate": "2026-06-21",
    "apkCount": 1,
+   "description": "Android Permissions Framework, Adapt to Android 17",
+   "summaryKo": "안드로이드 권한 프레임워크",
+   "summarySrc": "Android Permissions Framework, Adapt to Android 17",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5198,6 +5929,9 @@
    "latestTag": "web1.6.0",
    "latestDate": "2026-07-15",
    "apkCount": 1,
+   "description": "拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本",
+   "summaryKo": "기본 기능을 제공하는 카피만화 서드파티 앱",
+   "summarySrc": "拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5233,6 +5967,9 @@
    "latestTag": "v3.5.0",
    "latestDate": "2026-02-14",
    "apkCount": 5,
+   "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+   "summaryKo": "안드로이드 스마트폰의 문자, 통화, 알림을 모니터링하고 규칙에 따라 다른 곳으로 포워딩",
+   "summarySrc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5244,7 +5981,7 @@
    "name": "WiFiAnalyzer",
    "owner": "VREMSoftwareDevelopment",
    "avatarUrl": "https://avatars.githubusercontent.com/u/6217364?v=4",
-   "stars": 5100,
+   "stars": 5101,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5255,11 +5992,14 @@
    "latestTag": "V3.3.1-F-DROID",
    "latestDate": "2026-07-01",
    "apkCount": 1,
+   "description": "Android application to analyze Wi-Fi signals.",
+   "summaryKo": "Wi-Fi 신호를 분석하는 안드로이드 앱",
+   "summarySrc": "Android application to analyze Wi-Fi signals.",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
-   "score": 4.9515
+   "score": 4.9516
   },
   {
    "repo": "openboard-team/openboard",
@@ -5272,6 +6012,7 @@
    "latestTag": "v1.4.5",
    "latestDate": "2022-08-05",
    "apkCount": 1,
+   "summaryKo": "안드로이드 기본 자판을 바탕으로 만든 공개 소스 키보드 앱입니다.",
    "screenshots": [
     "https://raw.githubusercontent.com/openboard-team/openboard/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
     "https://raw.githubusercontent.com/openboard-team/openboard/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
@@ -5345,61 +6086,14 @@
    "latestTag": "1.4.2",
    "latestDate": "2026-02-09",
    "apkCount": 4,
+   "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+   "summaryKo": "안드로이드용 유니버설 프록시 툴체인 및 sing-box 클라이언트",
+   "summarySrc": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
    "score": 4.8376
-  },
-  {
-   "repo": "termux/termux-app",
-   "name": "termux-app",
-   "owner": "termux",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 64967,
-   "license": "NOASSERTION",
-   "topics": [
-    "android",
-    "hacktoberfest",
-    "linux",
-    "terminal",
-    "termux"
-   ],
-   "latestTag": "v0.118.3",
-   "latestDate": "2025-05-22",
-   "apkCount": 5,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 4.8127
-  },
-  {
-   "repo": "nextcloud/notes-android",
-   "name": "notes-android",
-   "owner": "nextcloud",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/19211038?v=4",
-   "stars": 1115,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "android-client",
-    "java",
-    "nextcloud",
-    "nextcloud-notes",
-    "notebook",
-    "notes",
-    "screenshot",
-    "widget"
-   ],
-   "latestTag": "35.0.0",
-   "latestDate": "2026-09-16",
-   "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 4.7134
   },
   {
    "repo": "tiajinsha/JKVideo",
@@ -5421,6 +6115,9 @@
    "latestTag": "v1.0.19",
    "latestDate": "2026-05-12",
    "apkCount": 1,
+   "description": "高颜值第三方 B 站 React Native 客户端",
+   "summaryKo": "깔끔한 디자인의 서드파티 빌리빌리 React Native 클라이언트",
+   "summarySrc": "高颜值第三方 B 站 React Native 客户端",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5453,6 +6150,9 @@
    "latestTag": "2.1.5",
    "latestDate": "2026-02-22",
    "apkCount": 1,
+   "description": "Open source real-time translation app for Android that runs locally",
+   "summaryKo": "로컬에서 실행되는 안드로이드용 오픈소스 실시간 번역 앱",
+   "summarySrc": "Open source real-time translation app for Android that runs locally",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5490,6 +6190,9 @@
    "latestTag": "V2.1.0",
    "latestDate": "2026-04-01",
    "apkCount": 1,
+   "description": "🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS",
+   "summaryKo": "안드로이드에서 GUI와 딥러닝을 지원하는 강력한 AIOT 개발 플랫폼",
+   "summarySrc": "🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5527,11 +6230,104 @@
    "latestTag": "1.17.0",
    "latestDate": "2026-04-21",
    "apkCount": 1,
+   "description": "All in one emulator on Android!",
+   "summaryKo": "안드로이드용 올인원 에뮬레이터",
+   "summarySrc": "All in one emulator on Android!",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
    "score": 4.5097
+  },
+  {
+   "repo": "readrops/Readrops",
+   "name": "Readrops",
+   "owner": "readrops",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/47304439?v=4",
+   "stars": 583,
+   "license": "GPL-3.0",
+   "topics": [
+    "agreggator",
+    "android",
+    "rss",
+    "rss-reader"
+   ],
+   "latestTag": "v2.1.1",
+   "latestDate": "2025-07-07",
+   "apkCount": 1,
+   "description": "Android multi-services RSS client",
+   "summaryKo": "안드로이드에서 여러 RSS 서비스를 연결해 쓰는 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/readrops/Readrops/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_1.jpg",
+    "https://raw.githubusercontent.com/readrops/Readrops/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_2.jpg",
+    "https://raw.githubusercontent.com/readrops/Readrops/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_3.jpg",
+    "https://raw.githubusercontent.com/readrops/Readrops/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_4.jpg",
+    "https://raw.githubusercontent.com/readrops/Readrops/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_5.jpg",
+    "https://raw.githubusercontent.com/readrops/Readrops/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_6.jpg"
+   ],
+   "card": {
+    "oneLiner": "안드로이드에서 여러 RSS 서비스를 연결해 쓰는 앱",
+    "forWhom": "뉴스나 블로그 피드를 모아서 보고 싶은 사용자",
+    "features": [
+     "로컬 RSS 및 외부 서비스 연동 지원",
+     "계정 여러 개 사용 및 폴더 관리 기능",
+     "OPML 파일 내보내기와 가져오기"
+    ],
+    "howToStart": [
+     "앱을 내려받고 실행합니다.",
+     "사용할 RSS 계정이나 로컬 피드를 추가합니다.",
+     "피드와 폴더를 정리하고 소식을 읽습니다."
+    ],
+    "praise": [
+     {
+      "text": "UI가 마음에 들고 멋진 작업입니다.",
+      "source": "GitHub 이슈 #62",
+      "url": "https://github.com/readrops/Readrops/issues/62",
+      "date": "2020-04-10",
+      "old": true
+     },
+     {
+      "text": "안드로이드에서 잘 쓰고 있는 고마운 앱입니다.",
+      "source": "GitHub 이슈 #238",
+      "url": "https://github.com/readrops/Readrops/issues/238",
+      "date": "2024-12-15",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "읽은 상태로 바뀐 기사를 실수로 넘기면 찾기 어렵습니다.",
+      "source": "GitHub 이슈 #238",
+      "url": "https://github.com/readrops/Readrops/issues/238",
+      "date": "2024-12-15",
+      "old": true
+     },
+     {
+      "text": "본문을 읽는 중 다음 글로 바로 넘어가는 기능이 아쉽습니다.",
+      "source": "GitHub 이슈 #62",
+      "url": "https://github.com/readrops/Readrops/issues/62",
+      "date": "2020-04-10",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2025-07-07예요",
+      "url": "https://github.com/readrops/Readrops/releases"
+     },
+     {
+      "text": "개발 속도가 다소 느릴 수 있습니다.",
+      "url": "https://github.com/readrops/Readrops/issues/155"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "reading-news"
+   ],
+   "cardTag": "v2.1.1",
+   "score": 4.2664
   },
   {
    "repo": "ikarus23/MifareClassicTool",
@@ -5553,6 +6349,7 @@
    "latestTag": "v4.3.1",
    "latestDate": "2026-01-25",
    "apkCount": 1,
+   "description": "An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5578,6 +6375,9 @@
    "latestTag": "1.2.0.1884",
    "latestDate": "2018-07-23",
    "apkCount": 1,
+   "description": "No clever tagline needed.",
+   "summaryKo": "특별한 설명이 필요 없는 런처",
+   "summarySrc": "No clever tagline needed.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5606,6 +6406,9 @@
    "latestTag": "ReleaseV1.12.3",
    "latestDate": "2025-08-09",
    "apkCount": 1,
+   "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+   "summaryKo": "안드로이드 디버그 API와 바이두 맵을 기반으로 한 가상 위치 도구",
+   "summarySrc": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5640,6 +6443,9 @@
    "latestTag": "v9.0.2",
    "latestDate": "2023-08-15",
    "apkCount": 2,
+   "description": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
+   "summaryKo": "안드로이드 프로젝트를 위한 유연하고 사용하기 쉬운 드로어 라이브러리",
+   "summarySrc": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5665,11 +6471,98 @@
    "latestTag": "latest",
    "latestDate": "2025-02-07",
    "apkCount": 1,
+   "description": "RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory. Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。",
+   "summaryKo": "캔버스 기반의 고성능 맞춤형 캘린더 컨트롤",
+   "summarySrc": "RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory. Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。",
    "screenshots": [],
    "card": null,
    "themes": [],
    "cardTag": null,
    "score": 3.9741
+  },
+  {
+   "repo": "SecUSo/privacy-friendly-pedometer",
+   "name": "privacy-friendly-pedometer",
+   "owner": "SecUSo",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/5667328?v=4",
+   "stars": 292,
+   "license": "GPL-3.0",
+   "topics": [],
+   "latestTag": "v3.1.2",
+   "latestDate": "2025-08-02",
+   "apkCount": 1,
+   "description": "Privacy Friendly App that counts your steps on Android devices.",
+   "summaryKo": "시간별 걸음 수와 운동을 기록하는 사생활 보호 만보기 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+    "https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png",
+    "https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png"
+   ],
+   "card": {
+    "oneLiner": "시간별 걸음 수와 운동을 기록하는 사생활 보호 만보기 앱",
+    "forWhom": "걸음 수와 이동 거리를 개인정보 걱정 없이 기록하고 싶은 사람",
+    "features": [
+     "시간별, 일별, 주별, 월별 걸음 수 및 거리 확인",
+     "조깅 등 운동 세션 기록 기능 제공",
+     "목표 걸음 수 달성 알림 기능 제공"
+    ],
+    "howToStart": [
+     "안드로이드 기기에 앱을 설치하고 실행합니다.",
+     "일일 목표 걸음 수를 설정하고 걸음을 기록합니다.",
+     "필요시 백업 앱을 통해 데이터를 백업합니다."
+    ],
+    "praise": [
+     {
+      "text": "걸음 수 데이터를 내보내는 기능이 필요합니다.",
+      "source": "GitHub 이슈 #18",
+      "url": "https://github.com/SecUSo/privacy-friendly-pedometer/issues/18",
+      "date": "2016-11-27",
+      "old": true
+     },
+     {
+      "text": "다크모드 추가를 원합니다.",
+      "source": "GitHub 이슈 #93",
+      "url": "https://github.com/SecUSo/privacy-friendly-pedometer/issues/93",
+      "date": "2021-09-09",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "날짜가 바뀌어도 걸음 수가 초기화되지 않는 문제가 있습니다.",
+      "source": "GitHub 이슈 #109",
+      "url": "https://github.com/SecUSo/privacy-friendly-pedometer/issues/109",
+      "date": "2022-09-18",
+      "old": true
+     },
+     {
+      "text": "최신 버전에서 걸음 수가 너무 적게 측정됩니다.",
+      "source": "GitHub 이슈 #89",
+      "url": "https://github.com/SecUSo/privacy-friendly-pedometer/issues/89",
+      "date": "2021-07-26",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2025-08-02예요",
+      "url": "https://github.com/SecUSo/privacy-friendly-pedometer/releases"
+     },
+     {
+      "text": "앱을 처음 열 때 월간 보기에서 이전 달 아이콘이 보이지 않을 수 있습니다.",
+      "url": "https://github.com/SecUSo/privacy-friendly-pedometer/issues/188"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "health-fitness"
+   ],
+   "cardTag": "v3.1.2",
+   "score": 3.9669
   },
   {
    "repo": "simplezhli/flutter_deer",
@@ -5702,6 +6595,9 @@
    "latestTag": "1.3.2",
    "latestDate": "2024-02-15",
    "apkCount": 1,
+   "description": "🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.",
+   "summaryKo": "통합 및 접근성 테스트가 포함된 Flutter 연습 프로젝트",
+   "summarySrc": "🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5724,6 +6620,9 @@
    "latestTag": "v0.10.1",
    "latestDate": "2025-12-19",
    "apkCount": 2,
+   "description": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
+   "summaryKo": "로컬 파일과 유튜브 뮤직을 지원하는 머티리얼 3 음악 플레이어",
+   "summarySrc": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5747,6 +6646,9 @@
    "latestTag": "2.0.12",
    "latestDate": "2025-09-20",
    "apkCount": 8,
+   "description": "DataBackup for Android 7.0+",
+   "summaryKo": "안드로이드 7.0 이상을 위한 데이터 백업 도구",
+   "summarySrc": "DataBackup for Android 7.0+",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5769,6 +6671,9 @@
    "latestTag": "v0.7.0",
    "latestDate": "2016-08-05",
    "apkCount": 1,
+   "description": "A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.",
+   "summaryKo": "새로고침, 로딩, 애니메이션 등이 포함된 고급 RecyclerView",
+   "summarySrc": "A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5792,6 +6697,9 @@
    "latestTag": "1.52.0",
    "latestDate": "2024-12-12",
    "apkCount": 1,
+   "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+   "summaryKo": "100개 이상의 언어와 억센스를 지원하는 음성 합성기",
+   "summarySrc": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5822,6 +6730,9 @@
    "latestTag": "v1.8.1",
    "latestDate": "2024-01-19",
    "apkCount": 3,
+   "description": "🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.",
+   "summaryKo": "비디오, 만화, 소설을 지원하는 다목적 오픈소스 애플리케이션",
+   "summarySrc": "🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5866,6 +6777,9 @@
    "latestTag": "1.2.0",
    "latestDate": "2024-08-16",
    "apkCount": 1,
+   "description": "A mod for the Discord Android App",
+   "summaryKo": "디스코드 안드로이드 앱을 위한 모드",
+   "summarySrc": "A mod for the Discord Android App",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5893,6 +6807,9 @@
    "latestTag": "5.3.4+396",
    "latestDate": "2024-07-01",
    "apkCount": 1,
+   "description": "💸 An app created to help users manage a budget and purchases",
+   "summaryKo": "예산과 지출 관리를 돕는 앱",
+   "summarySrc": "💸 An app created to help users manage a budget and purchases",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5913,6 +6830,9 @@
    "latestTag": "v0.53.0",
    "latestDate": "2025-09-01",
    "apkCount": 1,
+   "description": "Termux add-on app which exposes device functionality as API to command line programs.",
+   "summaryKo": "기기 기능을 명령어 프로그램용 API로 제공하는 Termux 애드온 앱",
+   "summarySrc": "Termux add-on app which exposes device functionality as API to command line programs.",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5939,6 +6859,9 @@
    "latestTag": "0.9_202307261647",
    "latestDate": "2023-07-26",
    "apkCount": 5,
+   "description": "这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。",
+   "summaryKo": "마이크로소프트 음성 인터페이스와 HTTP 요청을 지원하는 안드로이드 TTS 앱",
+   "summarySrc": "这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。",
    "screenshots": [],
    "card": null,
    "themes": [],
@@ -5962,10 +6885,59 @@
    "latestTag": "1.7.0",
    "latestDate": "2026-01-30",
    "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
+   "description": "A simple text field for adding quick notes without ads.",
+   "summaryKo": "인터넷 연결이 필요 없는 간편하고 열린 메모 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
+   ],
+   "card": {
+    "oneLiner": "인터넷 연결이 필요 없는 간편하고 열린 메모 앱",
+    "forWhom": "광고 없는 환경에서 메모와 할 일을 안전하게 관리하고 싶은 사용자",
+    "features": [
+     "인터넷 권한 없이 오프라인으로 작동",
+     "자동 저장 기능으로 내용 손실 방지",
+     "색상과 글꼴을 바꿀 수 있는 위젯 제공"
+    ],
+    "howToStart": [
+     "구글 플레이나 F-Droid에서 Fossify Notes 앱을 설치합니다.",
+     "앱을 열고 더하기 버튼을 눌러 새 메모나 체크리스트를 만듭니다.",
+     "필요에 따라 위젯을 홈 화면에 추가해 빠르게 메모를 확인합니다."
+    ],
+    "praise": [],
+    "complaints": [
+     {
+      "text": "체크리스트에서 글자를 누를 때 수정 창이 열리지 않고 완료로 처리되어 불편합니다.",
+      "source": "GitHub 이슈 #108",
+      "url": "https://github.com/FossifyOrg/Notes/issues/108",
+      "date": "2025-03-30",
+      "old": true
+     },
+     {
+      "text": "노트를 잠갔을 때 앱을 다시 시작하기 전까지 내용이 그대로 노출됩니다.",
+      "source": "GitHub 이슈 #418",
+      "url": "https://github.com/FossifyOrg/Notes/issues/418",
+      "date": "2026-09-28",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "편집기 화면에서 앱 프로세스가 강제로 종료되면 작성 중이던 본문이 사라질 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/Notes/issues/414"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "notes-tasks"
+   ],
+   "cardTag": "1.7.0",
    "score": 3.1295
   },
   {
@@ -5985,50 +6957,65 @@
    "latestTag": "1.5.0",
    "latestDate": "2026-01-30",
    "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 3.1064
-  },
-  {
-   "repo": "readrops/Readrops",
-   "name": "Readrops",
-   "owner": "readrops",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/47304439?v=4",
-   "stars": 583,
-   "license": "GPL-3.0",
-   "topics": [
-    "agreggator",
-    "android",
-    "rss",
-    "rss-reader"
+   "description": "Quick photo and video camera with a flash, customizable aspect ratio.",
+   "summaryKo": "인터넷 연결이 필요 없는 사생활 보호 카메라 앱입니다.",
+   "screenshots": [
+    "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
    ],
-   "latestTag": "v2.1.1",
-   "latestDate": "2025-07-07",
-   "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 2.7664
-  },
-  {
-   "repo": "SecUSo/privacy-friendly-pedometer",
-   "name": "privacy-friendly-pedometer",
-   "owner": "SecUSo",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/5667328?v=4",
-   "stars": 292,
-   "license": "GPL-3.0",
-   "topics": [],
-   "latestTag": "v3.1.2",
-   "latestDate": "2025-08-02",
-   "apkCount": 1,
-   "screenshots": [],
-   "card": null,
-   "themes": [],
-   "cardTag": null,
-   "score": 2.4669
+   "card": {
+    "oneLiner": "인터넷 연결이 필요 없는 사생활 보호 카메라 앱입니다.",
+    "forWhom": "사진과 동영상을 찍을 때 개인정보 보호를 중요하게 생각하는 분",
+    "features": [
+     "인터넷 접근 없이 안전하게 사진과 동영상 촬영",
+     "저장 경로, 해상도, 출력 화질 등 맞춤 설정 가능",
+     "화면 밝기 및 사용자 지정 글꼴 지원"
+    ],
+    "howToStart": [
+     "구글 플레이나 에프드로이드에서 Fossify Camera 앱을 내려받습니다.",
+     "앱을 열고 카메라 권한을 허용합니다.",
+     "화면에서 바로 사진과 동영상을 촬영하고 설정에서 원하는 대로 바꿉니다."
+    ],
+    "praise": [],
+    "complaints": [
+     {
+      "text": "기본 카메라 앱을 끄면 다른 앱에서 사진을 찍을 때 쓸 수 없습니다.",
+      "source": "GitHub 이슈 #45",
+      "url": "https://github.com/FossifyOrg/Camera/issues/45",
+      "date": "2025-01-06",
+      "old": true
+     },
+     {
+      "text": "미리보기 화면과 실제로 찍힌 사진의 화질 차이가 큽니다.",
+      "source": "GitHub 이슈 #339",
+      "url": "https://github.com/FossifyOrg/Camera/issues/339",
+      "date": "2026-08-31",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "잠금 화면 바로가기로 실행할 때 기기 잠금을 해제해야 할 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/Camera/issues/52"
+     },
+     {
+      "text": "일부 기기에서 카메라를 쓸 때 오류가 발생할 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/Camera/issues/338"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "files-photos",
+    "privacy"
+   ],
+   "cardTag": "1.5.0",
+   "score": 3.1064
   }
  ]
 }
