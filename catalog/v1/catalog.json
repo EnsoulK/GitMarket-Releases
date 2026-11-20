@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-19T09:24:28+09:00",
- "featured": "organicmaps/organicmaps",
+ "generatedAt": "2026-11-20T09:38:04+09:00",
+ "featured": "ccch1mneyyy/dsh-Go",
  "themes": [
   {
    "id": "ad-free-media",
@@ -10,24 +10,24 @@
    "apps": [
     "team-spotube/spotube",
     "Predidit/Kazumi",
-    "TeamNewPipe/NewPipe",
     "yuliskov/SmartTube",
+    "TeamNewPipe/NewPipe",
     "bggRGjQaUbCoE/PiliPlus",
     "MetrolistGroup/Metrolist",
     "maxrave-dev/SimpMusic",
+    "Minireel/HGhub",
     "recloudstream/cloudstream",
     "mornyeapp/Mornye",
     "InfinityLoop1308/PipePipe",
     "anilbeesetti/nextplayer",
     "nova-video-player/aos-AVP",
     "jellyfin/jellyfin-androidtv",
+    "cwuom/NeriPlayer",
     "libre-tube/LibreTube",
     "streamyfin/streamyfin",
     "namidaco/namida",
     "jarnedemeulemeester/findroid",
-    "OxygenCobalt/Auxio",
-    "MorpheApp/morphe-manager",
-    "open-ani/animeko"
+    "OxygenCobalt/Auxio"
    ]
   },
   {
@@ -45,7 +45,6 @@
     "streamyfin/streamyfin",
     "GopeedLab/gopeed",
     "JunkFood02/Seal",
-    "Minireel/HGhub",
     "open-ani/animeko",
     "OuterTune/OuterTune",
     "komikku-app/komikku"
@@ -57,10 +56,8 @@
    "subtitle": "추적과 감시를 막아 주는 앱",
    "apps": [
     "TeamNewPipe/NewPipe",
-    "ente/ente",
     "getpaseo/paseo",
     "microg/GmsCore",
-    "rddmwmddr/android-ad-cleaner",
     "tonyantony300/dashbeam",
     "samolego/Canta",
     "emanuele-f/PCAPdroid",
@@ -75,7 +72,9 @@
     "2dust/v2rayNG",
     "M66B/NetGuard",
     "niedev/RTranslator",
-    "MorpheApp/morphe-manager"
+    "MorpheApp/morphe-manager",
+    "mullvad/mullvadvpn-app",
+    "florisboard/florisboard"
    ]
   },
   {
@@ -86,6 +85,7 @@
     "gkd-kit/gkd",
     "rddmwmddr/android-ad-cleaner",
     "lollipopkit/flutter_server_box",
+    "d4rken-org/sdmaid-se",
     "samolego/Canta",
     "alipay/SoloPi",
     "bmax121/APatch",
@@ -100,7 +100,6 @@
     "RikkaApps/Shizuku",
     "NeoApplications/Neo-Backup",
     "LibChecker/LibChecker",
-    "d4rken-org/sdmaid-se",
     "wxxsfxyzm/InstallerX-Revived",
     "ReVanced/revanced-manager"
    ]
@@ -140,8 +139,8 @@
    "apps": [
     "deckerst/aves",
     "zhanghai/MaterialFiles",
-    "TeamAmaze/AmazeFileManager",
     "thtbee/nectarlink",
+    "TeamAmaze/AmazeFileManager",
     "FossifyOrg/Gallery",
     "FossifyOrg/File-Manager",
     "T8RIN/ImageToolbox",
@@ -169,7 +168,6 @@
    "title": "보안·인증",
    "subtitle": "2단계 인증과 비밀번호를 지키는 앱",
    "apps": [
-    "ente/ente",
     "Kunzisoft/KeePassDX",
     "beemdevelopment/Aegis",
     "stratumauth/app",
@@ -203,7 +201,7 @@
    "name": "rustdesk",
    "owner": "rustdesk",
    "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
-   "stars": 130060,
+   "stars": 130290,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -293,7 +291,7 @@
    },
    "themes": [],
    "cardTag": "1.5.3",
-   "score": 8.5594,
+   "score": 8.5546,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -315,7 +313,7 @@
    "name": "spotube",
    "owner": "team-spotube",
    "avatarUrl": "https://avatars.githubusercontent.com/u/263316120?v=4",
-   "stars": 50832,
+   "stars": 50837,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -411,7 +409,7 @@
     "downloaders"
    ],
    "cardTag": "v6.0.0",
-   "score": 8.1568,
+   "score": 8.1514,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -433,7 +431,7 @@
    "name": "gkd",
    "owner": "gkd-kit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/138121201?v=4",
-   "stars": 45009,
+   "stars": 45071,
    "license": "GPL-3.0",
    "topics": [
     "accessibility",
@@ -524,7 +522,7 @@
     "phone-tools"
    ],
    "cardTag": "v1.13.2",
-   "score": 8.1204,
+   "score": 8.1156,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -546,7 +544,7 @@
    "name": "Kazumi",
    "owner": "Predidit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34627277?v=4",
-   "stars": 42963,
+   "stars": 43067,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -644,7 +642,7 @@
     "downloaders"
    ],
    "cardTag": "2.4.4",
-   "score": 8.0947,
+   "score": 8.0903,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -664,11 +662,136 @@
    }
   },
   {
+   "repo": "yuliskov/SmartTube",
+   "name": "SmartTube",
+   "owner": "yuliskov",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/5897464?v=4",
+   "stars": 36474,
+   "license": "MIT",
+   "topics": [
+    "android",
+    "android-tv",
+    "android-tv-box",
+    "java",
+    "kotlin",
+    "retrofit2",
+    "rxjava-android"
+   ],
+   "latestTag": "32.80s",
+   "latestDate": "2026-11-19",
+   "apkCount": 4,
+   "description": "Browse media content with your own rules on Android TV",
+   "summaryKo": "안드로이드 TV와 TV 박스에서 광고 없이 영상과 음악을 즐기는 오픈소스 미디어 플레이어",
+   "notesKo": {
+    "tag": "32.80s",
+    "lines": [
+     "전화기 캐스팅 시 코드 생성 오류가 수정되었습니다.",
+     "설정에서 챕터를 빠르게 건너뛰는 옵션이 추가되었습니다.",
+     "사소한 재생 관련 버그가 수정되었습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/yuliskov/SmartTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/00.png",
+    "https://raw.githubusercontent.com/yuliskov/SmartTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png",
+    "https://raw.githubusercontent.com/yuliskov/SmartTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png"
+   ],
+   "card": {
+    "oneLiner": "안드로이드 TV와 TV 박스에서 광고 없이 영상과 음악을 즐기는 오픈소스 미디어 플레이어",
+    "forWhom": "안드로이드 TV나 TV 박스를 사용하는 사용자",
+    "features": [
+     "광고 없이 영상 재생 및 SponsorBlock 기능 지원",
+     "속도 조절, 8K 해상도와 60프레임 재생 지원",
+     "구글 서비스 없이 작동하며 깔끔한 인터페이스 제공"
+    ],
+    "howToStart": [
+     "안드로이드 TV에 파일 다운로드 앱을 설치합니다.",
+     "안내에 따라 안정 버전이나 베타 버전의 설치 파일을 내려받습니다.",
+     "앱을 실행하여 필요한 설정을 마친 뒤 사용합니다."
+    ],
+    "praise": [
+     {
+      "text": "스폰서 블록 기능이 잘 작동하고 광고를 보지 않아 편리합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=42021910",
+      "date": "2024-11-01",
+      "old": true
+     },
+     {
+      "text": "인터페이스가 깔끔하고 앱 안에서 바로 최신 버전으로 업데이트할 수 있어 좋습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=42022070",
+      "date": "2024-11-01",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "업데이트나 유튜브 정책 변경에 따라 간혹 동영상이 재생되지 않는 오류가 발생합니다.",
+      "source": "GitHub 이슈 #3606",
+      "url": "https://github.com/yuliskov/SmartTube/issues/3606",
+      "date": "2024-07-08",
+      "old": true
+     },
+     {
+      "text": "VPN을 켜고 사용할 때 동영상이 무한 로딩에 빠지는 문제가 있습니다.",
+      "source": "GitHub 이슈 #6030",
+      "url": "https://github.com/yuliskov/SmartTube/issues/6030",
+      "date": "2026-08-08",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "스마트폰이나 태블릿에서는 지원되지 않으며 안드로이드 TV 기기 전용입니다.",
+      "url": "https://github.com/yuliskov/SmartTube#readme"
+     },
+     {
+      "text": "개발 환경 감염으로 인해 과거 빌드에 악성 코드가 포함되었을 수 있으니 공식 안내를 확인해야 합니다.",
+      "url": "https://github.com/yuliskov/SmartTube#readme"
+     },
+     {
+      "text": "신뢰할 수 없는 앱스토어나 블로그가 아닌 공식 경로를 통해 설치해야 안전합니다.",
+      "url": "https://github.com/yuliskov/SmartTube#readme"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media"
+   ],
+   "cardTag": "32.80s",
+   "score": 8.0565,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 64,
+     "checkedAt": "2026-11-20",
+     "asset": "SmartTube_stable_32.80_arm64-v8a.apk",
+     "sha256": "c1e1dfdf51aeadf7dc90a27ee2e28bd885dad6a4991d4b8084045a4e3a8f7ad4"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요",
+     "오류 보고"
+    ],
+    "analyzedTag": "32.80s",
+    "packageName": "org.smarttube.stable",
+    "certSha256": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a",
+    "crashReporters": [
+     "Google CrashLytics"
+    ]
+   }
+  },
+  {
    "repo": "TeamNewPipe/NewPipe",
    "name": "NewPipe",
    "owner": "TeamNewPipe",
    "avatarUrl": "https://avatars.githubusercontent.com/u/22159318?v=4",
-   "stars": 40809,
+   "stars": 40829,
    "license": "GPL-3.0",
    "topics": [
     "4k",
@@ -765,7 +888,7 @@
     "privacy"
    ],
    "cardTag": "v0.29.3",
-   "score": 8.0615,
+   "score": 8.0562,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -784,242 +907,9 @@
     "analyzedTag": "v0.29.3",
     "crashReporters": [
      "ACRA"
-    ]
-   }
-  },
-  {
-   "repo": "yuliskov/SmartTube",
-   "name": "SmartTube",
-   "owner": "yuliskov",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/5897464?v=4",
-   "stars": 36449,
-   "license": "MIT",
-   "topics": [
-    "android",
-    "android-tv",
-    "android-tv-box",
-    "java",
-    "kotlin",
-    "retrofit2",
-    "rxjava-android"
-   ],
-   "latestTag": "32.71s",
-   "latestDate": "2026-11-06",
-   "apkCount": 4,
-   "description": "Browse media content with your own rules on Android TV",
-   "summaryKo": "안드로이드 TV에서 광고 없이 영상과 음악을 보는 미디어 플레이어",
-   "notesKo": {
-    "tag": "32.71s",
-    "lines": [
-     "이전 릴리스 이후 라이브 스트리밍이 작동하지 않던 문제를 수정했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/yuliskov/SmartTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/00.png",
-    "https://raw.githubusercontent.com/yuliskov/SmartTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png",
-    "https://raw.githubusercontent.com/yuliskov/SmartTube/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 TV에서 광고 없이 영상과 음악을 보는 미디어 플레이어",
-    "forWhom": "스마트 TV나 TV 박스를 쓰는 사용자",
-    "features": [
-     "광고 없이 영상 재생",
-     "SponsorBlock 기능 연동",
-     "재생 속도 조절 및 고화질 지원"
     ],
-    "howToStart": [
-     "안드로이드 TV에 앱 다운로더를 설치합니다.",
-     "안내된 다운로드 주소를 입력해 앱 설치 파일을 내려받습니다.",
-     "화면의 안내에 따라 설치를 완료합니다."
-    ],
-    "praise": [
-     {
-      "text": "인터페이스가 깔끔하고 사용하기 좋습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=50411426",
-      "date": "2026-11-08",
-      "old": false
-     },
-     {
-      "text": "공동으로 모은 정보로 광고 구간을 건너뛰는 기능이 잘 작동합니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=42021910",
-      "date": "2024-11-01",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "업데이트 후 영상이 계속 로딩만 되거나 재생되지 않는 문제가 발생합니다.",
-      "source": "GitHub 이슈 #6471",
-      "url": "https://github.com/yuliskov/SmartTube/issues/6471",
-      "date": "2026-11-13",
-      "old": false
-     },
-     {
-      "text": "휴대폰과 TV 간 연동 과정에서 오류가 생기기도 합니다.",
-      "source": "GitHub 이슈 #6472",
-      "url": "https://github.com/yuliskov/SmartTube/issues/6472",
-      "date": "2026-11-14",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "개발 환경 감염으로 인해 일부 빌드에 악성 소프트웨어가 포함되었던 적이 있습니다.",
-      "url": "https://github.com/yuliskov/SmartTube#readme"
-     },
-     {
-      "text": "스마트폰과 태블릿에서는 지원되지 않습니다.",
-      "url": "https://github.com/yuliskov/SmartTube#readme"
-     },
-     {
-      "text": "비공식 앱스토어나 블로그가 아닌 공식 경로를 통해 설치해야 합니다.",
-      "url": "https://github.com/yuliskov/SmartTube#readme"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "ad-free-media"
-   ],
-   "cardTag": "32.71s",
-   "score": 7.9905,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-16",
-     "asset": "SmartTube_stable_32.71_arm64-v8a.apk",
-     "sha256": "6a799a129015e772d231440f4e3ad919f643164a0fdeb76ecb202bf3afb3db52"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요",
-     "오류 보고"
-    ],
-    "analyzedTag": "32.71s",
-    "packageName": "org.smarttube.stable",
-    "certSha256": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a",
-    "crashReporters": [
-     "Google CrashLytics"
-    ]
-   }
-  },
-  {
-   "repo": "ente/ente",
-   "name": "ente",
-   "owner": "ente",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/64603161?v=4",
-   "stars": 30258,
-   "license": "AGPL-3.0",
-   "topics": [
-    "2fa",
-    "android",
-    "authy",
-    "e2ee",
-    "encryption",
-    "end-to-end-encryption",
-    "flutter",
-    "golang",
-    "google-photos",
-    "google-photos-alternative",
-    "ios",
-    "opensource",
-    "photos",
-    "privacy",
-    "privacy-tools",
-    "typescript",
-    "zero-knowledge"
-   ],
-   "latestTag": "photos-v1.3.70",
-   "latestDate": "2026-11-13",
-   "apkCount": 1,
-   "description": "💚 End-to-end encrypted cloud for everything.",
-   "summaryKo": "종단간 암호화를 지원하는 오픈소스 사진 및 인증 앱 모음",
-   "notesKo": {
-    "tag": "photos-v1.3.70",
-    "lines": [
-     "많은 폴더가 있는 라이브러리의 백업 속도를 개선했습니다.",
-     "공유된 사진을 표시하는 갤러리 단축키를 추가했습니다.",
-     "삭제된 사람이 목록에 남아있던 문제를 수정했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/ente/ente/HEAD/.github/assets/photos.png",
-    "https://raw.githubusercontent.com/ente/ente/HEAD/.github/assets/auth.png",
-    "https://raw.githubusercontent.com/ente/ente/HEAD/.github/assets/locker.png",
-    "https://raw.githubusercontent.com/ente/ente/HEAD/.github/assets/ente-rocketship.png"
-   ],
-   "card": {
-    "oneLiner": "종단간 암호화를 지원하는 오픈소스 사진 및 인증 앱 모음",
-    "forWhom": "구글이나 애플 사진·인증 앱을 대신할 보안 좋은 서비스를 찾는 분",
-    "features": [
-     "사진과 데이터를 종단간 암호화로 안전하게 저장",
-     "구글 및 애플 사진의 대안이 되는 Ente Photos 제공",
-     "2단계 인증을 위한 무료 오픈소스 Ente Auth 제공"
-    ],
-    "howToStart": [
-     "구글 플레이스토어, 앱스토어 또는 F-Droid에서 Ente 앱을 내려받습니다.",
-     "계정을 만들고 원하는 서비스(사진, 인증, 보관함 등)를 선택해 시작합니다.",
-     "필요에 따라 기기 간 동기화나 백업 설정을 구성하여 이용합니다."
-    ],
-    "praise": [
-     {
-      "text": "오토시(Authy) 데이타 앱이 중단된 후 안전하게 대체하여 잘 쓰고 있습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=48956915",
-      "date": "2026-07-18",
-      "old": false
-     },
-     {
-      "text": "너무 복잡하지 않으면서도 보안이 충분한 2단계 인증 앱이라 마음에 듭니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=48956915",
-      "date": "2026-07-18",
-      "old": false
-     }
-    ],
-    "complaints": [],
-    "cautions": [
-     {
-      "text": "F-Droid 버전에서 실행 시 검은 화면이나 로고에 멈추는 문제가 있을 수 있습니다.",
-      "url": "https://github.com/ente/ente/issues/10028"
-     },
-     {
-      "text": "데스크톱 앱 일부 환경에서 QR 코드 스캔 등 모바일 전용 기능이 제한될 수 있습니다.",
-      "url": "https://github.com/ente/ente/issues/2769"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "privacy",
-    "security-auth"
-   ],
-   "cardTag": "photos-v1.3.70",
-   "score": 7.948,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 60,
-     "checkedAt": "2026-11-16",
-     "asset": "ente-photos-v1.3.70.apk",
-     "sha256": "040c917609b230128e07ac5c9ad4186c6ba4ec2ef0e3360f7486c2f2d9ff9351"
-    },
-    "attested": true,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": null,
-    "failedTag": "photos-v1.3.70",
-    "failedAt": "2026-11-17"
+    "packageName": "org.schabi.newpipe",
+    "certSha256": "cb84069bd68116bafae5ee4ee5b08a567aa6d898404e7cb12f9e756df5cf5cab"
    }
   },
   {
@@ -1027,7 +917,7 @@
    "name": "dsh-Go",
    "owner": "ccch1mneyyy",
    "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
-   "stars": 27174,
+   "stars": 28185,
    "license": "AGPL-3.0",
    "topics": [
     "ai-agent",
@@ -1123,7 +1013,7 @@
    },
    "themes": [],
    "cardTag": "v1.2.0",
-   "score": 7.9287,
+   "score": 7.9391,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -1147,7 +1037,7 @@
    "name": "paseo",
    "owner": "getpaseo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/259503569?v=4",
-   "stars": 24384,
+   "stars": 24463,
    "license": "NOASSERTION",
    "topics": [
     "ade",
@@ -1224,7 +1114,7 @@
     "privacy"
    ],
    "cardTag": "v0.16.2",
-   "score": 7.8816,
+   "score": 7.8776,
    "safety": {
     "vt": null,
     "attested": false,
@@ -1241,7 +1131,7 @@
    "name": "filament",
    "owner": "google",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 20767,
+   "stars": 20776,
    "license": "Apache-2.0",
    "topics": [
     "3d-graphics",
@@ -1325,7 +1215,7 @@
    },
    "themes": [],
    "cardTag": "v1.81.0",
-   "score": 7.8064,
+   "score": 7.8011,
    "safety": {
     "vt": null,
     "attested": false,
@@ -1342,7 +1232,7 @@
    "name": "librepods",
    "owner": "librepods-org",
    "avatarUrl": "https://avatars.githubusercontent.com/u/296429189?v=4",
-   "stars": 30831,
+   "stars": 30893,
    "license": "GPL-3.0",
    "topics": [
     "accessiblity",
@@ -1433,7 +1323,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.4",
-   "score": 7.8027,
+   "score": 7.7981,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1459,7 +1349,7 @@
    "name": "PiliPlus",
    "owner": "bggRGjQaUbCoE",
    "avatarUrl": "https://avatars.githubusercontent.com/u/114972867?v=4",
-   "stars": 21077,
+   "stars": 21124,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1543,7 +1433,7 @@
     "ad-free-media"
    ],
    "cardTag": "2.2.1",
-   "score": 7.7964,
+   "score": 7.7919,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1563,11 +1453,122 @@
    }
   },
   {
+   "repo": "MetrolistGroup/Metrolist",
+   "name": "Metrolist",
+   "owner": "MetrolistGroup",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/260068764?v=4",
+   "stars": 14628,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "ios-app",
+    "kotlin",
+    "kotlin-multiplatform",
+    "linux-app",
+    "macos-app",
+    "material-design",
+    "material-ui",
+    "music",
+    "music-player",
+    "windows-app",
+    "youtube-player"
+   ],
+   "latestTag": "v14.0.1",
+   "latestDate": "2026-11-19",
+   "apkCount": 3,
+   "description": "Material Design YouTube Music client for Android, iOS and desktop",
+   "summaryKo": "광고 없이 유튜브 뮤직을 즐길 수 있는 오픈소스 플레이어입니다.",
+   "notesKo": {
+    "tag": "v14.0.1",
+    "lines": [
+     "안드로이드에서 끊김 없는 재생 기능이 복원되었습니다.",
+     "13 버전에서 손실되었던 좋아요와 가사 등이 복구되었습니다.",
+     "1440p 뮤직비디오 화질과 팟캐스트 에피소드 검색이 추가되었습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_1.png",
+    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_2.png",
+    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_3.png",
+    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_4.png"
+   ],
+   "card": {
+    "oneLiner": "광고 없이 유튜브 뮤직을 즐길 수 있는 오픈소스 플레이어입니다.",
+    "forWhom": "광고 없이 음악을 듣고 안드로이드와 PC를 지원하는 앱을 찾는 사용자",
+    "features": [
+     "로그인 여부와 상관없이 유튜브 뮤직 재생",
+     "안드로이드 및 데스크톱 등 여러 기기 지원",
+     "번역과 로마자 표기가 포함된 가사 제공"
+    ],
+    "howToStart": [
+     "깃허브 릴리스 페이지나 IzzyOnDroid 등에서 앱을 내려받습니다.",
+     "원하는 기기에 설치한 후 앱을 실행합니다.",
+     "유튜브 뮤직 계정에 로그인하거나 없이 음악을 검색해 재생합니다."
+    ],
+    "praise": [
+     {
+      "text": "음악을 들을 때 가장 좋은 프론트엔드라고 느꼈습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=49859082",
+      "date": "2026-09-26",
+      "old": false
+     },
+     {
+      "text": "안드로이드 스트리밍 앱 목록에서 유용하게 확인할 수 있습니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://mander.xyz/post/51335222",
+      "date": "2026-04-30",
+      "old": false
+     }
+    ],
+    "complaints": [],
+    "cautions": [
+     {
+      "text": "유튜브 뮤직 이용 약관에 위배될 수 있으므로 주의해서 사용해야 합니다.",
+      "url": "https://github.com/MetrolistGroup/Metrolist#readme"
+     },
+     {
+      "text": "지역 제한이 있는 경우 VPN이나 프록시 설정이 필요할 수 있습니다.",
+      "url": "https://github.com/MetrolistGroup/Metrolist#readme"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media"
+   ],
+   "cardTag": "v14.0.1",
+   "score": 7.6597,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 66,
+     "checkedAt": "2026-11-20",
+     "asset": "Metrolist-izzy.apk",
+     "sha256": "b19178163a6f76166b1f7779b8d84533285591aaed170ddc20dee2d2ffe07599"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "오류 보고"
+    ],
+    "analyzedTag": "v14.0.1",
+    "packageName": "com.metrolist.music",
+    "certSha256": "e32c4f2efd7ee9548faee22e45a60425f7728a55a610fd5e8ab9364f74b7bcc9",
+    "crashReporters": [
+     "Sentry"
+    ]
+   }
+  },
+  {
    "repo": "organicmaps/organicmaps",
    "name": "organicmaps",
    "owner": "organicmaps",
    "avatarUrl": "https://avatars.githubusercontent.com/u/76659619?v=4",
-   "stars": 16031,
+   "stars": 16045,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -1670,7 +1671,7 @@
    },
    "themes": [],
    "cardTag": "2026.11.11-39-android",
-   "score": 7.6612,
+   "score": 7.6561,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1696,7 +1697,7 @@
    "name": "GmsCore",
    "owner": "microg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2758598?v=4",
-   "stars": 15367,
+   "stars": 15374,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -1794,7 +1795,7 @@
     "privacy"
    ],
    "cardTag": "v0.3.18.252432",
-   "score": 7.6483,
+   "score": 7.643,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1816,141 +1817,11 @@
    }
   },
   {
-   "repo": "MetrolistGroup/Metrolist",
-   "name": "Metrolist",
-   "owner": "MetrolistGroup",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/260068764?v=4",
-   "stars": 14576,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "ios-app",
-    "kotlin",
-    "kotlin-multiplatform",
-    "linux-app",
-    "macos-app",
-    "material-design",
-    "material-ui",
-    "music",
-    "music-player",
-    "windows-app",
-    "youtube-player"
-   ],
-   "latestTag": "v14.0.0",
-   "latestDate": "2026-11-14",
-   "apkCount": 2,
-   "description": "Material Design YouTube Music client for Android, iOS and desktop",
-   "summaryKo": "안드로이드와 여러 기기에서 쓰는 유튜브 뮤직 플레이어",
-   "notesKo": {
-    "tag": "v14.0.0",
-    "lines": [
-     "안드로이드 독립 앱을 Metrolist-KMP로 전면 개편했습니다.",
-     "Windows, macOS, Linux 등 멀티플랫폼을 지원합니다.",
-     "Material 3 Expressive 디자인을 적용했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_1.png",
-    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_2.png",
-    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_3.png",
-    "https://raw.githubusercontent.com/MetrolistGroup/Metrolist/HEAD/fastlane/metadata/android/en-US/images/screenshots/screenshot_4.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드와 여러 기기에서 쓰는 유튜브 뮤직 플레이어",
-    "forWhom": "광고 없이 음악을 듣고 다양한 기기에서 재생하고 싶은 분",
-    "features": [
-     "로그인 없이 또는 로그인하여 유튜브 뮤직 재생",
-     "안드로이드, iOS, 윈도우, 맥OS, 리눅스 지원",
-     "가사 번역, 실시간 싱크 및 맞춤 설정 제공"
-    ],
-    "howToStart": [
-     "깃허브 출시 페이지나 안내 문서에서 사용하는 기기에 맞는 파일을 내려받습니다.",
-     "안드로이드 기기라면 APK 파일을 설치하고, PC나 아이폰은 안내에 따라 설치를 진행합니다.",
-     "앱을 실행한 뒤 유튜브 뮤직 계정에 로그인하거나 원하는 음악을 검색해 감상합니다."
-    ],
-    "praise": [
-     {
-      "text": "사용해 본 음악 프론트엔드 중에서 디자인과 사용감이 가장 좋습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=49859082",
-      "date": "2026-09-26",
-      "old": false
-     },
-     {
-      "text": "새로운 업데이트 이후에 미니플레이어 크기 조절 기능이 불편하다는 의견이 있습니다.",
-      "source": "GitHub 이슈 #4860",
-      "url": "https://github.com/MetrolistGroup/Metrolist/issues/4860",
-      "date": "2026-11-16",
-      "old": false
-     }
-    ],
-    "complaints": [
-     {
-      "text": "가사 수정 메뉴를 열었을 때 화살표 버튼으로 잘 닫히지 않는 문제가 있습니다.",
-      "source": "GitHub 이슈 #4867",
-      "url": "https://github.com/MetrolistGroup/Metrolist/issues/4867",
-      "date": "2026-11-17",
-      "old": false
-     },
-     {
-      "text": "일부 기기나 설정에서 곡이 넘어갈 때 페이드 효과 중 소리가 작아지는 현상이 있습니다.",
-      "source": "GitHub 이슈 #4863",
-      "url": "https://github.com/MetrolistGroup/Metrolist/issues/4863",
-      "date": "2026-11-16",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "유튜브 뮤직을 이용하는 과정에서 유튜브 서비스 약관에 위배될 수 있으니 주의가 필요합니다.",
-      "url": "https://github.com/MetrolistGroup/Metrolist#readme"
-     },
-     {
-      "text": "지역 제한이 있는 국가에서는 VPN이나 프록시 설정이 필요할 수 있습니다.",
-      "url": "https://github.com/MetrolistGroup/Metrolist#readme"
-     },
-     {
-      "text": "일부 플랫폼에서는 수동으로 앱 서명을 하거나 신뢰하는 과정이 필요합니다.",
-      "url": "https://github.com/MetrolistGroup/Metrolist#readme"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "ad-free-media"
-   ],
-   "cardTag": "v14.0.0",
-   "score": 7.6363,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-16",
-     "asset": "Metrolist-with-Google-Cast.apk",
-     "sha256": "49633e899642e6346ab20a29ff0a1e350a0c6c7d567b19719252c35d0ec84ec9"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "오류 보고"
-    ],
-    "analyzedTag": "v14.0.0",
-    "packageName": "com.metrolist.music",
-    "certSha256": "e32c4f2efd7ee9548faee22e45a60425f7728a55a610fd5e8ab9364f74b7bcc9",
-    "crashReporters": [
-     "Sentry"
-    ]
-   }
-  },
-  {
    "repo": "maxrave-dev/SimpMusic",
    "name": "SimpMusic",
    "owner": "maxrave-dev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/113747128?v=4",
-   "stars": 13602,
+   "stars": 13633,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2059,7 +1930,7 @@
     "ad-free-media"
    ],
    "cardTag": "v2.6.0",
-   "score": 7.6062,
+   "score": 7.6017,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2073,7 +1944,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v2.6.0"
+    "analyzedTag": "v2.6.0",
+    "packageName": "com.maxrave.simpmusic",
+    "certSha256": "76c53bd813ae8f1ce2778f7814b515785719bf9a82c6bee03b8b2dfd706055a1"
    }
   },
   {
@@ -2167,7 +2040,7 @@
    },
    "themes": [],
    "cardTag": "K9MAIL_25_0",
-   "score": 7.6044,
+   "score": 7.5989,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2191,7 +2064,7 @@
    "name": "pixez-flutter",
    "owner": "Notsfsssf",
    "avatarUrl": "https://avatars.githubusercontent.com/u/16934707?v=4",
-   "stars": 13384,
+   "stars": 13391,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2283,7 +2156,7 @@
     "downloaders"
    ],
    "cardTag": "0.9.114",
-   "score": 7.5663,
+   "score": 7.5611,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2309,7 +2182,7 @@
    "name": "Unciv",
    "owner": "yairm210",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?v=4",
-   "stars": 11607,
+   "stars": 11616,
    "license": "MPL-2.0",
    "topics": [
     "4x",
@@ -2389,7 +2262,7 @@
    },
    "themes": [],
    "cardTag": "5.0.1",
-   "score": 7.5538,
+   "score": 7.5487,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2409,11 +2282,118 @@
    }
   },
   {
+   "repo": "Minireel/HGhub",
+   "name": "HGhub",
+   "owner": "Minireel",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/328980256?v=4",
+   "stars": 10317,
+   "license": "NOASSERTION",
+   "topics": [
+    "android",
+    "drama",
+    "free",
+    "movie-web-app",
+    "reels",
+    "windows"
+   ],
+   "latestTag": "v0.0.3",
+   "latestDate": "2026-11-19",
+   "apkCount": 3,
+   "description": "Plug-in media player",
+   "summaryKo": "자바스크립트 플러그인으로 콘텐츠를 불러오는 범용 영상 플레이어",
+   "notesKo": {
+    "tag": "v0.0.3",
+    "lines": [
+     "윈도우와 안드로이드에서 플러그인 웹페이지 로그인을 지원합니다.",
+     "일부 네트워크 환경에서 플러그인 연결 실패 문제가 수정되었습니다.",
+     "플러그인 센터와 검색, 카테고리 화면이 최적화되었습니다."
+    ]
+   },
+   "screenshots": [],
+   "card": {
+    "oneLiner": "자바스크립트 플러그인으로 콘텐츠를 불러오는 범용 영상 플레이어",
+    "forWhom": "다양한 소스의 영상을 하나의 앱에서 모아 보고 싶은 사용자",
+    "features": [
+     "자바스크립트 플러그인을 통한 내용 연동",
+     "탐색, 검색, 재생, 개인 片库 통합 관리",
+     "HLS 및 일반 영상 재생과 소스 전환"
+    ],
+    "howToStart": [
+     "앱 내 플러그인 중심 메뉴에서 파일이나 주소를 입력해 플러그인을 설치합니다.",
+     "홈 화면이나 검색 기능을 통해 원하는 영상을 찾습니다.",
+     "선택한 영상을 재생하여 감상합니다."
+    ],
+    "praise": [
+     {
+      "text": "영상이 갑자기 재생되지 않거나 로딩에 실패하는 문제가 발생합니다.",
+      "source": "GitHub 이슈 #31",
+      "url": "https://github.com/Minireel/HGhub/issues/31",
+      "date": "2026-11-09",
+      "old": false
+     },
+     {
+      "text": "플러그인이 없으면 아무것도 볼 수 없어 별도로 플러그인을 찾아야 합니다.",
+      "source": "GitHub 이슈 #67",
+      "url": "https://github.com/Minireel/HGhub/issues/67",
+      "date": "2026-11-15",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "안드로이드 등에서 재생 버튼을 눌러도 영상 로딩에 실패하거나 멈추는 현상이 있습니다.",
+      "source": "GitHub 이슈 #33",
+      "url": "https://github.com/Minireel/HGhub/issues/33",
+      "date": "2026-11-09",
+      "old": false
+     },
+     {
+      "text": "릴리스에 사전 빌드된 설치 파일이 없거나 직접 빌드해야 하는 번거로움이 있습니다.",
+      "source": "GitHub 이슈 #58",
+      "url": "https://github.com/Minireel/HGhub/issues/58",
+      "date": "2026-11-10",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "공식 소스나 내장된 내용이 없어 최초 사용 시 플러그인을 직접 구해서 넣어야 합니다.",
+      "url": "https://github.com/Minireel/HGhub#readme"
+     },
+     {
+      "text": "사칭 사이트나 허위 정보가 있을 수 있으니 정식 경로를 이용해야 합니다.",
+      "url": "https://github.com/Minireel/HGhub/issues/65"
+     },
+     {
+      "text": "상업적 용도로 사용할 수 없으며 비상업 라이선스가 적용됩니다.",
+      "url": "https://github.com/Minireel/HGhub#readme"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media"
+   ],
+   "cardTag": "v0.0.3",
+   "score": 7.5081,
+   "safety": {
+    "vt": null,
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v0.0.3",
+    "packageName": "com.hghub.player",
+    "certSha256": "cda610783fd33d6c7048cce56232873f6bc1d23e1bbb0358eec2baccfc572d29"
+   }
+  },
+  {
    "repo": "recloudstream/cloudstream",
    "name": "cloudstream",
    "owner": "recloudstream",
    "avatarUrl": "https://avatars.githubusercontent.com/u/110591699?v=4",
-   "stars": 11350,
+   "stars": 11365,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2482,7 +2462,7 @@
     "ad-free-media"
    ],
    "cardTag": "v4.9.1",
-   "score": 7.5002,
+   "score": 7.4953,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2504,12 +2484,124 @@
    }
   },
   {
+   "repo": "rddmwmddr/android-ad-cleaner",
+   "name": "android-ad-cleaner",
+   "owner": "rddmwmddr",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/5119232?v=4",
+   "stars": 8448,
+   "license": "MIT",
+   "topics": [
+    "adb",
+    "ai-agent",
+    "android",
+    "coloros",
+    "debloat",
+    "hyperos",
+    "magicos",
+    "originos"
+   ],
+   "latestTag": "v0.4.5",
+   "latestDate": "2026-11-18",
+   "apkCount": 1,
+   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+   "summaryKo": "안드로이드 폰 시스템의 광고와 마케팅 알림을 끄는 도구입니다.",
+   "notesKo": {
+    "tag": "v0.4.5",
+    "lines": [
+     "화웨이 기기에서 마케팅 알림 차단 시 전체 알림이 꺼지던 문제 수정",
+     "휴대폰 앱 버전에서 Sui 모듈 지원 추가",
+     "다양한 기기 및 시스템 환경에서의 오류 수정 및 성능 개선"
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-1-connect.png",
+    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-3-detect.png",
+    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-4-choose.png",
+    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-6-run.png"
+   ],
+   "card": {
+    "oneLiner": "안드로이드 폰 시스템의 광고와 마케팅 알림을 끄는 도구입니다.",
+    "forWhom": "국산 안드로이드 폰의 시스템 광고와 알림을 줄이고 싶은 사용자",
+    "features": [
+     "컴퓨터, 스마트폰 앱, AI 등 다양한 방법으로 실행 가능",
+     "시스템 설정과 알림 채널을 조절하여 광고와 마케팅 알림 차단",
+     "개인의 필요에 따라 광고 컴포넌트 묵음 처리 및 복원 기능 제공"
+    ],
+    "howToStart": [
+     "폰에서 개발자 옵션과 USB 디버깅을 켭니다.",
+     "원하는 방식(데스크톱 앱, 폰용 앱, AI 도구 등)을 선택하여 연결합니다.",
+     "안내에 따라 광고와 마케팅 알림 차단 설정을 진행합니다."
+    ],
+    "praise": [
+     {
+      "text": "아무것도 만져본 적 없는 초보 사용자에게는 효과가 뚜렷합니다.",
+      "source": "GitHub 이슈 #213",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/213",
+      "date": "2026-10-28",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "단순히 자동화로 클릭만 수행하여 실질적인 광고 차단 효과를 느끼기 어렵다는 의견이 있습니다.",
+      "source": "GitHub 이슈 #213",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/213",
+      "date": "2026-10-28",
+      "old": false
+     },
+     {
+      "text": "일부 기기에서는 마케팅 알림 차단 과정에서 오류가 발생하거나 실패하기도 합니다.",
+      "source": "GitHub 이슈 #175",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/175",
+      "date": "2026-10-27",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "작업이 끝난 뒤에는 보안과 원활한 앱 사용을 위해 개발자 모드와 USB 디버깅을 다시 꺼주는 것이 좋습니다.",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/175"
+     },
+     {
+      "text": "샤오미 등 일부 기기에서는 USB 디버깅 안전 설정 권한이 거부될 수 있어 사전 확인이 필요합니다.",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/546"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "phone-tools"
+   ],
+   "cardTag": "v0.4.5",
+   "score": 7.4158,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 57,
+     "checkedAt": "2026-11-20",
+     "asset": "AndroidAdCleaner-0.4.5-android-arm64.apk",
+     "sha256": "4ab45bbd8b71410aeb53f2096167a66cfcd2f88381bebdf4ba40d24b85dd41a6"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v0.4.5",
+    "packageName": "com.ahuamiao.adcleaner",
+    "certSha256": "202b59b5cb57a5c76f014e16c30c5b91dd6d171839f0872e456ce3056e84257d"
+   }
+  },
+  {
    "repo": "ComicSparks/pikapika",
    "name": "pikapika",
    "owner": "ComicSparks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/226234085?v=4",
-   "stars": 8420,
-   "license": "MIT",
+   "stars": 8424,
+   "license": null,
    "topics": [
     "acg",
     "android",
@@ -2607,7 +2699,7 @@
     "reading-news"
    ],
    "cardTag": "v1.8.27",
-   "score": 7.4199,
+   "score": 7.4146,
    "safety": {
     "vt": null,
     "attested": false,
@@ -2620,113 +2712,11 @@
    }
   },
   {
-   "repo": "rddmwmddr/android-ad-cleaner",
-   "name": "android-ad-cleaner",
-   "owner": "rddmwmddr",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/5119232?v=4",
-   "stars": 8346,
-   "license": "MIT",
-   "topics": [
-    "adb",
-    "ai-agent",
-    "android",
-    "coloros",
-    "debloat",
-    "hyperos",
-    "magicos",
-    "originos"
-   ],
-   "latestTag": "v0.4.5",
-   "latestDate": "2026-11-18",
-   "apkCount": 1,
-   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-   "summaryKo": "안드로이드 폰 시스템 광고와 마케팅 알림을 간편하게 끄는 도구입니다.",
-   "notesKo": {
-    "tag": "v0.4.5",
-    "lines": [
-     "화웨이 기기에서 마케팅 알림 차단 시 전체 알림이 꺼지던 문제 수정",
-     "휴대폰 앱 버전에서 Sui 모듈 지원 추가",
-     "다양한 기기 및 시스템 환경에서의 오류 수정 및 성능 개선"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-1-connect.png",
-    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-3-detect.png",
-    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-4-choose.png",
-    "https://raw.githubusercontent.com/rddmwmddr/android-ad-cleaner/HEAD/images/gui-6-run.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 폰 시스템 광고와 마케팅 알림을 간편하게 끄는 도구입니다.",
-    "forWhom": "국산 안드로이드 스마트폰의 광고와 추천 알림을 지우고 싶은 분",
-    "features": [
-     "시스템 설정의 광고와 마케팅 알림 끄기",
-     "불필요한 광고 컴포넌트 일시 중지",
-     "컴퓨터와 스마트폰 앱 모두 지원"
-    ],
-    "howToStart": [
-     "폰에서 개발자 모드와 USB 디버깅을 켭니다.",
-     "컴퓨터 클라이언트나 안드로이드 앱을 실행합니다.",
-     "연결된 기기에서 원하는 광고 차단 항목을 선택해 실행합니다."
-    ],
-    "praise": [
-     {
-      "text": "아무것도 해본 적 없는 초보 사용자에게 효과가 확실합니다.",
-      "source": "GitHub 이슈 #213",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/213",
-      "date": "2026-10-28",
-      "old": false
-     }
-    ],
-    "complaints": [
-     {
-      "text": "일부 기기에서 마케팅 알림 끄기가 실패하거나 반복될 수 있습니다.",
-      "source": "GitHub 이슈 #175",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/175",
-      "date": "2026-10-27",
-      "old": false
-     },
-     {
-      "text": "단순 시뮬레이션 클릭 방식이라 수동으로 이미 설정한 사람에게는 큰 의미가 없습니다.",
-      "source": "GitHub 이슈 #213",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/213",
-      "date": "2026-10-28",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 기기에서는 USB 디버깅 안전 설정 문제로 클릭이 거부될 수 있습니다.",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/546"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "phone-tools",
-    "privacy"
-   ],
-   "cardTag": "v0.4.4",
-   "score": 7.4161,
-   "safety": {
-    "vt": null,
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v0.4.4",
-    "packageName": "com.ahuamiao.adcleaner",
-    "certSha256": "202b59b5cb57a5c76f014e16c30c5b91dd6d171839f0872e456ce3056e84257d"
-   }
-  },
-  {
    "repo": "lollipopkit/flutter_server_box",
    "name": "flutter_server_box",
    "owner": "lollipopkit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10864310?v=4",
-   "stars": 9042,
+   "stars": 9048,
    "license": "AGPL-3.0",
    "topics": [
     "ai-agents",
@@ -2819,7 +2809,7 @@
     "phone-tools"
    ],
    "cardTag": "v1.0.1925",
-   "score": 7.4125,
+   "score": 7.4073,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2839,11 +2829,117 @@
    }
   },
   {
+   "repo": "d4rken-org/sdmaid-se",
+   "name": "sdmaid-se",
+   "owner": "d4rken-org",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/109539113?v=4",
+   "stars": 8138,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "cleaner",
+    "cleaner-app",
+    "filemanager",
+    "sdmaid",
+    "system-cleaner"
+   ],
+   "latestTag": "v2.2.3-rc0",
+   "latestDate": "2026-11-19",
+   "apkCount": 1,
+   "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
+   "summaryKo": "스마트폰 저장 공간을 정리하고 불필요한 파일을 지우는 관리 도구입니다.",
+   "notesKo": {
+    "tag": "v2.2.3-rc0",
+    "lines": [
+     "앱 클리너가 더 많은 캐시와 로그 파일을 찾아냅니다.",
+     "디버그 로그에 안드로이드 보안 패치 수준이 표시됩니다.",
+     "저장소 영역 확인 중 발생하는 충돌이 방지되었습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_dashboard.png",
+    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_appcleaner.png",
+    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_corpsefinder.png",
+    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_systemcleaner.png",
+    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_deduplicator.png",
+    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_appcontrol.png"
+   ],
+   "card": {
+    "oneLiner": "스마트폰 저장 공간을 정리하고 불필요한 파일을 지우는 관리 도구입니다.",
+    "forWhom": "폰 용량이 부족하거나 남은 찌꺼기 파일을 정리하고 싶은 사람",
+    "features": [
+     "설치되지 않은 앱의 남은 데이터와 임시 파일 삭제",
+     "저장 공간 분석 및 중복 파일 찾기",
+     "앱 관리와 자동 실행 예약 기능"
+    ],
+    "howToStart": [
+     "구글 플레이나 깃허브에서 앱을 내려받아 설치합니다.",
+     "권한 설정 및 초기 단계를 진행합니다.",
+     "필요한 정리 기능을 실행해 용량을 확보합니다."
+    ],
+    "praise": [
+     {
+      "text": "최신 안드로이드 버전에 맞춰 다시 작성된 인기 정리 앱의 후속작입니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=38165852",
+      "date": "2023-11-06",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "자동 정리 중 화면 레이아웃을 찾지 못해 오류가 발생할 수 있습니다.",
+      "source": "GitHub 이슈 #2911",
+      "url": "https://github.com/d4rken-org/sdmaid-se/issues/2911",
+      "date": "2026-11-15",
+      "old": false
+     },
+     {
+      "text": "앱을 업데이트한 후 프로 구매 내역이 사라지는 문제가 있습니다.",
+      "source": "GitHub 이슈 #959",
+      "url": "https://github.com/d4rken-org/sdmaid-se/issues/959",
+      "date": "2024-01-27",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "중요한 앱의 데이터를 지우면 인증 정보 등이 사라질 수 있으니 주의하세요.",
+      "url": "https://github.com/d4rken-org/sdmaid-se/issues/618"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "phone-tools"
+   ],
+   "cardTag": "v2.2.3-rc0",
+   "score": 7.4051,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 52,
+     "checkedAt": "2026-11-20",
+     "asset": "eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
+     "sha256": "29a98e6160cab1e0fe137e7b19210651122c6ea43791cddc66924ca12e103ac2"
+    },
+    "attested": true,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v2.2.3-rc0",
+    "packageName": "eu.darken.sdmse",
+    "certSha256": "f490032be5383f55900495fa7fc207ece2e786a5c2c6cc52027b99548a9ce938"
+   }
+  },
+  {
    "repo": "ankidroid/Anki-Android",
    "name": "Anki-Android",
    "owner": "ankidroid",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3320903?v=4",
-   "stars": 12281,
+   "stars": 12288,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2915,7 +3011,7 @@
    },
    "themes": [],
    "cardTag": "v2.25.3",
-   "score": 7.4084,
+   "score": 7.4032,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2944,7 +3040,7 @@
    "name": "Mornye",
    "owner": "mornyeapp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/275997661?v=4",
-   "stars": 8036,
+   "stars": 8051,
    "license": "LGPL-3.0",
    "topics": [
     "android",
@@ -3024,7 +3120,7 @@
     "downloaders"
    ],
    "cardTag": "v5.4.0",
-   "score": 7.3941,
+   "score": 7.3895,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3050,7 +3146,7 @@
    "name": "koreader",
    "owner": "koreader",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3957564?v=4",
-   "stars": 31180,
+   "stars": 31204,
    "license": "AGPL-3.0",
    "topics": [
     "cbz",
@@ -3136,7 +3232,7 @@
     "reading-news"
    ],
    "cardTag": "v2026.07.1",
-   "score": 7.3912,
+   "score": 7.386,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3150,7 +3246,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v2026.07.1"
+    "analyzedTag": "v2026.07.1",
+    "packageName": "org.koreader.launcher",
+    "certSha256": "fd492a4fe001f17058b826da4358a1dceac38d26686f342522c5a497bcd4dccc"
    }
   },
   {
@@ -3158,7 +3256,7 @@
    "name": "ytdlnis",
    "owner": "deniscerri",
    "avatarUrl": "https://avatars.githubusercontent.com/u/64997243?v=4",
-   "stars": 11210,
+   "stars": 11222,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3257,7 +3355,7 @@
     "downloaders"
    ],
    "cardTag": "v1.9.1.1",
-   "score": 7.3798,
+   "score": 7.3748,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3271,7 +3369,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v1.9.1.1"
+    "analyzedTag": "v1.9.1.1",
+    "packageName": "com.deniscerri.ytdl",
+    "certSha256": "263645cb5272eb290759fe1f59149ae24df6ce171e9f6666eead981d3fc64c95"
    }
   },
   {
@@ -3279,7 +3379,7 @@
    "name": "uhabits",
    "owner": "iSoron",
    "avatarUrl": "https://avatars.githubusercontent.com/u/4699657?v=4",
-   "stars": 10426,
+   "stars": 10427,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3354,7 +3454,7 @@
    },
    "themes": [],
    "cardTag": "v2.3.2",
-   "score": 7.3373,
+   "score": 7.3319,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3378,7 +3478,7 @@
    "name": "brook",
    "owner": "txthinking",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1241807?v=4",
-   "stars": 15198,
+   "stars": 15197,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3459,7 +3559,7 @@
     "network-vpn"
    ],
    "cardTag": "v20270101",
-   "score": 7.3202,
+   "score": 7.3147,
    "safety": {
     "vt": null,
     "attested": false,
@@ -3472,125 +3572,11 @@
    }
   },
   {
-   "repo": "shiaho777/web-to-app",
-   "name": "web-to-app",
-   "owner": "shiaho777",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/222622008?v=4",
-   "stars": 7296,
-   "license": "Unlicense",
-   "topics": [
-    "android",
-    "app",
-    "web"
-   ],
-   "latestTag": "v2.8.8",
-   "latestDate": "2026-11-11",
-   "apkCount": 1,
-   "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
-   "summaryKo": "웹사이트를 안드로이드 앱으로 직접 만드는 도구",
-   "notesKo": {
-    "tag": "v2.8.8",
-    "lines": [
-     "web-to-app: 전체 화면 WebView 앱에서 디스플레이 컷아웃 처리 방식을 추가했습니다.",
-     "web-to-app: 페이지가 실제 컷아웃 여백을 읽을 수 있는 변수를 추가했습니다.",
-     "web-to-app: 교차 출처 요청과 다중 웹 복구 기능을 개선했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg",
-    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg",
-    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg",
-    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg",
-    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/05.jpg",
-    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/06.jpg"
-   ],
-   "card": {
-    "oneLiner": "웹사이트를 안드로이드 앱으로 직접 만드는 도구",
-    "forWhom": "웹 프로젝트를 APK 앱으로 변환하고 싶은 개발자",
-    "features": [
-     "휴대폰에서 웹을 안드로이드 APK로 바로 빌드",
-     "노드(Node.js) 등 서버 구동 환경 내장",
-     "구글 플레이 번들 서명 및 내보내기 지원"
-    ],
-    "howToStart": [
-     "앱을 설치하고 새 프로젝트 만들기에서 12가지 앱 형식 중 하나를 선택합니다.",
-     "웹사이트 주소와 기본 설정을 입력합니다.",
-     "빌드 기능을 실행하여 안드로이드 앱으로 만듭니다."
-    ],
-    "praise": [
-     {
-      "text": "노드(Node.js)나 PHP 같은 서버 환경을 기기에서 직접 돌릴 수 있어 매우 인상적입니다.",
-      "source": "GitHub 이슈 #117",
-      "url": "https://github.com/shiaho777/web-to-app/issues/117",
-      "date": "2026-06-10",
-      "old": false
-     },
-     {
-      "text": "인터페이스 디자인이 조금 아쉽지만 코틀린으로 만든 훌륭한 안드로이드 앱입니다.",
-      "source": "GitHub 이슈 #127",
-      "url": "https://github.com/shiaho777/web-to-app/issues/127",
-      "date": "2026-06-13",
-      "old": false
-     }
-    ],
-    "complaints": [
-     {
-      "text": "확장 모듈을 켜면 화면 스크롤이나 클릭을 방해하는 플로팅 버튼이 생깁니다.",
-      "source": "GitHub 이슈 #24",
-      "url": "https://github.com/shiaho777/web-to-app/issues/24",
-      "date": "2026-02-05",
-      "old": false
-     },
-     {
-      "text": "확장 모듈을 선택할 때 앱이 강제로 꺼지는 문제가 있습니다.",
-      "source": "GitHub 이슈 #993",
-      "url": "https://github.com/shiaho777/web-to-app/issues/993",
-      "date": "2026-09-19",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 기기나 설정에서 확장 모듈 선택 시 앱이 종료될 수 있으니 주의하세요.",
-      "url": "https://github.com/shiaho777/web-to-app/issues/993"
-     },
-     {
-      "text": "외부 링크 옵션을 켜도 빌드된 APK에서는 웹뷰 안에서 열리는 문제가 있을 수 있습니다.",
-      "url": "https://github.com/shiaho777/web-to-app/issues/22"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [],
-   "cardTag": "v2.8.8",
-   "score": 7.3193,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 44,
-     "checkedAt": "2026-11-17",
-     "asset": "web-to-app-2.8.8.APK",
-     "sha256": "c7a7a80be49434eb0485956d3f9c580f0229d6702781bdd9afff67236325beba"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v2.8.8",
-    "packageName": "com.webtoapp",
-    "certSha256": "9560c2ed104d79f8f276752d2cbe3247a846951e3c02bd4545c2efd4aa8cbe22"
-   }
-  },
-  {
    "repo": "tonyantony300/dashbeam",
    "name": "dashbeam",
    "owner": "tonyantony300",
    "avatarUrl": "https://avatars.githubusercontent.com/u/54979586?v=4",
-   "stars": 10357,
+   "stars": 10362,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -3667,7 +3653,7 @@
     "privacy"
    ],
    "cardTag": "v0.7.2",
-   "score": 7.318,
+   "score": 7.3127,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3691,7 +3677,7 @@
    "name": "KeePassDX",
    "owner": "Kunzisoft",
    "avatarUrl": "https://avatars.githubusercontent.com/u/22522604?v=4",
-   "stars": 7703,
+   "stars": 7708,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3796,7 +3782,7 @@
     "security-auth"
    ],
    "cardTag": "4.5.8",
-   "score": 7.2826,
+   "score": 7.2774,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3810,7 +3796,117 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "4.5.8"
+    "analyzedTag": "4.5.8",
+    "packageName": "com.kunzisoft.keepass.free",
+    "certSha256": "7d55b8af210381aabf960f07e17cf7857b6d2a642ca2da6bf0bdf1b200362f04"
+   }
+  },
+  {
+   "repo": "capcom6/android-sms-gateway",
+   "name": "android-sms-gateway",
+   "owner": "capcom6",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?v=4",
+   "stars": 6038,
+   "license": "Apache-2.0",
+   "topics": [
+    "android",
+    "api",
+    "encryption",
+    "gateway",
+    "httpsms",
+    "sim",
+    "simcard",
+    "sms",
+    "sms-gateway",
+    "smsgate",
+    "textbee",
+    "ttl"
+   ],
+   "latestTag": "v1.79.0",
+   "latestDate": "2026-11-17",
+   "apkCount": 2,
+   "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
+   "summaryKo": "안드로이드 폰을 API로 문자 메시지를 주고받는 게이트웨이로 만듭니다.",
+   "notesKo": {
+    "tag": "v1.79.0",
+    "lines": [
+     "MMS 대용량 첨부파일 수신 기능이 개선되었습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/capcom6/android-sms-gateway/HEAD/assets/screenshot.png",
+    "https://raw.githubusercontent.com/capcom6/android-sms-gateway/HEAD/assets/local-server.png",
+    "https://raw.githubusercontent.com/capcom6/android-sms-gateway/HEAD/assets/cloud-server.png"
+   ],
+   "card": {
+    "oneLiner": "안드로이드 폰을 API로 문자 메시지를 주고받는 게이트웨이로 만듭니다.",
+    "forWhom": "앱이나 서비스에 문자 메시지 기능을 직접 연동하고 싶은 분",
+    "features": [
+     "API와 명령어를 통해 문자 메시지를 보내고 받기",
+     "웹훅을 통해 들어온 메시지를 실시간으로 알리기",
+     "개인정보 입력 없이 계정 생성 및 이용 가능"
+    ],
+    "howToStart": [
+     "앱을 안드로이드 기기에 설치합니다.",
+     "로컬 서버 또는 클라우드 서버 방식을 선택하여 설정합니다.",
+     "API나 웹훅을 연동하여 문자 메시지 기능을 사용합니다."
+    ],
+    "praise": [
+     {
+      "text": "오래된 안드로이드 폰과 저렴한지요금제로 직접 문자 게이트웨이를 구축해 잘 쓰고 있습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=45097445",
+      "date": "2025-09-01",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "웹훅 이벤트가 5초 간격으로 두 번씩 중복 전송되는 문제가 있습니다.",
+      "source": "GitHub 이슈 #301",
+      "url": "https://github.com/capcom6/android-sms-gateway/issues/301",
+      "date": "2025-12-16",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "이동통신사의 제한이 있을 수 있어 대량 발송 용도로는 권장하지 않습니다.",
+      "url": "https://github.com/capcom6/android-sms-gateway#readme"
+     },
+     {
+      "text": "설정에서 서버 주소를 바꿀 때 앱이 바로 반영하지 못할 수 있습니다.",
+      "url": "https://github.com/capcom6/android-sms-gateway/issues/470"
+     },
+     {
+      "text": "간헐적으로 수신된 멀티미디어 메시지 내용이 게이트웨이를 재시작하기 전까지 누락될 수 있습니다.",
+      "url": "https://github.com/capcom6/android-sms-gateway/issues/467"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "v1.79.0",
+   "score": 7.2645,
+   "safety": {
+    "vt": {
+     "malicious": 6,
+     "suspicious": 0,
+     "engines": 60,
+     "checkedAt": "2026-11-20",
+     "asset": "app-insecure.apk",
+     "sha256": "102e52ae87345377658af785e966dfdb16fec5c8133db71c35991f73540883bf"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v1.79.0",
+    "packageName": "me.capcom.smsgateway",
+    "certSha256": "a85d87640df15ef0030d62a2b91febefb086842df1265a235da20b26132f5d6d"
    }
   },
   {
@@ -3818,7 +3914,7 @@
    "name": "Canta",
    "owner": "samolego",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34912839?v=4",
-   "stars": 7527,
+   "stars": 7567,
    "license": "LGPL-3.0",
    "topics": [
     "android",
@@ -3897,7 +3993,7 @@
     "privacy"
    ],
    "cardTag": "v4.1.0",
-   "score": 7.2616,
+   "score": 7.2584,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3921,7 +4017,7 @@
    "name": "SoloPi",
    "owner": "alipay",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1299356?v=4",
-   "stars": 6371,
+   "stars": 6373,
    "license": "Apache-2.0",
    "topics": [
     "adb",
@@ -4014,7 +4110,7 @@
     "phone-tools"
    ],
    "cardTag": "v1.0.4",
-   "score": 7.255,
+   "score": 7.2496,
    "safety": {
     "vt": null,
     "attested": false,
@@ -4031,7 +4127,7 @@
    "name": "android",
    "owner": "nextcloud",
    "avatarUrl": "https://avatars.githubusercontent.com/u/19211038?v=4",
-   "stars": 5723,
+   "stars": 5726,
    "license": "GPL-2.0",
    "topics": [
     "android",
@@ -4116,7 +4212,7 @@
    },
    "themes": [],
    "cardTag": "35.1.0",
-   "score": 7.2522,
+   "score": 7.247,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4129,119 +4225,10 @@
     "attested": false,
     "attestedChecked": true,
     "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "stable-35.0.2",
+    "antiFeatures": [],
+    "analyzedTag": "35.1.0",
     "packageName": "com.nextcloud.client",
     "certSha256": "fb009522f65e25802261b67b10a45fd70e610031976f40b28a649e152ded0373"
-   }
-  },
-  {
-   "repo": "capcom6/android-sms-gateway",
-   "name": "android-sms-gateway",
-   "owner": "capcom6",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?v=4",
-   "stars": 6035,
-   "license": "Apache-2.0",
-   "topics": [
-    "android",
-    "api",
-    "encryption",
-    "gateway",
-    "httpsms",
-    "sim",
-    "simcard",
-    "sms",
-    "sms-gateway",
-    "smsgate",
-    "textbee",
-    "ttl"
-   ],
-   "latestTag": "v1.78.4",
-   "latestDate": "2026-11-12",
-   "apkCount": 2,
-   "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
-   "summaryKo": "안드로이드 폰을 API로 문자 메시지를 주고받는 게이트웨이로 바꿉니다.",
-   "notesKo": {
-    "tag": "v1.78.4",
-    "lines": [
-     "AOSP PDU 파서를 사용하여 MMS 알림 파싱 기능이 추가되었습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/capcom6/android-sms-gateway/HEAD/assets/screenshot.png",
-    "https://raw.githubusercontent.com/capcom6/android-sms-gateway/HEAD/assets/local-server.png",
-    "https://raw.githubusercontent.com/capcom6/android-sms-gateway/HEAD/assets/cloud-server.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 폰을 API로 문자 메시지를 주고받는 게이트웨이로 바꿉니다.",
-    "forWhom": "앱이나 서비스에 문자 메시지 기능을 간편하게 연결하고 싶은 개발자",
-    "features": [
-     "API와 명령어로 문자 메시지 송수신",
-     "개인정보 없이 로컬 또는 클라우드 모드 사용",
-     "웹훅을 통한 실시간 수신 알림 및 멀티미디어 메시지 지원"
-    ],
-    "howToStart": [
-     "안드로이드 기기에 앱을 설치합니다.",
-     "로컬 서버 또는 클라우드 서버에 기기를 연결합니다.",
-     "API를 통해 문자 메시지를 보내고 받습니다."
-    ],
-    "praise": [
-     {
-      "text": "오래된 안드로이드 폰과 저렴한지요금제로 나만의 문자 게이트웨이를 구축해 잘 쓰고 있습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=45097445",
-      "date": "2025-09-01",
-      "old": false
-     },
-     {
-      "text": "받은 문자를 API로 읽어오는 기능이 유용합니다.",
-      "source": "GitHub 이슈 #16",
-      "url": "https://github.com/capcom6/android-sms-gateway/issues/16",
-      "date": "2023-11-24",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "웹훅이 가끔 중복으로 두 번씩 전송되는 문제가 있습니다.",
-      "source": "GitHub 이슈 #301",
-      "url": "https://github.com/capcom6/android-sms-gateway/issues/301",
-      "date": "2025-12-16",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "이동통신사의 제한이 있을 수 있어 대량 발송용으로는 권장하지 않습니다.",
-      "url": "https://github.com/capcom6/android-sms-gateway#readme"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [],
-   "cardTag": "v1.78.4",
-   "score": 7.2424,
-   "safety": {
-    "vt": {
-     "malicious": 1,
-     "suspicious": 0,
-     "engines": 69,
-     "checkedAt": "2026-11-17",
-     "asset": "app-insecure.apk",
-     "sha256": "64743d1044d1728f3c010713e389f94b33ffa007d79f15455b94626df2ba0102"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v1.78.4",
-    "packageName": "me.capcom.smsgateway",
-    "certSha256": "a85d87640df15ef0030d62a2b91febefb086842df1265a235da20b26132f5d6d"
    }
   },
   {
@@ -4249,7 +4236,7 @@
    "name": "AutoJs6",
    "owner": "SuperMonster003",
    "avatarUrl": "https://avatars.githubusercontent.com/u/30370009?v=4",
-   "stars": 6671,
+   "stars": 6678,
    "license": "MPL-2.0",
    "topics": [
     "android",
@@ -4317,7 +4304,7 @@
    },
    "themes": [],
    "cardTag": "v6.8.0",
-   "score": 7.2366,
+   "score": 7.2316,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -4341,7 +4328,7 @@
    "name": "Aegis",
    "owner": "beemdevelopment",
    "avatarUrl": "https://avatars.githubusercontent.com/u/47433933?v=4",
-   "stars": 13582,
+   "stars": 13586,
    "license": "GPL-3.0",
    "topics": [
     "2fa",
@@ -4419,7 +4406,7 @@
     "security-auth"
    ],
    "cardTag": "v3.4.3",
-   "score": 7.2275,
+   "score": 7.2222,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4433,7 +4420,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v3.4.3"
+    "analyzedTag": "v3.4.3",
+    "packageName": "com.beemdevelopment.aegis",
+    "certSha256": "c6db80a8e14e5230c1de8415ef820d13dc901d8fe33cf3acb57b6862d858a823"
    }
   },
   {
@@ -4441,7 +4430,7 @@
    "name": "APatch",
    "owner": "bmax121",
    "avatarUrl": "https://avatars.githubusercontent.com/u/12316019?v=4",
-   "stars": 8194,
+   "stars": 8199,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4525,7 +4514,7 @@
     "phone-tools"
    ],
    "cardTag": "11282",
-   "score": 7.2218,
+   "score": 7.2166,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4549,7 +4538,7 @@
    "name": "PCAPdroid",
    "owner": "emanuele-f",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5488003?v=4",
-   "stars": 5210,
+   "stars": 5219,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4638,7 +4627,7 @@
     "network-vpn"
    ],
    "cardTag": "v2.0.3",
-   "score": 7.2114,
+   "score": 7.2067,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4662,7 +4651,7 @@
    "name": "PipePipe",
    "owner": "InfinityLoop1308",
    "avatarUrl": "https://avatars.githubusercontent.com/u/96324692?v=4",
-   "stars": 7263,
+   "stars": 7268,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4755,7 +4744,7 @@
     "downloaders"
    ],
    "cardTag": "v5.5.0",
-   "score": 7.2023,
+   "score": 7.1971,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4784,7 +4773,7 @@
    "name": "aves",
    "owner": "deckerst",
    "avatarUrl": "https://avatars.githubusercontent.com/u/13898333?v=4",
-   "stars": 5532,
+   "stars": 5535,
    "license": "BSD-3-Clause",
    "topics": [
     "android",
@@ -4868,7 +4857,7 @@
     "files-photos"
    ],
    "cardTag": "v1.15.10",
-   "score": 7.1936,
+   "score": 7.1884,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4894,7 +4883,7 @@
    "name": "termux-x11",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 5176,
+   "stars": 5180,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4974,7 +4963,7 @@
    },
    "themes": [],
    "cardTag": "nightly",
-   "score": 7.1922,
+   "score": 7.187,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -4994,11 +4983,127 @@
    }
   },
   {
+   "repo": "duckduckgo/Android",
+   "name": "Android",
+   "owner": "duckduckgo",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/342708?v=4",
+   "stars": 4909,
+   "license": "Apache-2.0",
+   "topics": [
+    "android",
+    "duckduckgo",
+    "duckduckgo-android",
+    "hacktoberfest",
+    "translations"
+   ],
+   "latestTag": "5.304.0",
+   "latestDate": "2026-11-19",
+   "apkCount": 1,
+   "description": "DuckDuckGo Android App",
+   "summaryKo": "안드로이드용 덕덕고 웹 브라우저 및 개인정보 보호 앱입니다.",
+   "notesKo": {
+    "tag": "5.304.0",
+    "lines": [
+     "버그 수정 및 기타 개선 사항이 적용되었습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/1-Main.jpg",
+    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/2-Search.jpg",
+    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/3-Website.jpg",
+    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/4-Email.jpg",
+    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/5-ATP.jpg",
+    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/6-Smarter.jpg"
+   ],
+   "card": {
+    "oneLiner": "안드로이드용 덕덕고 웹 브라우저 및 개인정보 보호 앱입니다.",
+    "forWhom": "스마트폰에서 추적기를 차단하고 사생활을 보호하고 싶은 분",
+    "features": [
+     "다른 앱의 추적을 막아 주는 앱 추적 차단 기능 제공",
+     "즐겨찾기와 탭을 깔끔하게 관리하는 브라우저 환경",
+     "오픈소스 코드로 개발되어 누구나 코드를 확인 가능"
+    ],
+    "howToStart": [
+     "깃허브 저장소(duckduckgo/Android)에서 프로젝트 소스 코드를 확인합니다.",
+     "깃 하위 모듈을 포함하여 프로젝트를 내려받고 빌드합니다.",
+     "설정 메뉴에서 피드백을 남기거나 기능을 이용할 수 있습니다."
+    ],
+    "praise": [
+     {
+      "text": "브라우저 화면 구성이 편리하고 탭이 무한정 쌓이지 않아 좋습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=37511674",
+      "date": "2023-09-14",
+      "old": true
+     },
+     {
+      "text": "앱 추적 차단 기능이 다른 앱들의 방대한 추적 시도를 막아 줍니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=34389050",
+      "date": "2023-01-15",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "즐겨찾기 화면에서 세로로 스크롤할 때 가로 방향으로 너무 쉽게 쓸려 넘어갑니다.",
+      "source": "GitHub 이슈 #10199",
+      "url": "https://github.com/duckduckgo/Android/issues/10199",
+      "date": "2026-10-24",
+      "old": false
+     },
+     {
+      "text": "웹사이트에서 이미지를 내려받을 때 간혹 오류가 발생합니다.",
+      "source": "GitHub 이슈 #9936",
+      "url": "https://github.com/duckduckgo/Android/issues/9936",
+      "date": "2026-10-03",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "방문한 도메인이나 즐겨찾기 아이콘 등이 서버로 전송될 수 있다는 우려가 있습니다.",
+      "url": "https://news.ycombinator.com/item?id=37511674"
+     },
+     {
+      "text": "일부 설정은 특정 도메인에서만 적용되기도 합니다.",
+      "url": "https://github.com/duckduckgo/Android/issues/1279"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "privacy"
+   ],
+   "cardTag": "5.304.0",
+   "score": 7.1856,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 62,
+     "checkedAt": "2026-11-20",
+     "asset": "duckduckgo-5.304.0-play-release.apk",
+     "sha256": "9ef0f9c4a1b5dc1d0749ccb3ba4641644e1dbf48394e67dde856b106b7969b47"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "5.304.0",
+    "packageName": "com.duckduckgo.mobile.android",
+    "certSha256": "bb7bb31c573c46a1da7fc5c528a6acf432108456feec50810c7f33694eb3d2d4"
+   }
+  },
+  {
    "repo": "saber-notes/saber",
    "name": "saber",
    "owner": "saber-notes",
    "avatarUrl": "https://avatars.githubusercontent.com/u/148824533?v=4",
-   "stars": 5054,
+   "stars": 5053,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5097,7 +5202,7 @@
     "notes-tasks"
    ],
    "cardTag": "v1.37.2",
-   "score": 7.1708,
+   "score": 7.1653,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5117,127 +5222,11 @@
    }
   },
   {
-   "repo": "duckduckgo/Android",
-   "name": "Android",
-   "owner": "duckduckgo",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/342708?v=4",
-   "stars": 4908,
-   "license": "Apache-2.0",
-   "topics": [
-    "android",
-    "duckduckgo",
-    "duckduckgo-android",
-    "hacktoberfest",
-    "translations"
-   ],
-   "latestTag": "5.303.0",
-   "latestDate": "2026-11-12",
-   "apkCount": 1,
-   "description": "DuckDuckGo Android App",
-   "summaryKo": "프라이버시 중심의 기능을 제공하는 안드로이드용 웹 브라우저 앱입니다.",
-   "notesKo": {
-    "tag": "5.303.0",
-    "lines": [
-     "버그 수정 및 기타 성능 개선"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/1-Main.jpg",
-    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/2-Search.jpg",
-    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/3-Website.jpg",
-    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/4-Email.jpg",
-    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/5-ATP.jpg",
-    "https://raw.githubusercontent.com/duckduckgo/Android/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/6-Smarter.jpg"
-   ],
-   "card": {
-    "oneLiner": "프라이버시 중심의 기능을 제공하는 안드로이드용 웹 브라우저 앱입니다.",
-    "forWhom": "스마트폰에서 개인정보 보호 기능을 중요하게 생각하는 사용자",
-    "features": [
-     "방문한 웹사이트와 즐겨찾기 관리 기능",
-     "다른 앱의 추적을 막아 주는 기능",
-     "간편하게 탭을 정리할 수 있는 구조"
-    ],
-    "howToStart": [
-     "깃허브 저장소에서 소스코드를 내려받거나 앱을 설치합니다.",
-     "앱 설정을 열어 필요한 보안 및 프라이버시 기능을 켭니다.",
-     "웹서핑을 하면서 즐겨찾기와 탭을 관리합니다."
-    ],
-    "praise": [
-     {
-      "text": "브라우저 화면이 깔끔하고 탭이 무한정 쌓이지 않아 편리합니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=37511674",
-      "date": "2023-09-14",
-      "old": true
-     },
-     {
-      "text": "다른 앱들이 몰래 정보를 수집하는 것을 막아주는 기능이 좋습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=34389050",
-      "date": "2023-01-15",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "즐겨찾기 아이콘을 불러올 때 서버를 거치는 과정이 있어 아쉽습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=37511674",
-      "date": "2023-09-14",
-      "old": true
-     },
-     {
-      "text": "설정 화면에 진입했을 때 스마트폰이 뜨거워지고 배터리가 닳는 문제가 있습니다.",
-      "source": "GitHub 이슈 #9551",
-      "url": "https://github.com/duckduckgo/Android/issues/9551",
-      "date": "2026-08-20",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "방문한 사이트 주소 일부가 서버로 전송된다는 우려가 제기된 적이 있습니다.",
-      "url": "https://github.com/duckduckgo/Android/issues/527"
-     },
-     {
-      "text": "다운로드 시 참조 주소가 전달되지 않아 일부 파일 내려받기가 실패할 수 있습니다.",
-      "url": "https://github.com/duckduckgo/Android/issues/9936"
-     }
-    ],
-    "asOf": "2026-11-18",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "privacy"
-   ],
-   "cardTag": "5.303.0",
-   "score": 7.1526,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 63,
-     "checkedAt": "2026-11-17",
-     "asset": "duckduckgo-5.303.0-play-release.apk",
-     "sha256": "c309c8e6e0ccbe5f774816e3b084754c6464025aea40bc0e01b227cd6559c114"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "5.303.0",
-    "packageName": "com.duckduckgo.mobile.android",
-    "certSha256": "bb7bb31c573c46a1da7fc5c528a6acf432108456feec50810c7f33694eb3d2d4"
-   }
-  },
-  {
    "repo": "anilbeesetti/nextplayer",
    "name": "nextplayer",
    "owner": "anilbeesetti",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66936649?v=4",
-   "stars": 4771,
+   "stars": 4772,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5319,7 +5308,7 @@
     "ad-free-media"
    ],
    "cardTag": "v0.21.0",
-   "score": 7.1513,
+   "score": 7.1459,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5343,7 +5332,7 @@
    "name": "MaterialFiles",
    "owner": "zhanghai",
    "avatarUrl": "https://avatars.githubusercontent.com/u/4469895?v=4",
-   "stars": 9504,
+   "stars": 9506,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5411,7 +5400,7 @@
     "files-photos"
    ],
    "cardTag": "v1.7.5",
-   "score": 7.1492,
+   "score": 7.1438,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5425,7 +5414,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v1.7.5"
+    "analyzedTag": "v1.7.5",
+    "packageName": "me.zhanghai.android.files",
+    "certSha256": "9c22a742fa200c85bafbc9924a02ddc8f3a0b975d4d7b5a8da21d7cf34ce2b20"
    }
   },
   {
@@ -5433,7 +5424,7 @@
    "name": "FairEmail",
    "owner": "M66B",
    "avatarUrl": "https://avatars.githubusercontent.com/u/259573?v=4",
-   "stars": 4801,
+   "stars": 4802,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5526,7 +5517,7 @@
     "privacy"
    ],
    "cardTag": "1.2341",
-   "score": 7.1485,
+   "score": 7.1432,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5552,7 +5543,7 @@
    "name": "Operit",
    "owner": "AAswordman",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66207760?v=4",
-   "stars": 9702,
+   "stars": 9722,
    "license": "LGPL-3.0",
    "topics": [
     "agent",
@@ -5648,7 +5639,7 @@
    },
    "themes": [],
    "cardTag": "v1.12.2",
-   "score": 7.1472,
+   "score": 7.1426,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5672,7 +5663,7 @@
    "name": "aos-AVP",
    "owner": "nova-video-player",
    "avatarUrl": "https://avatars.githubusercontent.com/u/39300865?v=4",
-   "stars": 4816,
+   "stars": 4817,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -5769,7 +5760,7 @@
     "ad-free-media"
    ],
    "cardTag": "v6.6.5",
-   "score": 7.1389,
+   "score": 7.1336,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5798,7 +5789,7 @@
    "name": "mangayomi",
    "owner": "kodjodevf",
    "avatarUrl": "https://avatars.githubusercontent.com/u/107993382?v=4",
-   "stars": 4520,
+   "stars": 4528,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -5893,7 +5884,7 @@
     "downloaders"
    ],
    "cardTag": "v0.9.96",
-   "score": 7.1278,
+   "score": 7.1231,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6008,7 +5999,7 @@
     "ad-free-media"
    ],
    "cardTag": "v0.20.0",
-   "score": 7.1276,
+   "score": 7.1221,
    "safety": {
     "vt": null,
     "attested": false,
@@ -6030,7 +6021,7 @@
    "name": "android-app",
    "owner": "ProtonVPN",
    "avatarUrl": "https://avatars.githubusercontent.com/u/25028530?v=4",
-   "stars": 4318,
+   "stars": 4320,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6097,7 +6088,7 @@
     "network-vpn"
    ],
    "cardTag": "5.21.57.0",
-   "score": 7.1244,
+   "score": 7.1191,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6122,11 +6113,253 @@
    }
   },
   {
+   "repo": "cwuom/NeriPlayer",
+   "name": "NeriPlayer",
+   "owner": "cwuom",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/74239856?v=4",
+   "stars": 4301,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "equalizer",
+    "exoplayer",
+    "glsl",
+    "jetpack-compose",
+    "karaoke-lyrics",
+    "listen-together",
+    "media3",
+    "music",
+    "native-apps",
+    "player",
+    "privacy-focused",
+    "self-hosted",
+    "shaders",
+    "usb-exclusive",
+    "webdav",
+    "websocket"
+   ],
+   "latestTag": "NeriPlayer-09526815.11171823",
+   "latestDate": "2026-11-17",
+   "apkCount": 4,
+   "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
+   "summaryKo": "다양한 플랫폼과 자체 서버의 음악을 모아 듣는 오디오 플레이어",
+   "notesKo": {
+    "tag": "NeriPlayer-09526815.11171823",
+    "lines": [
+     "플레이어에서 网易云 딩원 재생목록에 추가할 수 있습니다.",
+     "구형 WebView에서 발생하는 시작 충돌이 수정되었습니다.",
+     "작업 제거 후에도 재생이 유지되도록 수정되었습니다."
+    ]
+   },
+   "screenshots": [],
+   "card": {
+    "oneLiner": "다양한 플랫폼과 자체 서버의 음악을 모아 듣는 오디오 플레이어",
+    "forWhom": "여러 플랫폼의 음악을 한 곳에서 모아 듣고 싶은 안드로이드 사용자",
+    "features": [
+     "네이버뮤직, 빌리빌리, 유튜브뮤직과 로컬 곡을 한 재생목록에서 재생",
+     "LRC, YRC, TTML 등 다양한 逐字 歌词와 CC 자막 지원",
+     "10단 이퀄라이저와 USB 독占 등 세밀한 오디오 설정 기능"
+    ],
+    "howToStart": [
+     "깃허브 저장소나 릴리스 페이지에서 기기에 맞는 APK 파일을 내려받아 설치합니다.",
+     "앱을 실행한 뒤 안내에 따라 필요한 권한을 허용하고 초기 설정을 마칩니다.",
+     "원하는 플랫폼 계정을 연동하거나 로컬 음악을 불러와 재생을 시작합니다."
+    ],
+    "praise": [
+     {
+      "text": "비디오 작성자가 올린 CC 자막을 가사로 바로 쓸 수 있어 유용합니다.",
+      "source": "GitHub 이슈 #142",
+      "url": "https://github.com/cwuom/NeriPlayer/issues/142",
+      "date": "2026-05-03",
+      "old": false
+     },
+     {
+      "text": "로컬 음악을 폴더나 专辑 단위로 볼 수 있어 노래를 찾기 편합니다.",
+      "source": "GitHub 이슈 #435",
+      "url": "https://github.com/cwuom/NeriPlayer/issues/435",
+      "date": "2026-09-24",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "공유 폴더에 있는 로컬 음악에 歌词나 커버를 저장할 때 권한 문제가 생깁니다.",
+      "source": "GitHub 이슈 #672",
+      "url": "https://github.com/cwuom/NeriPlayer/issues/672",
+      "date": "2026-11-16",
+      "old": false
+     },
+     {
+      "text": "앱을 처음 켤 때 로컬 인덱스를 읽다가 메모리 부족으로 꺼질 때가 있습니다.",
+      "source": "GitHub 이슈 #666",
+      "url": "https://github.com/cwuom/NeriPlayer/issues/666",
+      "date": "2026-11-15",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "자체 음악 서버 기능은 아직 충분히 테스트되지 않은 미리 보기 버전입니다.",
+      "url": "https://github.com/cwuom/NeriPlayer#readme"
+     },
+     {
+      "text": "지역이나 IP 환경에 따라 유튜브뮤직 곡 재생이나 내려받기가 안 될 수 있습니다.",
+      "url": "https://github.com/cwuom/NeriPlayer/issues/110"
+     },
+     {
+      "text": "일부 기기나 시스템 환경에서는 앱이 켜질 때 튕기는 현상이 발생할 수 있습니다.",
+      "url": "https://github.com/cwuom/NeriPlayer/issues/652"
+     }
+    ],
+    "asOf": "2026-11-20",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media"
+   ],
+   "cardTag": "NeriPlayer-09526815.11171823",
+   "score": 7.1172,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 66,
+     "checkedAt": "2026-11-20",
+     "asset": "NeriPlayer-09526815.11171823-arm64-v8a.apk",
+     "sha256": "15e5d7aeac872ff7cce3109c1faefa978c7943812e866815562a4fee5ca88d50"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "NeriPlayer-09526815.11171823",
+    "packageName": "moe.ouom.neriplayer",
+    "certSha256": "a01aedf08aca1ce6c781f49ba5301c856c021db993ab62e4e98d9f917a2e2fa6"
+   }
+  },
+  {
+   "repo": "thtbee/nectarlink",
+   "name": "nectarlink",
+   "owner": "thtbee",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/302257494?v=4",
+   "stars": 4997,
+   "license": "NOASSERTION",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kde-connect-features",
+    "kotlin",
+    "linux",
+    "localsend",
+    "phone-link",
+    "qt",
+    "rust",
+    "windows"
+   ],
+   "latestTag": "v0.1.5",
+   "latestDate": "2026-11-05",
+   "apkCount": 1,
+   "description": "Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.",
+   "summaryKo": "안드로이드 스마트폰과 PC를 하나처럼 연결하는 오픈소스 프로그램",
+   "notesKo": {
+    "tag": "v0.1.5",
+    "lines": [
+     "PC 앱에서 폰을 마이크와 웹캠으로 사용 가능",
+     "나이트리 채널 추가 및 이전 버전 버그 수정",
+     "다양한 운영체제별 다운로드 지원"
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-glass-home.png",
+    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-hive-light.png",
+    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-hive-dark.png",
+    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-bloom-home.png"
+   ],
+   "card": {
+    "oneLiner": "안드로이드 스마트폰과 PC를 하나처럼 연결하는 오픈소스 프로그램",
+    "forWhom": "폰과 컴퓨터를 자주 오가며 알림이나 파일을 주고받는 사용자",
+    "features": [
+     "PC에서 폰 알림 확인 및 답장",
+     "와이파이 속도로 파일과 폴더 양방향 전송",
+     "스마트폰 화면을 PC에서 그대로 보기"
+    ],
+    "howToStart": [
+     "PC와 스마트폰에 각각 NectarLink를 설치합니다.",
+     "PC 설정 화면에 나타난 QR 코드를 스마트폰으로 스캔하거나 근처 기기 목록에서 선택합니다.",
+     "공유하고 싶은 기능을 기기별로 켜서 사용합니다."
+    ],
+    "praise": [
+     {
+      "text": "정말 좋은 기능들을 제공하고 멋진 모습을 보여줍니다.",
+      "source": "GitHub 이슈 #407",
+      "url": "https://github.com/thtbee/nectarlink/issues/407",
+      "date": "2026-11-16",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "안드로이드 테마 설정에서 변경을 누르면 홈 탭으로 바로 튀어 나가 불편합니다.",
+      "source": "GitHub 이슈 #8",
+      "url": "https://github.com/thtbee/nectarlink/issues/8",
+      "date": "2026-10-16",
+      "old": false
+     },
+     {
+      "text": "화면을 녹화한 뒤 저장된 동영상 파일이 재생되지 않습니다.",
+      "source": "GitHub 이슈 #428",
+      "url": "https://github.com/thtbee/nectarlink/issues/428",
+      "date": "2026-11-17",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "인도 등 일부 국가에서는 구글 플레이 보호 기능이 APK 설치를 막을 수 있어 해당 기능을 잠시 끄고 설치해야 할 수 있습니다.",
+      "url": "https://github.com/thtbee/nectarlink#readme"
+     },
+     {
+      "text": "스마트폰이 와이파이에 연결되어 있고 컴퓨터가 랜선으로 연결된 경우 페어링이 실패할 수 있습니다.",
+      "url": "https://github.com/thtbee/nectarlink/issues/404"
+     },
+     {
+      "text": "맥OS 등 일부 환경에서는 윈도우 전용 안내 문구나 설정 항목이 그대로 표시될 수 있습니다.",
+      "url": "https://github.com/thtbee/nectarlink/issues/431"
+     }
+    ],
+    "asOf": "2026-11-18",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "phone-tools",
+    "files-photos"
+   ],
+   "cardTag": "v0.1.5",
+   "score": 7.1166,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 68,
+     "checkedAt": "2026-11-17",
+     "asset": "Nectarlink-0.1.5-android.apk",
+     "sha256": "df48e7fe059569fcfd2a38799b828fa4005af2e53b7c1c76fa81d077922df4b6"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v0.1.5",
+    "packageName": "app.nectarlink",
+    "certSha256": "c7c09a125ca5320b1670e710e798486de08b318127243b2790f3ff13511924f1"
+   }
+  },
+  {
    "repo": "TeamAmaze/AmazeFileManager",
    "name": "AmazeFileManager",
    "owner": "TeamAmaze",
    "avatarUrl": "https://avatars.githubusercontent.com/u/30984365?v=4",
-   "stars": 6472,
+   "stars": 6471,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6205,7 +6438,7 @@
     "files-photos"
    ],
    "cardTag": "v3.11.4",
-   "score": 7.1193,
+   "score": 7.1138,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6234,7 +6467,7 @@
    "name": "LibreTube",
    "owner": "libre-tube",
    "avatarUrl": "https://avatars.githubusercontent.com/u/96022078?v=4",
-   "stars": 13034,
+   "stars": 13036,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6328,7 +6561,7 @@
     "privacy"
    ],
    "cardTag": "v32.1",
-   "score": 7.1165,
+   "score": 7.1111,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6342,124 +6575,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v32.1"
-   }
-  },
-  {
-   "repo": "thtbee/nectarlink",
-   "name": "nectarlink",
-   "owner": "thtbee",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/302257494?v=4",
-   "stars": 4892,
-   "license": "NOASSERTION",
-   "topics": [
-    "android",
-    "jetpack-compose",
-    "kde-connect-features",
-    "kotlin",
-    "linux",
-    "localsend",
-    "phone-link",
-    "qt",
-    "rust",
-    "windows"
-   ],
-   "latestTag": "v0.1.5",
-   "latestDate": "2026-11-05",
-   "apkCount": 1,
-   "description": "Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.",
-   "summaryKo": "안드로이드 스마트폰과 PC를 하나처럼 연결하는 오픈소스 프로그램",
-   "notesKo": {
-    "tag": "v0.1.5",
-    "lines": [
-     "PC 앱에서 폰을 마이크와 웹캠으로 사용 가능",
-     "나이트리 채널 추가 및 이전 버전 버그 수정",
-     "다양한 운영체제별 다운로드 지원"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-glass-home.png",
-    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-hive-light.png",
-    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-hive-dark.png",
-    "https://raw.githubusercontent.com/thtbee/nectarlink/HEAD/docs/screenshots/desktop-bloom-home.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 스마트폰과 PC를 하나처럼 연결하는 오픈소스 프로그램",
-    "forWhom": "폰과 컴퓨터를 자주 오가며 알림이나 파일을 주고받는 사용자",
-    "features": [
-     "PC에서 폰 알림 확인 및 답장",
-     "와이파이 속도로 파일과 폴더 양방향 전송",
-     "스마트폰 화면을 PC에서 그대로 보기"
-    ],
-    "howToStart": [
-     "PC와 스마트폰에 각각 NectarLink를 설치합니다.",
-     "PC 설정 화면에 나타난 QR 코드를 스마트폰으로 스캔하거나 근처 기기 목록에서 선택합니다.",
-     "공유하고 싶은 기능을 기기별로 켜서 사용합니다."
-    ],
-    "praise": [
-     {
-      "text": "정말 좋은 기능들을 제공하고 멋진 모습을 보여줍니다.",
-      "source": "GitHub 이슈 #407",
-      "url": "https://github.com/thtbee/nectarlink/issues/407",
-      "date": "2026-11-16",
-      "old": false
-     }
-    ],
-    "complaints": [
-     {
-      "text": "안드로이드 테마 설정에서 변경을 누르면 홈 탭으로 바로 튀어 나가 불편합니다.",
-      "source": "GitHub 이슈 #8",
-      "url": "https://github.com/thtbee/nectarlink/issues/8",
-      "date": "2026-10-16",
-      "old": false
-     },
-     {
-      "text": "화면을 녹화한 뒤 저장된 동영상 파일이 재생되지 않습니다.",
-      "source": "GitHub 이슈 #428",
-      "url": "https://github.com/thtbee/nectarlink/issues/428",
-      "date": "2026-11-17",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "인도 등 일부 국가에서는 구글 플레이 보호 기능이 APK 설치를 막을 수 있어 해당 기능을 잠시 끄고 설치해야 할 수 있습니다.",
-      "url": "https://github.com/thtbee/nectarlink#readme"
-     },
-     {
-      "text": "스마트폰이 와이파이에 연결되어 있고 컴퓨터가 랜선으로 연결된 경우 페어링이 실패할 수 있습니다.",
-      "url": "https://github.com/thtbee/nectarlink/issues/404"
-     },
-     {
-      "text": "맥OS 등 일부 환경에서는 윈도우 전용 안내 문구나 설정 항목이 그대로 표시될 수 있습니다.",
-      "url": "https://github.com/thtbee/nectarlink/issues/431"
-     }
-    ],
-    "asOf": "2026-11-18",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "phone-tools",
-    "files-photos"
-   ],
-   "cardTag": "v0.1.5",
-   "score": 7.1129,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-17",
-     "asset": "Nectarlink-0.1.5-android.apk",
-     "sha256": "df48e7fe059569fcfd2a38799b828fa4005af2e53b7c1c76fa81d077922df4b6"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v0.1.5",
-    "packageName": "app.nectarlink",
-    "certSha256": "c7c09a125ca5320b1670e710e798486de08b318127243b2790f3ff13511924f1"
+    "analyzedTag": "v32.1",
+    "packageName": "com.github.libretube",
+    "certSha256": "720c4fcecf738a41d033b9fbe0bef97ac232030ce93e274d2e0ae232e44eeace"
    }
   },
   {
@@ -6467,7 +6585,7 @@
    "name": "HeliBoard",
    "owner": "HeliBorg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/266185849?v=4",
-   "stars": 6609,
+   "stars": 6616,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "v4.2",
@@ -6554,7 +6672,7 @@
     "keyboards"
    ],
    "cardTag": "v4.2",
-   "score": 7.112,
+   "score": 7.107,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6578,7 +6696,7 @@
    "name": "shattered-pixel-dungeon",
    "owner": "00-Evan",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2347603?v=4",
-   "stars": 6827,
+   "stars": 6833,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6654,7 +6772,7 @@
    },
    "themes": [],
    "cardTag": "v4.0.2",
-   "score": 7.0987,
+   "score": 7.0936,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6678,7 +6796,7 @@
    "name": "trime",
    "owner": "osfans",
    "avatarUrl": "https://avatars.githubusercontent.com/u/7677088?v=4",
-   "stars": 4821,
+   "stars": 4820,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6768,7 +6886,7 @@
     "keyboards"
    ],
    "cardTag": "v3.3.13",
-   "score": 7.0846,
+   "score": 7.079,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6792,7 +6910,7 @@
    "name": "rethink-app",
    "owner": "celzero",
    "avatarUrl": "https://avatars.githubusercontent.com/u/68689239?v=4",
-   "stars": 5933,
+   "stars": 5941,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -6888,7 +7006,7 @@
     "network-vpn"
    ],
    "cardTag": "v0.5.8",
-   "score": 7.0706,
+   "score": 7.0657,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6904,7 +7022,9 @@
     "antiFeatures": [
      "구글 서비스 필요"
     ],
-    "analyzedTag": "v0.5.8"
+    "analyzedTag": "v0.5.8",
+    "packageName": "com.celzero.bravedns",
+    "certSha256": "1f32d432e81a1dc5c00aafeb0c6636cd7819965d174420e59db9675dff7a88e9"
    }
   },
   {
@@ -6912,7 +7032,7 @@
    "name": "app",
    "owner": "stratumauth",
    "avatarUrl": "https://avatars.githubusercontent.com/u/184630489?v=4",
-   "stars": 4643,
+   "stars": 4645,
    "license": "GPL-3.0",
    "topics": [
     "2fa",
@@ -7009,7 +7129,7 @@
     "security-auth"
    ],
    "cardTag": "v1.7.0",
-   "score": 7.0683,
+   "score": 7.063,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7033,7 +7153,7 @@
    "name": "AppManager",
    "owner": "MuntashirAkon",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8176128?v=4",
-   "stars": 9647,
+   "stars": 9656,
    "license": "NOASSERTION",
    "topics": [
     "adb",
@@ -7114,7 +7234,7 @@
     "phone-tools"
    ],
    "cardTag": "v4.1.1",
-   "score": 7.068,
+   "score": 7.0629,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7128,7 +7248,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v4.1.1"
+    "analyzedTag": "v4.1.1",
+    "packageName": "io.github.muntashirakon.AppManager",
+    "certSha256": "320c0c0fe8cef873f2b554cb88c837f1512589dcced50c5b25c43c04596760ab"
    }
   },
   {
@@ -7136,7 +7258,7 @@
    "name": "orbot-android",
    "owner": "guardianproject",
    "avatarUrl": "https://avatars.githubusercontent.com/u/218109?v=4",
-   "stars": 3714,
+   "stars": 3717,
    "license": "NOASSERTION",
    "topics": [
     "anonymity",
@@ -7228,7 +7350,7 @@
     "network-vpn"
    ],
    "cardTag": "17.9.8-RC-1-tor-0.4.9.17",
-   "score": 7.0535,
+   "score": 7.0484,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7254,7 +7376,7 @@
    "name": "streamyfin",
    "owner": "streamyfin",
    "avatarUrl": "https://avatars.githubusercontent.com/u/193271640?v=4",
-   "stars": 5371,
+   "stars": 5373,
    "license": "MPL-2.0",
    "topics": [
     "android",
@@ -7329,7 +7451,7 @@
     "downloaders"
    ],
    "cardTag": "v0.55.2",
-   "score": 7.0438,
+   "score": 7.0385,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7353,7 +7475,7 @@
    "name": "Gallery",
    "owner": "FossifyOrg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 3932,
+   "stars": 3937,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -7443,7 +7565,7 @@
     "files-photos"
    ],
    "cardTag": "1.14.2",
-   "score": 7.029,
+   "score": 7.024,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7457,7 +7579,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "1.14.2"
+    "analyzedTag": "1.14.2",
+    "packageName": "org.fossify.gallery",
+    "certSha256": "affdb124d3f4720c2f98dbca9eacba0514fba4306e20a2786c861c3c0d6ff292"
    }
   },
   {
@@ -7465,7 +7589,7 @@
    "name": "zhihu-plus-plus",
    "owner": "zly2006",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66198935?v=4",
-   "stars": 4521,
+   "stars": 4528,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -7558,7 +7682,7 @@
     "reading-news"
    ],
    "cardTag": "0.31.1",
-   "score": 7.0074,
+   "score": 7.0026,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7582,7 +7706,7 @@
    "name": "namida",
    "owner": "namidaco",
    "avatarUrl": "https://avatars.githubusercontent.com/u/125698776?v=4",
-   "stars": 6886,
+   "stars": 6888,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -7681,7 +7805,7 @@
     "ad-free-media"
    ],
    "cardTag": "v7.1.2",
-   "score": 7.0038,
+   "score": 6.9984,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7705,7 +7829,7 @@
    "name": "findroid",
    "owner": "jarnedemeulemeester",
    "avatarUrl": "https://avatars.githubusercontent.com/u/32322857?v=4",
-   "stars": 4308,
+   "stars": 4309,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -7791,7 +7915,7 @@
     "ad-free-media"
    ],
    "cardTag": "v1.2.0",
-   "score": 6.9974,
+   "score": 6.992,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7815,7 +7939,7 @@
    "name": "Unexpected-Keyboard",
    "owner": "Julow",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2310568?v=4",
-   "stars": 3361,
+   "stars": 3364,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -7899,7 +8023,7 @@
     "keyboards"
    ],
    "cardTag": "2.2.1",
-   "score": 6.9882,
+   "score": 6.9831,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7913,7 +8037,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "2.2.1"
+    "analyzedTag": "2.2.1",
+    "packageName": "juloo.keyboard2",
+    "certSha256": "0fd96daf7a70981edc7af42d14a20ff19e90514c9966de93abb7af251453efc4"
    }
   },
   {
@@ -7921,7 +8047,7 @@
    "name": "KernelSU-Next",
    "owner": "KernelSU-Next",
    "avatarUrl": "https://avatars.githubusercontent.com/u/196533758?v=4",
-   "stars": 4892,
+   "stars": 4898,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -7993,7 +8119,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.4.2",
-   "score": 6.9868,
+   "score": 6.9819,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8093,7 +8219,7 @@
    },
    "themes": [],
    "cardTag": "2.0.0",
-   "score": 6.9822,
+   "score": 6.9767,
    "safety": {
     "vt": null,
     "attested": false,
@@ -8110,7 +8236,7 @@
    "name": "plain-app",
    "owner": "plainhub",
    "avatarUrl": "https://avatars.githubusercontent.com/u/262618287?v=4",
-   "stars": 7234,
+   "stars": 7236,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -8222,7 +8348,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.3.25",
-   "score": 6.9814,
+   "score": 6.976,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -8248,7 +8374,7 @@
    "name": "Hail",
    "owner": "aistra0528",
    "avatarUrl": "https://avatars.githubusercontent.com/u/55940744?v=4",
-   "stars": 7365,
+   "stars": 7375,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -8344,7 +8470,7 @@
     "privacy"
    ],
    "cardTag": "v1.11.0",
-   "score": 6.9015,
+   "score": 6.8966,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8368,7 +8494,7 @@
    "name": "Kvaesitso",
    "owner": "MM2-0",
    "avatarUrl": "https://avatars.githubusercontent.com/u/15646950?v=4",
-   "stars": 5403,
+   "stars": 5404,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -8448,7 +8574,7 @@
    },
    "themes": [],
    "cardTag": "v1.41.0",
-   "score": 6.8766,
+   "score": 6.8712,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8472,7 +8598,7 @@
    "name": "openScale",
    "owner": "oliexdev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10166185?v=4",
-   "stars": 2675,
+   "stars": 2676,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "v3.1.4",
@@ -8540,7 +8666,7 @@
     "health-fitness"
    ],
    "cardTag": "v3.1.4",
-   "score": 6.8234,
+   "score": 6.8181,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8554,7 +8680,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v3.1.4"
+    "analyzedTag": "v3.1.4",
+    "packageName": "com.health.openscale",
+    "certSha256": "c21c041939ed3d2eac46e4b37ae4093a18b57f8995ef9eefb41c532ea1aa071e"
    }
   },
   {
@@ -8562,7 +8690,7 @@
    "name": "vcmi",
    "owner": "vcmi",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2861395?v=4",
-   "stars": 6037,
+   "stars": 6036,
    "license": "GPL-2.0",
    "topics": [
     "android",
@@ -8635,7 +8763,7 @@
    },
    "themes": [],
    "cardTag": "1.7.5",
-   "score": 6.7549,
+   "score": 6.7493,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8659,7 +8787,7 @@
    "name": "Android-Iconics",
    "owner": "mikepenz",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1476232?v=4",
-   "stars": 5279,
+   "stars": 5278,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -8751,7 +8879,7 @@
    },
    "themes": [],
    "cardTag": "v5.6.0",
-   "score": 6.724,
+   "score": 6.7184,
    "safety": {
     "vt": null,
     "attested": false,
@@ -8768,7 +8896,7 @@
    "name": "v2rayNG",
    "owner": "2dust",
    "avatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
-   "stars": 66137,
+   "stars": 66196,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -8846,7 +8974,7 @@
     "privacy"
    ],
    "cardTag": "2.3.15",
-   "score": 6.7218,
+   "score": 6.7167,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8860,7 +8988,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "2.3.15"
+    "analyzedTag": "2.3.15",
+    "packageName": "com.v2ray.ang.fdroid",
+    "certSha256": "b7dc883e7678d6c618569e48a1c8c267a134a75f8bcb763510c8bffb3b90b077"
    }
   },
   {
@@ -8868,7 +8998,7 @@
    "name": "material-components-android",
    "owner": "material-components",
    "avatarUrl": "https://avatars.githubusercontent.com/u/19478152?v=4",
-   "stars": 17465,
+   "stars": 17466,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -8929,7 +9059,7 @@
    },
    "themes": [],
    "cardTag": "1.14.0",
-   "score": 6.7011,
+   "score": 6.6956,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9036,7 +9166,7 @@
    },
    "themes": [],
    "cardTag": "v7.0.3",
-   "score": 6.6956,
+   "score": 6.6902,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -9060,7 +9190,7 @@
    "name": "Hide-My-Applist",
    "owner": "Dr-TSNG",
    "avatarUrl": "https://avatars.githubusercontent.com/u/52071314?v=4",
-   "stars": 5676,
+   "stars": 5678,
    "license": null,
    "topics": [
     "android",
@@ -9148,7 +9278,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.8.3",
-   "score": 6.6514,
+   "score": 6.6461,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9172,7 +9302,7 @@
    "name": "fcitx5-android",
    "owner": "fcitx5-android",
    "avatarUrl": "https://avatars.githubusercontent.com/u/101684439?v=4",
-   "stars": 5923,
+   "stars": 5930,
    "license": "LGPL-2.1",
    "topics": [
     "android",
@@ -9255,7 +9385,7 @@
     "keyboards"
    ],
    "cardTag": "0.1.3",
-   "score": 6.637,
+   "score": 6.632,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9279,7 +9409,7 @@
    "name": "AnySoftKeyboard",
    "owner": "AnySoftKeyboard",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1655410?v=4",
-   "stars": 3391,
+   "stars": 3390,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -9361,7 +9491,7 @@
     "keyboards"
    ],
    "cardTag": "1.13-r2",
-   "score": 6.6359,
+   "score": 6.6303,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -9377,7 +9507,9 @@
     "antiFeatures": [
      "구글 서비스 필요"
     ],
-    "analyzedTag": "1.13-r2"
+    "analyzedTag": "1.13-r2",
+    "packageName": "com.menny.android.anysoftkeyboard",
+    "certSha256": "b826547aa579d30bca8fb491a31a54c01d1b42064fad2998599a5811ec71d3b0"
    }
   },
   {
@@ -9472,7 +9604,7 @@
     "notes-tasks"
    ],
    "cardTag": "v1.5.16",
-   "score": 6.6112,
+   "score": 6.6057,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9499,7 +9631,7 @@
    "name": "gopeed",
    "owner": "GopeedLab",
    "avatarUrl": "https://avatars.githubusercontent.com/u/125134399?v=4",
-   "stars": 27791,
+   "stars": 27808,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -9593,7 +9725,7 @@
     "downloaders"
    ],
    "cardTag": "v1.9.3",
-   "score": 6.596,
+   "score": 6.5908,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9708,7 +9840,7 @@
    },
    "themes": [],
    "cardTag": "v10.0.0",
-   "score": 6.5952,
+   "score": 6.5898,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9732,7 +9864,7 @@
    "name": "tiny_container",
    "owner": "Cateners",
    "avatarUrl": "https://avatars.githubusercontent.com/u/58554009?v=4",
-   "stars": 4393,
+   "stars": 4394,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -9822,7 +9954,7 @@
    },
    "themes": [],
    "cardTag": "v4.2.2",
-   "score": 6.584,
+   "score": 6.5786,
    "safety": {
     "vt": null,
     "attested": false,
@@ -9839,7 +9971,7 @@
    "name": "Auxio",
    "owner": "OxygenCobalt",
    "avatarUrl": "https://avatars.githubusercontent.com/u/65370175?v=4",
-   "stars": 4475,
+   "stars": 4479,
    "license": "GPL-3.0",
    "topics": [
     "album",
@@ -9925,7 +10057,7 @@
     "ad-free-media"
    ],
    "cardTag": "v4.1.5",
-   "score": 6.5646,
+   "score": 6.5595,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10029,7 +10161,7 @@
    },
    "themes": [],
    "cardTag": "28.3",
-   "score": 6.5061,
+   "score": 6.5007,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -10053,7 +10185,7 @@
    "name": "NetGuard",
    "owner": "M66B",
    "avatarUrl": "https://avatars.githubusercontent.com/u/259573?v=4",
-   "stars": 4005,
+   "stars": 4007,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "2.337",
@@ -10135,7 +10267,7 @@
     "network-vpn"
    ],
    "cardTag": "2.337",
-   "score": 6.5,
+   "score": 6.4947,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10151,7 +10283,9 @@
     "antiFeatures": [
      "구글 서비스 필요"
     ],
-    "analyzedTag": "2.337"
+    "analyzedTag": "2.337",
+    "packageName": "eu.faircode.netguard",
+    "certSha256": "e4a260a2dce7b7af23ee919c489e15fd0102b93f9e7c9d82b09c0b395000e4d4"
    }
   },
   {
@@ -10159,7 +10293,7 @@
    "name": "ReadYou",
    "owner": "ReadYouApp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/221981456?v=4",
-   "stars": 7684,
+   "stars": 7680,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10237,7 +10371,7 @@
     "reading-news"
    ],
    "cardTag": "0.16.2",
-   "score": 6.4596,
+   "score": 6.4539,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10251,7 +10385,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "0.16.2"
+    "analyzedTag": "0.16.2",
+    "packageName": "me.ash.reader",
+    "certSha256": "715696914a35366d98fa45312af96811f7e6de4085b5e4709f4c1e74f8bde4d0"
    }
   },
   {
@@ -10259,7 +10395,7 @@
    "name": "copymanga",
    "owner": "fumiama",
    "avatarUrl": "https://avatars.githubusercontent.com/u/41315874?v=4",
-   "stars": 4395,
+   "stars": 4397,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10364,7 +10500,7 @@
     "reading-news"
    ],
    "cardTag": "web1.6.0",
-   "score": 6.4472,
+   "score": 6.4419,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10388,7 +10524,7 @@
    "name": "WiFiAnalyzer",
    "owner": "VREMSoftwareDevelopment",
    "avatarUrl": "https://avatars.githubusercontent.com/u/6217364?v=4",
-   "stars": 5105,
+   "stars": 5107,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10475,7 +10611,7 @@
     "phone-tools"
    ],
    "cardTag": "V3.3.1-F-DROID",
-   "score": 6.4355,
+   "score": 6.4302,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10499,7 +10635,7 @@
    "name": "NekoBoxForAndroid",
    "owner": "MatsuriDayo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/95122236?v=4",
-   "stars": 23580,
+   "stars": 23588,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -10591,7 +10727,7 @@
     "network-vpn"
    ],
    "cardTag": "1.4.2",
-   "score": 6.3219,
+   "score": 6.3165,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10615,7 +10751,7 @@
    "name": "termux-app",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 65165,
+   "stars": 65229,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -10693,7 +10829,7 @@
    },
    "themes": [],
    "cardTag": "v0.118.3",
-   "score": 6.314,
+   "score": 6.3144,
    "safety": {
     "vt": null,
     "attested": false,
@@ -10708,7 +10844,7 @@
    "name": "super-productivity",
    "owner": "super-productivity",
    "avatarUrl": "https://avatars.githubusercontent.com/u/215719836?v=4",
-   "stars": 23807,
+   "stars": 23849,
    "license": "MIT",
    "topics": [
     "android",
@@ -10774,7 +10910,7 @@
     "notes-tasks"
    ],
    "cardTag": "v20.0.0",
-   "score": 6.3055,
+   "score": 6.3008,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10800,7 +10936,7 @@
    "name": "GSYVideoPlayer",
    "owner": "CarGuo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10770362?v=4",
-   "stars": 21535,
+   "stars": 21536,
    "license": "Apache-2.0",
    "topics": [
     "16k",
@@ -10874,7 +11010,7 @@
    },
    "themes": [],
    "cardTag": "v14.1.0",
-   "score": 6.2893,
+   "score": 6.2839,
    "safety": {
     "vt": null,
     "attested": false,
@@ -10893,7 +11029,7 @@
    "name": "notes-android",
    "owner": "nextcloud",
    "avatarUrl": "https://avatars.githubusercontent.com/u/19211038?v=4",
-   "stars": 1115,
+   "stars": 1114,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10969,7 +11105,7 @@
     "notes-tasks"
    ],
    "cardTag": "35.0.0",
-   "score": 6.197,
+   "score": 6.1911,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10991,7 +11127,7 @@
    "name": "KernelSU",
    "owner": "tiann",
    "avatarUrl": "https://avatars.githubusercontent.com/u/4233744?v=4",
-   "stars": 20734,
+   "stars": 20766,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11056,7 +11192,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.3.1",
-   "score": 6.1085,
+   "score": 6.1037,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11080,7 +11216,7 @@
    "name": "RTranslator",
    "owner": "niedev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/32955129?v=4",
-   "stars": 10684,
+   "stars": 10691,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -11167,7 +11303,7 @@
     "privacy"
    ],
    "cardTag": "2.1.5",
-   "score": 6.0493,
+   "score": 6.0441,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11193,7 +11329,7 @@
    "name": "Shizuku",
    "owner": "RikkaApps",
    "avatarUrl": "https://avatars.githubusercontent.com/u/31959043?v=4",
-   "stars": 34035,
+   "stars": 34114,
    "license": "Apache-2.0",
    "topics": [],
    "latestTag": "v13.6.0",
@@ -11275,14 +11411,16 @@
     "phone-tools"
    ],
    "cardTag": "v13.6.0",
-   "score": 6.0319,
+   "score": 6.0329,
    "safety": {
     "vt": null,
     "attested": false,
     "attestedChecked": false,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v13.6.0"
+    "analyzedTag": "v13.6.0",
+    "packageName": "moe.shizuku.privileged.api",
+    "certSha256": "268b5590e868fb08bae7e0ac413564cd1ff88f5ccff74af9dbd0dc918e30db30"
    }
   },
   {
@@ -11290,7 +11428,7 @@
    "name": "morphe-manager",
    "owner": "MorpheApp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/246280111?v=4",
-   "stars": 10587,
+   "stars": 10615,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11352,7 +11490,7 @@
     "privacy"
    ],
    "cardTag": "v2.6.0",
-   "score": 6.0029,
+   "score": 5.9986,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11474,7 +11612,7 @@
     "phone-tools"
    ],
    "cardTag": "8.3.18",
-   "score": 5.9984,
+   "score": 5.9929,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11488,7 +11626,123 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "8.3.18"
+    "analyzedTag": "8.3.18",
+    "packageName": "com.machiav3lli.backup",
+    "certSha256": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378"
+   }
+  },
+  {
+   "repo": "JunkFood02/Seal",
+   "name": "Seal",
+   "owner": "JunkFood02",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/69683722?v=4",
+   "stars": 30844,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "f-droid",
+    "jetpack-compose",
+    "kotlin",
+    "material-design",
+    "youtube-dl",
+    "youtube-downloader",
+    "yt-dlp"
+   ],
+   "latestTag": "v1.13.1",
+   "latestDate": "2024-10-16",
+   "apkCount": 5,
+   "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+   "summaryKo": "다양한 영상 플랫폼의 영상과 오디오를 기기에 내려받는 앱",
+   "notesKo": {
+    "tag": "v1.13.1",
+    "lines": [
+     "파이썬을 3.11 버전으로 업데이트했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
+    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg",
+    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg",
+    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg",
+    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg",
+    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg"
+   ],
+   "card": {
+    "oneLiner": "다양한 영상 플랫폼의 영상과 오디오를 기기에 내려받는 앱",
+    "forWhom": "인터넷 연결 없이 기기에서 영상과 음악을 즐기고 싶은 사람",
+    "features": [
+     "yt-dlp 지원 플랫폼 영상 및 음원 다운로드",
+     "음원 메타데이터 및 영상 썸네일 자동 삽입",
+     "재생목록 일괄 다운로드 및 자막 삽입 지원"
+    ],
+    "howToStart": [
+     "GitHub 릴리스 또는 F-Droid에서 기기 사양(arm64-v8a 권장)에 맞는 APK를 내려받아 설치합니다.",
+     "내려받고 싶은 영상 링크를 복사하여 Seal 앱에 붙여넣거나 공유 기능으로 엽니다.",
+     "원하는 영상 또는 오디오 서식을 선택하고 다운로드를 시작합니다."
+    ],
+    "praise": [
+     {
+      "text": "설정 옵션 구성이 적절하며 간편하게 다운로드할 수 있습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=45314601",
+      "date": "2025-09-20",
+      "old": false
+     },
+     {
+      "text": "재생목록을 내려받아 오프라인에서 듣기에 편리합니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.sdf.org/post/29018268",
+      "date": "2025-02-05",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "재생목록 다운로드 시 마지막 영상 1개만 받아지는 현상이 있습니다.",
+      "source": "GitHub 이슈 #736",
+      "url": "https://github.com/JunkFood02/Seal/issues/736",
+      "date": "2023-05-01",
+      "old": true
+     },
+     {
+      "text": "이미 다운로드한 영상 링크로는 오디오만 따로 다시 받기 어렵습니다.",
+      "source": "GitHub 이슈 #2689",
+      "url": "https://github.com/JunkFood02/Seal/issues/2689",
+      "date": "2026-11-09",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2024-10-16예요",
+      "url": "https://github.com/JunkFood02/Seal/releases"
+     },
+     {
+      "text": "인스타그램 등 로그인이 필요하거나 요청 제한이 걸린 사이트는 다운로드가 실패할 수 있습니다.",
+      "url": "https://github.com/JunkFood02/Seal/issues/2686"
+     },
+     {
+      "text": "유튜브 등 플랫폼 변경 시 자바스크립트 런타임 누락 등으로 다운로드 오류가 발생할 수 있습니다.",
+      "url": "https://github.com/JunkFood02/Seal/issues/2455"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-latest"
+   },
+   "themes": [
+    "downloaders"
+   ],
+   "cardTag": "v1.13.1",
+   "score": 5.9892,
+   "safety": {
+    "vt": null,
+    "attested": false,
+    "attestedChecked": false,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v1.13.1",
+    "packageName": "com.junkfood.seal",
+    "certSha256": "4493582a4148df38fc269073c8787c31c431ed5b6d62710892a0406ff50c4d67"
    }
   },
   {
@@ -11496,7 +11750,7 @@
    "name": "Lemuroid",
    "owner": "Swordfish90",
    "avatarUrl": "https://avatars.githubusercontent.com/u/6009070?v=4",
-   "stars": 4523,
+   "stars": 4527,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11590,7 +11844,7 @@
    },
    "themes": [],
    "cardTag": "1.17.0",
-   "score": 5.9939,
+   "score": 5.9888,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11614,7 +11868,7 @@
    "name": "AidLearning-FrameWork",
    "owner": "aidlearning",
    "avatarUrl": "https://avatars.githubusercontent.com/u/49776013?v=4",
-   "stars": 5820,
+   "stars": 5818,
    "license": "NOASSERTION",
    "topics": [
     "aios",
@@ -11715,7 +11969,7 @@
    },
    "themes": [],
    "cardTag": "V2.1.0",
-   "score": 5.9938,
+   "score": 5.9881,
    "safety": {
     "vt": null,
     "attested": false,
@@ -11728,222 +11982,11 @@
    }
   },
   {
-   "repo": "JunkFood02/Seal",
-   "name": "Seal",
-   "owner": "JunkFood02",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/69683722?v=4",
-   "stars": 30807,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "f-droid",
-    "jetpack-compose",
-    "kotlin",
-    "material-design",
-    "youtube-dl",
-    "youtube-downloader",
-    "yt-dlp"
-   ],
-   "latestTag": "v1.13.1",
-   "latestDate": "2024-10-16",
-   "apkCount": 5,
-   "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
-   "summaryKo": "다양한 영상 플랫폼의 영상과 오디오를 기기에 내려받는 앱",
-   "notesKo": {
-    "tag": "v1.13.1",
-    "lines": [
-     "파이썬을 3.11 버전으로 업데이트했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
-    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg",
-    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg",
-    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg",
-    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg",
-    "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg"
-   ],
-   "card": {
-    "oneLiner": "다양한 영상 플랫폼의 영상과 오디오를 기기에 내려받는 앱",
-    "forWhom": "인터넷 연결 없이 기기에서 영상과 음악을 즐기고 싶은 사람",
-    "features": [
-     "yt-dlp 지원 플랫폼 영상 및 음원 다운로드",
-     "음원 메타데이터 및 영상 썸네일 자동 삽입",
-     "재생목록 일괄 다운로드 및 자막 삽입 지원"
-    ],
-    "howToStart": [
-     "GitHub 릴리스 또는 F-Droid에서 기기 사양(arm64-v8a 권장)에 맞는 APK를 내려받아 설치합니다.",
-     "내려받고 싶은 영상 링크를 복사하여 Seal 앱에 붙여넣거나 공유 기능으로 엽니다.",
-     "원하는 영상 또는 오디오 서식을 선택하고 다운로드를 시작합니다."
-    ],
-    "praise": [
-     {
-      "text": "설정 옵션 구성이 적절하며 간편하게 다운로드할 수 있습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=45314601",
-      "date": "2025-09-20",
-      "old": false
-     },
-     {
-      "text": "재생목록을 내려받아 오프라인에서 듣기에 편리합니다.",
-      "source": "Lemmy 댓글",
-      "url": "https://lemmy.sdf.org/post/29018268",
-      "date": "2025-02-05",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "재생목록 다운로드 시 마지막 영상 1개만 받아지는 현상이 있습니다.",
-      "source": "GitHub 이슈 #736",
-      "url": "https://github.com/JunkFood02/Seal/issues/736",
-      "date": "2023-05-01",
-      "old": true
-     },
-     {
-      "text": "이미 다운로드한 영상 링크로는 오디오만 따로 다시 받기 어렵습니다.",
-      "source": "GitHub 이슈 #2689",
-      "url": "https://github.com/JunkFood02/Seal/issues/2689",
-      "date": "2026-11-09",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "오래 갱신이 없어요. 마지막 릴리스가 2024-10-16예요",
-      "url": "https://github.com/JunkFood02/Seal/releases"
-     },
-     {
-      "text": "인스타그램 등 로그인이 필요하거나 요청 제한이 걸린 사이트는 다운로드가 실패할 수 있습니다.",
-      "url": "https://github.com/JunkFood02/Seal/issues/2686"
-     },
-     {
-      "text": "유튜브 등 플랫폼 변경 시 자바스크립트 런타임 누락 등으로 다운로드 오류가 발생할 수 있습니다.",
-      "url": "https://github.com/JunkFood02/Seal/issues/2455"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-latest"
-   },
-   "themes": [
-    "downloaders"
-   ],
-   "cardTag": "v1.13.1",
-   "score": 5.9887,
-   "safety": {
-    "vt": null,
-    "attested": false,
-    "attestedChecked": false,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v1.13.1"
-   }
-  },
-  {
-   "repo": "Minireel/HGhub",
-   "name": "HGhub",
-   "owner": "Minireel",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/328980256?v=4",
-   "stars": 10072,
-   "license": "NOASSERTION",
-   "topics": [
-    "android",
-    "drama",
-    "free",
-    "movie-web-app",
-    "reels",
-    "windows"
-   ],
-   "latestTag": "v0.0.2",
-   "latestDate": "2026-11-16",
-   "apkCount": 3,
-   "description": "Plug-in media player",
-   "summaryKo": "자바스크립트 플러그인으로 여러 소스를 연결하는 영상 재생 앱",
-   "notesKo": {
-    "tag": "v0.0.2",
-    "lines": [
-     "HGhub: 재생 응답과 연속 재생 경험을 개선했습니다.",
-     "HGhub: 설정에서 GitHub Release 업데이트를 확인할 수 있습니다.",
-     "HGhub: RSA 암호化 인터페이스와 플러그인 개발 자료를 추가했습니다."
-    ]
-   },
-   "screenshots": [],
-   "card": {
-    "oneLiner": "자바스크립트 플러그인으로 여러 소스를 연결하는 영상 재생 앱",
-    "forWhom": "직접 플러그인을 넣어 다양한 영상을 모아 보고 싶은 사용자",
-    "features": [
-     "플러그인을 불러와 콘텐츠 소스 연결",
-     "즐겨찾기, 시청 기록 및 이어보기 관리",
-     "자동 연이어 보기와 화면 전환 최적화"
-    ],
-    "howToStart": [
-     "플러그인 중심 메뉴 또는 설정의 플러그인 관리로 이동합니다.",
-     "가지고 있는 플러그인 파일이나 주소를 입력해 설치합니다.",
-     "원하는 콘텐츠를 골라 재생을 시작합니다."
-    ],
-    "praise": [],
-    "complaints": [
-     {
-      "text": "처음에 플러그인을 직접 넣어야 하거나 안드로이드에서 재생이 안 되는 문제가 있습니다.",
-      "source": "GitHub 이슈 #67",
-      "url": "https://github.com/Minireel/HGhub/issues/67",
-      "date": "2026-11-15",
-      "old": false
-     },
-     {
-      "text": "재생 버튼을 눌러도 주소가 비어 있거나 불러오지 못하는 오류가 생깁니다.",
-      "source": "GitHub 이슈 #45",
-      "url": "https://github.com/Minireel/HGhub/issues/45",
-      "date": "2026-11-10",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "초기 개발 단계라 기능과 인터페이스가 계속 바뀔 수 있습니다.",
-      "url": "https://github.com/Minireel/HGhub/releases/tag/v0.0.2"
-     },
-     {
-      "text": "앱 자체에는 콘텐츠나 기본 플러그인이 들어 있지 않습니다.",
-      "url": "https://github.com/Minireel/HGhub#readme"
-     },
-     {
-      "text": "유사한 이름의 가짜 사이트나 피싱 링크를 조심해야 합니다.",
-      "url": "https://github.com/Minireel/HGhub/issues/65"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "downloaders"
-   ],
-   "cardTag": "v0.0.2",
-   "score": 5.9867,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-17",
-     "asset": "HGhub_0.0.2_arm.apk",
-     "sha256": "616451c56a1adbd0cc4267a8777abf83a2ad79563f55b45fe9de9dd4f3ccc226"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v0.0.2",
-    "packageName": "com.hghub.player",
-    "certSha256": "cda610783fd33d6c7048cce56232873f6bc1d23e1bbb0358eec2baccfc572d29"
-   }
-  },
-  {
    "repo": "bitwarden/android",
    "name": "android",
    "owner": "bitwarden",
    "avatarUrl": "https://avatars.githubusercontent.com/u/15990069?v=4",
-   "stars": 9661,
+   "stars": 9665,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11952,44 +11995,44 @@
     "jetpack",
     "kotlin"
    ],
-   "latestTag": "v2026.10.1-bwpm",
-   "latestDate": "2026-10-29",
+   "latestTag": "v2026.11.1-bwpm",
+   "latestDate": "2026-11-19",
    "apkCount": 2,
    "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
-   "summaryKo": "안드로이드에서 비밀번호를 안전하게 보관하고 자동으로 입력하는 앱",
+   "summaryKo": "안드로이드 기기에서 비밀번호와 인증 정보를 안전하게 관리하는 앱",
    "notesKo": {
-    "tag": "v2026.10.1-bwpm",
+    "tag": "v2026.11.1-bwpm",
     "lines": [
-     "생성기 탭에서 새로운 로그인을 생성할 수 있습니다.",
-     "안드로이드 10에서 자동완성 충돌을 수정했습니다.",
-     "수정 후 자동완성 선택이 해제되던 문제를 수정했습니다."
+     "보관함 섹션을 접고 펼치는 기능이 추가되었습니다.",
+     "새로운 글꼴과 탭 아이콘으로 디자인이 새로워졌습니다.",
+     "동기화 실패 시 오류가 표시되지 않던 문제가 수정되었습니다."
     ]
    },
    "screenshots": [],
    "card": {
-    "oneLiner": "안드로이드에서 비밀번호를 안전하게 보관하고 자동으로 입력하는 앱",
-    "forWhom": "스마트폰에서 계정 정보를 안전하게 관리하고 싶은 사용자",
+    "oneLiner": "안드로이드 기기에서 비밀번호와 인증 정보를 안전하게 관리하는 앱",
+    "forWhom": "스마트폰에서 비밀번호와 계정을 안전하게 관리하고 싶은 사용자",
     "features": [
-     "비밀번호 자동 입력 및 로그인 정보 저장",
-     "생체 인식으로 안전하게 금고 잠금 해제",
-     "생성기 탭에서 새로운 로그인 정보 바로 생성"
+     "웹사이트와 앱의 로그인 정보를 자동으로 채워 줍니다.",
+     "생체 인식이나 비밀번호로 안전하게 잠금을 해제할 수 있습니다.",
+     "저장된 비밀번호와 인증 코드를 동기화합니다."
     ],
     "howToStart": [
-     "구글 플레이 스토어 등에서 Bitwarden 안드로이드 앱을 설치합니다.",
-     "계정에 로그인하여 기존 금고를 불러오거나 새 계정을 만듭니다.",
-     "안드로이드 설정에서 자동 입력 서비스로 지정해 사용합니다."
+     "저장소 코드를 복제합니다.",
+     "프로젝트 최상위 디렉토리에 user.properties 파일을 만들고 필요한 설정을 추가합니다.",
+     "개발 환경에서 JDK 21 버전을 설정하고 빌드합니다."
     ],
     "praise": [],
     "complaints": [
      {
-      "text": "특정 버전에서 웹사이트 도메인 대신 브라우저 패키지 이름으로 인식하는 자동 입력 오류가 발생합니다.",
+      "text": "특정 브라우저에서 자동 완성 기능이 도메인 대신 패키지 이름으로 인식되는 문제가 있습니다.",
       "source": "GitHub 이슈 #6107",
       "url": "https://github.com/bitwarden/android/issues/6107",
       "date": "2025-10-31",
       "old": false
      },
      {
-      "text": "잠금 해제 후 로딩 화면에서 멈추는 현상이 나타날 수 있습니다.",
+      "text": "로그인 후 화면이 로딩 원 상태에서 멈추는 현상이 발생합니다.",
       "source": "GitHub 이슈 #3881",
       "url": "https://github.com/bitwarden/android/issues/3881",
       "date": "2024-09-07",
@@ -11998,32 +12041,38 @@
     ],
     "cautions": [
      {
-      "text": "업데이트 후 일부 기기에서 자동 입력이나 생체 인식 잠금 해제에 문제가 생길 수 있습니다.",
+      "text": "일부 기기나 최신 업데이트 환경에서 생체 인식 잠금 해제가 작동하지 않을 수 있습니다.",
       "url": "https://github.com/bitwarden/android/issues/7604"
+     },
+     {
+      "text": "서버에서 SVG 형식의 아이콘을 제공할 때 앱에서 제대로 표시하지 못할 수 있습니다.",
+      "url": "https://github.com/bitwarden/android/issues/7574"
      }
     ],
-    "asOf": "2026-11-16",
+    "asOf": "2026-11-20",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [
     "security-auth"
    ],
-   "cardTag": "v2026.10.1-bwpm",
-   "score": 5.87,
+   "cardTag": "v2026.11.1-bwpm",
+   "score": 5.9798,
    "safety": {
     "vt": {
      "malicious": 0,
      "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-16",
+     "engines": 64,
+     "checkedAt": "2026-11-20",
      "asset": "com.x8bit.bitwarden-fdroid.apk",
-     "sha256": "96ff41d05c7da4269909518b30488e1d93deba789f679141af795aef228a1d2e"
+     "sha256": "9f4e2dc177af3a6dd1ec45aea49eb2aa5929bca5ab7f0b3d33b3db8d5790c2b4"
     },
     "attested": false,
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v2026.10.1-bwpm"
+    "analyzedTag": "v2026.11.1-bwpm",
+    "packageName": "com.x8bit.bitwarden",
+    "certSha256": "de6ec91431557995297bf3e65bc80349bc603a04708160618c86bc9994171c90"
    }
   },
   {
@@ -12031,7 +12080,7 @@
    "name": "LibChecker",
    "owner": "LibChecker",
    "avatarUrl": "https://avatars.githubusercontent.com/u/116417672?v=4",
-   "stars": 7344,
+   "stars": 7350,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -12103,7 +12152,7 @@
     "phone-tools"
    ],
    "cardTag": "2.5.5.1",
-   "score": 5.8057,
+   "score": 5.8006,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12123,106 +12172,11 @@
    }
   },
   {
-   "repo": "d4rken-org/sdmaid-se",
-   "name": "sdmaid-se",
-   "owner": "d4rken-org",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/109539113?v=4",
-   "stars": 8129,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "cleaner",
-    "cleaner-app",
-    "filemanager",
-    "sdmaid",
-    "system-cleaner"
-   ],
-   "latestTag": "v2.2.2-rc0",
-   "latestDate": "2026-10-19",
-   "apkCount": 1,
-   "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
-   "summaryKo": "안드로이드 기기 관리와 용량 확보를 돕는 오픈소스 앱",
-   "notesKo": {
-    "tag": "v2.2.2-rc0",
-    "lines": [
-     "sdmaid-se: 저장 공간 트렌드 업그레이드 카드에 1년 기간을 언급했습니다.",
-     "sdmaid-se: 모든 도구에 도움말 버튼을 추가하고 문서 언어를 지원합니다.",
-     "sdmaid-se: AppCleaner의 캐시 삭제 속도를 개선했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_dashboard.png",
-    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_appcleaner.png",
-    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_corpsefinder.png",
-    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_systemcleaner.png",
-    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_deduplicator.png",
-    "https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_appcontrol.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 기기 관리와 용량 확보를 돕는 오픈소스 앱",
-    "forWhom": "폰 용량을 늘리고 불필요한 파일을 정리하고 싶은 사람",
-    "features": [
-     "설치된 앱의 임시 파일과 찌꺼기 데이터 삭제",
-     "저장소 사용 현황 분석 및 중복 파일 찾기",
-     "루트 권한이나 시주쿠를 통한 빠른 제어"
-    ],
-    "howToStart": [
-     "GitHub 또는 지원되는 스토어에서 앱을 내려받아 설치합니다.",
-     "앱을 실행한 뒤 권한을 허용하고 저장소 정리 기능을 사용합니다."
-    ],
-    "praise": [],
-    "complaints": [
-     {
-      "text": "앱을 업데이트한 후 프로 구매 내역이 사라지는 문제가 있습니다.",
-      "source": "GitHub 이슈 #959",
-      "url": "https://github.com/d4rken-org/sdmaid-se/issues/959",
-      "date": "2024-01-27",
-      "old": true
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 중요한 앱의 데이터를 지우면 은행 인증이나 백업 데이터가 유실될 수 있습니다.",
-      "url": "https://github.com/d4rken-org/sdmaid-se/issues/618"
-     },
-     {
-      "text": "앱을 아예 지웠다가 복원하려고 할 때 복구에 어려움을 겪을 수 있습니다.",
-      "url": "https://github.com/d4rken-org/sdmaid-se/issues/2904"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "phone-tools",
-    "privacy"
-   ],
-   "cardTag": "v2.2.2-rc0",
-   "score": 5.7402,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 66,
-     "checkedAt": "2026-11-17",
-     "asset": "eu.darken.sdmse-v2.2.2-rc0-20202000-FOSS-RELEASE.apk",
-     "sha256": "11b5b9084c27ab3b30db47c92f403129244c178e81e07c0bb0ffbb64a9bb1bb6"
-    },
-    "attested": true,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v2.2.2-rc0",
-    "packageName": "eu.darken.sdmse",
-    "certSha256": "f490032be5383f55900495fa7fc207ece2e786a5c2c6cc52027b99548a9ce938"
-   }
-  },
-  {
    "repo": "jev-chat/jev-chat-jarvis",
    "name": "jev-chat-jarvis",
    "owner": "jev-chat",
    "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
-   "stars": 8458,
+   "stars": 8467,
    "license": "MIT",
    "topics": [
     "accessibility-service",
@@ -12303,7 +12257,7 @@
    },
    "themes": [],
    "cardTag": "v1.7",
-   "score": 5.6807,
+   "score": 5.6757,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12390,7 +12344,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.0",
-   "score": 5.6532,
+   "score": 5.6477,
    "safety": {
     "vt": null,
     "attested": false,
@@ -12403,112 +12357,11 @@
    }
   },
   {
-   "repo": "Chevey339/kelivo",
-   "name": "kelivo",
-   "owner": "Chevey339",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/49580479?v=4",
-   "stars": 4664,
-   "license": "AGPL-3.0",
-   "topics": [
-    "ai",
-    "android",
-    "chatbot",
-    "chatbox",
-    "flutter",
-    "flutter-apps",
-    "harmony",
-    "harmonyos",
-    "ios",
-    "llm",
-    "openharmony"
-   ],
-   "latestTag": "v1.3.6",
-   "latestDate": "2026-11-15",
-   "apkCount": 3,
-   "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-   "summaryKo": "휴대폰과 PC에서 여러 대형 언어 모델을 쓸 수 있는 오픈소스 채팅 클라이언트",
-   "notesKo": {
-    "tag": "v1.3.6",
-    "lines": [
-     "전송 전 초안의 이미지 미리보기 및 편집 기능 추가",
-     "현재 대화에서 텍스트 찾기 및 일치 항목 이동 기능 추가",
-     "DeepSeek 음성 합성 및 인식 추가"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/sta1n.png",
-    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/10dian.png",
-    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/suixiang.jpg",
-    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/marucode.jpg"
-   ],
-   "card": {
-    "oneLiner": "휴대폰과 PC에서 여러 대형 언어 모델을 쓸 수 있는 오픈소스 채팅 클라이언트",
-    "forWhom": "다양한 AI 모델을 하나의 앱에서 편하게 관리하고 싶은 분",
-    "features": [
-     "오픈에이아이, 제미나이, 클로드 등 주요 AI 모델을 앱 하나로 사용",
-     "대화, 설정, 파일을 로컬에 저장하고 웨브다브 등으로 백업 지원",
-     "모바일과 데스크톱을 지원하는 크로스플랫폼 클라이언트"
-    ],
-    "howToStart": [
-     "설정의 제공자 메뉴에서 사용할 AI 서비스의 API 열쇠를 입력하거나 계정으로 로그인합니다.",
-     "입력창에서 모델을 선택하고 필요에 따라 웹 검색이나 도구 기능을 켭니다.",
-     "원하는 경우 작업 공간을 만들어 AI가 파일을 읽고 수정하도록 연결합니다."
-    ],
-    "praise": [],
-    "complaints": [
-     {
-      "text": "음성 인식 기능이 자동으로 멈출 때 최종 텍스트가 사라지고 입력창이 비워지는 문제가 있습니다.",
-      "source": "GitHub 이슈 #1501",
-      "url": "https://github.com/Chevey339/kelivo/issues/1501",
-      "date": "2026-11-17",
-      "old": false
-     },
-     {
-      "text": "행 내 코드를 드래그할 때 내부 글자 단위가 아니라 전체 블록 단위로만 선택됩니다.",
-      "source": "GitHub 이슈 #1502",
-      "url": "https://github.com/Chevey339/kelivo/issues/1502",
-      "date": "2026-11-17",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "대화 중 다시 생성 기능을 잘못 누르면 이후의 중요한 대화 기록이 덮어씌워져 사라질 수 있습니다.",
-      "url": "https://github.com/Chevey339/kelivo/issues/346"
-     }
-    ],
-    "asOf": "2026-11-18",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [],
-   "cardTag": "v1.3.6",
-   "score": 5.6469,
-   "safety": {
-    "vt": {
-     "malicious": 1,
-     "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-17",
-     "asset": "Kelivo_android_1.3.6+88_arm64-v8a.apk",
-     "sha256": "490607ac3cd5020a118aedc431ca6fb739ae5fd318afde5ed784eadc39755c1e"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v1.3.6",
-    "packageName": "com.psyche.kelivo",
-    "certSha256": "00cdebef78297ab3e7df18792d43df6c734acd22a7a71d286928eea5cef1b6c1"
-   }
-  },
-  {
    "repo": "LawnchairLauncher/lawnchair",
    "name": "lawnchair",
    "owner": "LawnchairLauncher",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34144436?v=4",
-   "stars": 13965,
+   "stars": 13970,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -12583,7 +12436,7 @@
    },
    "themes": [],
    "cardTag": "1.2.0.1884",
-   "score": 5.6451,
+   "score": 5.6452,
    "safety": {
     "vt": null,
     "attested": false,
@@ -12598,11 +12451,112 @@
    }
   },
   {
+   "repo": "Chevey339/kelivo",
+   "name": "kelivo",
+   "owner": "Chevey339",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/49580479?v=4",
+   "stars": 4681,
+   "license": "AGPL-3.0",
+   "topics": [
+    "ai",
+    "android",
+    "chatbot",
+    "chatbox",
+    "flutter",
+    "flutter-apps",
+    "harmony",
+    "harmonyos",
+    "ios",
+    "llm",
+    "openharmony"
+   ],
+   "latestTag": "v1.3.6",
+   "latestDate": "2026-11-15",
+   "apkCount": 3,
+   "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
+   "summaryKo": "휴대폰과 PC에서 여러 대형 언어 모델을 쓸 수 있는 오픈소스 채팅 클라이언트",
+   "notesKo": {
+    "tag": "v1.3.6",
+    "lines": [
+     "전송 전 초안의 이미지 미리보기 및 편집 기능 추가",
+     "현재 대화에서 텍스트 찾기 및 일치 항목 이동 기능 추가",
+     "DeepSeek 음성 합성 및 인식 추가"
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/sta1n.png",
+    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/10dian.png",
+    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/suixiang.jpg",
+    "https://raw.githubusercontent.com/Chevey339/kelivo/HEAD/docs/sponsors/marucode.jpg"
+   ],
+   "card": {
+    "oneLiner": "휴대폰과 PC에서 여러 대형 언어 모델을 쓸 수 있는 오픈소스 채팅 클라이언트",
+    "forWhom": "다양한 AI 모델을 하나의 앱에서 편하게 관리하고 싶은 분",
+    "features": [
+     "오픈에이아이, 제미나이, 클로드 등 주요 AI 모델을 앱 하나로 사용",
+     "대화, 설정, 파일을 로컬에 저장하고 웨브다브 등으로 백업 지원",
+     "모바일과 데스크톱을 지원하는 크로스플랫폼 클라이언트"
+    ],
+    "howToStart": [
+     "설정의 제공자 메뉴에서 사용할 AI 서비스의 API 열쇠를 입력하거나 계정으로 로그인합니다.",
+     "입력창에서 모델을 선택하고 필요에 따라 웹 검색이나 도구 기능을 켭니다.",
+     "원하는 경우 작업 공간을 만들어 AI가 파일을 읽고 수정하도록 연결합니다."
+    ],
+    "praise": [],
+    "complaints": [
+     {
+      "text": "음성 인식 기능이 자동으로 멈출 때 최종 텍스트가 사라지고 입력창이 비워지는 문제가 있습니다.",
+      "source": "GitHub 이슈 #1501",
+      "url": "https://github.com/Chevey339/kelivo/issues/1501",
+      "date": "2026-11-17",
+      "old": false
+     },
+     {
+      "text": "행 내 코드를 드래그할 때 내부 글자 단위가 아니라 전체 블록 단위로만 선택됩니다.",
+      "source": "GitHub 이슈 #1502",
+      "url": "https://github.com/Chevey339/kelivo/issues/1502",
+      "date": "2026-11-17",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "대화 중 다시 생성 기능을 잘못 누르면 이후의 중요한 대화 기록이 덮어씌워져 사라질 수 있습니다.",
+      "url": "https://github.com/Chevey339/kelivo/issues/346"
+     }
+    ],
+    "asOf": "2026-11-18",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "v1.3.6",
+   "score": 5.643,
+   "safety": {
+    "vt": {
+     "malicious": 1,
+     "suspicious": 0,
+     "engines": 67,
+     "checkedAt": "2026-11-17",
+     "asset": "Kelivo_android_1.3.6+88_arm64-v8a.apk",
+     "sha256": "490607ac3cd5020a118aedc431ca6fb739ae5fd318afde5ed784eadc39755c1e"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v1.3.6",
+    "packageName": "com.psyche.kelivo",
+    "certSha256": "00cdebef78297ab3e7df18792d43df6c734acd22a7a71d286928eea5cef1b6c1"
+   }
+  },
+  {
    "repo": "mullvad/mullvadvpn-app",
    "name": "mullvadvpn-app",
    "owner": "mullvad",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10848549?v=4",
-   "stars": 7788,
+   "stars": 7791,
    "license": "GPL-3.0",
    "topics": [
     "electron",
@@ -12647,7 +12601,7 @@
     "privacy"
    ],
    "cardTag": "android/2026.12",
-   "score": 5.6175,
+   "score": 5.6122,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12661,92 +12615,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "android/2026.12"
-   }
-  },
-  {
-   "repo": "CarGuo/gsy_github_app_flutter",
-   "name": "gsy_github_app_flutter",
-   "owner": "CarGuo",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/10770362?v=4",
-   "stars": 15516,
-   "license": "Apache-2.0",
-   "topics": [
-    "android",
-    "cross-platform",
-    "dart",
-    "dartlang",
-    "flutter",
-    "flutter-app",
-    "flutter-demo",
-    "flutter-ui",
-    "flutter-widget",
-    "github-app",
-    "ios",
-    "mobile-app"
-   ],
-   "latestTag": "8.1.1",
-   "latestDate": "2026-08-04",
-   "apkCount": 1,
-   "description": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
-   "summaryKo": "크로스플랫폼으로 개발된 오픈소스 깃허브 클라이언트 앱",
-   "screenshots": [
-    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg",
-    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg",
-    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg",
-    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg"
-   ],
-   "card": {
-    "oneLiner": "크로스플랫폼으로 개발된 오픈소스 깃허브 클라이언트 앱",
-    "forWhom": "깃허브를 자주 사용하고 관리하고 싶은 사용자",
-    "features": [
-     "다양한 상태 관리 및 UI 컨트롤 사용",
-     "네트워크 및 데이터베이스 연동 기능",
-     "테마 변경 및 다국어 지원"
-    ],
-    "howToStart": [
-     "플러터 개발 환경을 설정합니다.",
-     "코드를 내려받고 패키지를 설치합니다.",
-     "설정 파일에 깃허브 클라이언트 정보를 입력합니다."
-    ],
-    "praise": [],
-    "complaints": [
-     {
-      "text": "네트워크 환경에 따라 연결이 거부되거나 요청에 실패할 수 있습니다.",
-      "source": "GitHub 이슈 #643",
-      "url": "https://github.com/CarGuo/gsy_github_app_flutter/issues/643",
-      "date": "2020-02-23",
-      "old": true
-     }
-    ],
-    "cautions": [
-     {
-      "text": "실행하기 전에 깃허브에서 클라이언트 정보를 직접 신청하여 설정해야 합니다.",
-      "url": "https://github.com/CarGuo/gsy_github_app_flutter#readme"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [],
-   "cardTag": "8.1.1",
-   "score": 5.6045,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-16",
-     "asset": "app-release.apk",
-     "sha256": "905d8760652bc70a716fec2aa300ce8e8f4996b662117726f1d0fbcd6667ef1d"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "8.1.1",
-    "packageName": "com.shuyu.gsygithub.gsygithubappflutter",
-    "certSha256": "374ef6e428ebe4b908a072833e681adc9784d87559824ce3efdb14ed77cc4962"
+    "analyzedTag": "android/2026.12",
+    "packageName": "net.mullvad.mullvadvpn",
+    "certSha256": "7be21930c3b4d73906b08930450a1d3afbd22c98d9d8e987df8c1fbc2d0c90bb"
    }
   },
   {
@@ -12754,7 +12625,7 @@
    "name": "InstallerX-Revived",
    "owner": "wxxsfxyzm",
    "avatarUrl": "https://avatars.githubusercontent.com/u/65166044?v=4",
-   "stars": 7553,
+   "stars": 7575,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -12824,7 +12695,7 @@
     "phone-tools"
    ],
    "cardTag": "26.09",
-   "score": 5.6042,
+   "score": 5.6,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12844,11 +12715,96 @@
    }
   },
   {
+   "repo": "CarGuo/gsy_github_app_flutter",
+   "name": "gsy_github_app_flutter",
+   "owner": "CarGuo",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/10770362?v=4",
+   "stars": 15514,
+   "license": "Apache-2.0",
+   "topics": [
+    "android",
+    "cross-platform",
+    "dart",
+    "dartlang",
+    "flutter",
+    "flutter-app",
+    "flutter-demo",
+    "flutter-ui",
+    "flutter-widget",
+    "github-app",
+    "ios",
+    "mobile-app"
+   ],
+   "latestTag": "8.1.1",
+   "latestDate": "2026-08-04",
+   "apkCount": 1,
+   "description": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
+   "summaryKo": "크로스플랫폼으로 개발된 오픈소스 깃허브 클라이언트 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg",
+    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg",
+    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg",
+    "https://raw.githubusercontent.com/CarGuo/gsy_github_app_flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg"
+   ],
+   "card": {
+    "oneLiner": "크로스플랫폼으로 개발된 오픈소스 깃허브 클라이언트 앱",
+    "forWhom": "깃허브를 자주 사용하고 관리하고 싶은 사용자",
+    "features": [
+     "다양한 상태 관리 및 UI 컨트롤 사용",
+     "네트워크 및 데이터베이스 연동 기능",
+     "테마 변경 및 다국어 지원"
+    ],
+    "howToStart": [
+     "플러터 개발 환경을 설정합니다.",
+     "코드를 내려받고 패키지를 설치합니다.",
+     "설정 파일에 깃허브 클라이언트 정보를 입력합니다."
+    ],
+    "praise": [],
+    "complaints": [
+     {
+      "text": "네트워크 환경에 따라 연결이 거부되거나 요청에 실패할 수 있습니다.",
+      "source": "GitHub 이슈 #643",
+      "url": "https://github.com/CarGuo/gsy_github_app_flutter/issues/643",
+      "date": "2020-02-23",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "실행하기 전에 깃허브에서 클라이언트 정보를 직접 신청하여 설정해야 합니다.",
+      "url": "https://github.com/CarGuo/gsy_github_app_flutter#readme"
+     }
+    ],
+    "asOf": "2026-11-17",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "8.1.1",
+   "score": 5.599,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 67,
+     "checkedAt": "2026-11-16",
+     "asset": "app-release.apk",
+     "sha256": "905d8760652bc70a716fec2aa300ce8e8f4996b662117726f1d0fbcd6667ef1d"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "8.1.1",
+    "packageName": "com.shuyu.gsygithub.gsygithubappflutter",
+    "certSha256": "374ef6e428ebe4b908a072833e681adc9784d87559824ce3efdb14ed77cc4962"
+   }
+  },
+  {
    "repo": "romanvht/ByeByeDPI",
    "name": "ByeByeDPI",
    "owner": "romanvht",
    "avatarUrl": "https://avatars.githubusercontent.com/u/36431458?v=4",
-   "stars": 7288,
+   "stars": 7297,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -12895,7 +12851,7 @@
     "network-vpn"
    ],
    "cardTag": "v.1.8.2",
-   "score": 5.5997,
+   "score": 5.5947,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12919,7 +12875,7 @@
    "name": "Telegram-X",
    "owner": "TGX-Android",
    "avatarUrl": "https://avatars.githubusercontent.com/u/77549562?v=4",
-   "stars": 6216,
+   "stars": 6220,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -12954,7 +12910,7 @@
    },
    "themes": [],
    "cardTag": "v0.29.1.1817",
-   "score": 5.5799,
+   "score": 5.5747,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12980,7 +12936,7 @@
    "name": "MaterialDrawer",
    "owner": "mikepenz",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1476232?v=4",
-   "stars": 11643,
+   "stars": 11641,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13049,7 +13005,7 @@
    },
    "themes": [],
    "cardTag": "v9.0.2",
-   "score": 5.5661,
+   "score": 5.566,
    "safety": {
     "vt": null,
     "attested": false,
@@ -13066,7 +13022,7 @@
    "name": "Ehviewer_CN_SXJ",
    "owner": "xiaojieonly",
    "avatarUrl": "https://avatars.githubusercontent.com/u/49278135?v=4",
-   "stars": 29302,
+   "stars": 29338,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -13158,7 +13114,7 @@
    },
    "themes": [],
    "cardTag": "2.0.2.7",
-   "score": 5.5117,
+   "score": 5.5082,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13194,7 +13150,7 @@
    "name": "florisboard",
    "owner": "florisboard",
    "avatarUrl": "https://avatars.githubusercontent.com/u/63373248?v=4",
-   "stars": 8790,
+   "stars": 8789,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13283,7 +13239,7 @@
     "privacy"
    ],
    "cardTag": "v0.5.2",
-   "score": 5.4934,
+   "score": 5.4878,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13297,7 +13253,125 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v0.5.2"
+    "analyzedTag": "v0.5.2",
+    "packageName": "dev.patrickgold.florisboard.beta",
+    "certSha256": "0b807164508eafeb1fbb815be7a23c77fe689d94b14375c99bdaa9b6577fd6d6"
+   }
+  },
+  {
+   "repo": "AdAway/AdAway",
+   "name": "AdAway",
+   "owner": "AdAway",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/20455853?v=4",
+   "stars": 9632,
+   "license": "GPL-3.0",
+   "topics": [
+    "ad-blocker",
+    "android",
+    "blocker",
+    "hosts",
+    "vpn"
+   ],
+   "latestTag": "v6.1.4",
+   "latestDate": "2024-10-27",
+   "apkCount": 1,
+   "description": "AdAway is a free and open source ad blocker for Android.",
+   "summaryKo": "호스트 파일과 로컬 VPN을 이용해 기기 전체 광고를 막는 앱",
+   "notesKo": {
+    "tag": "v6.1.4",
+    "lines": [
+     "웹 서버 TLS 인증서를 갱신했습니다.",
+     "안드로이드 그레이들 플러그인을 업데이트했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot1.png",
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot2.png",
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot3.png",
+    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot4.png"
+   ],
+   "card": {
+    "oneLiner": "호스트 파일과 로컬 VPN을 이용해 기기 전체 광고를 막는 앱",
+    "forWhom": "안드로이드에서 광고와 추적 연결을 걸러 내고 싶은 사람",
+    "features": [
+     "호스트 파일 수정 및 로컬 VPN 차단 지원",
+     "원하는 호스트 소스 목록 직접 추가",
+     "VPN 차단에서 제외할 앱 개별 지정"
+    ],
+    "howToStart": [
+     "F-Droid나 공식 웹사이트에서 앱을 내려받아 설치합니다.",
+     "기기 환경에 맞춰 루팅 방식 또는 로컬 VPN 방식을 선택합니다.",
+     "호스트 소스를 동기화하거나 원하는 차단 목록을 추가합니다."
+    ],
+    "praise": [
+     {
+      "text": "루팅된 기기나 커스텀 롬 환경에서 광고 차단이 원활하게 작동합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=23317644",
+      "date": "2020-05-26",
+      "old": true
+     },
+     {
+      "text": "루팅 권한 없이도 로컬 VPN 방식으로 간편하게 사용할 수 있습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=24545728",
+      "date": "2020-09-21",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "루팅 설정에 따라 CPU 점유율이 치솟고 배터리가 빠르게 닳는 문제가 보고되었습니다.",
+      "source": "GitHub 이슈 #4112",
+      "url": "https://github.com/AdAway/AdAway/issues/4112",
+      "date": "2024-07-19",
+      "old": true
+     },
+     {
+      "text": "VPN 모드에서 일시 중지하더라도 일정 시간이 지나면 자동으로 다시 켜지는 현상이 있습니다.",
+      "source": "GitHub 이슈 #4022",
+      "url": "https://github.com/AdAway/AdAway/issues/4022",
+      "date": "2023-11-03",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2024-10-27예요",
+      "url": "https://github.com/AdAway/AdAway/releases"
+     },
+     {
+      "text": "최신 버전은 안드로이드 8 이상을 요구하며, 구형 기기는 버전 4를 사용해야 합니다.",
+      "url": "https://github.com/AdAway/AdAway#readme"
+     },
+     {
+      "text": "특정 루팅 환경에서 새 호스트 파일 설치 및 동기화가 실패할 수 있습니다.",
+      "url": "https://github.com/AdAway/AdAway/issues/4201"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-latest"
+   },
+   "themes": [
+    "network-vpn",
+    "privacy"
+   ],
+   "cardTag": "v6.1.4",
+   "score": 5.4838,
+   "safety": {
+    "vt": null,
+    "attested": false,
+    "attestedChecked": false,
+    "trackers": [],
+    "antiFeatures": [
+     "오류 보고"
+    ],
+    "analyzedTag": "v6.1.4",
+    "crashReporters": [
+     "Sentry"
+    ],
+    "packageName": "org.adaway",
+    "certSha256": "d647fdac42961502ac78f99919b8e1901747e8da78fe13e1eaba688fecc4c99e"
    }
   },
   {
@@ -13305,7 +13379,7 @@
    "name": "animeko",
    "owner": "open-ani",
    "avatarUrl": "https://avatars.githubusercontent.com/u/166622089?v=4",
-   "stars": 21851,
+   "stars": 21897,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -13409,7 +13483,7 @@
     "downloaders"
    ],
    "cardTag": "v6.4.1",
-   "score": 5.4838,
+   "score": 5.4806,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13441,125 +13515,11 @@
    }
   },
   {
-   "repo": "AdAway/AdAway",
-   "name": "AdAway",
-   "owner": "AdAway",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/20455853?v=4",
-   "stars": 9630,
-   "license": "GPL-3.0",
-   "topics": [
-    "ad-blocker",
-    "android",
-    "blocker",
-    "hosts",
-    "vpn"
-   ],
-   "latestTag": "v6.1.4",
-   "latestDate": "2024-10-27",
-   "apkCount": 1,
-   "description": "AdAway is a free and open source ad blocker for Android.",
-   "summaryKo": "호스트 파일과 로컬 VPN을 이용해 기기 전체 광고를 막는 앱",
-   "notesKo": {
-    "tag": "v6.1.4",
-    "lines": [
-     "웹 서버 TLS 인증서를 갱신했습니다.",
-     "안드로이드 그레이들 플러그인을 업데이트했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot1.png",
-    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot2.png",
-    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot3.png",
-    "https://raw.githubusercontent.com/AdAway/AdAway/HEAD/metadata/en-US/phoneScreenshots/screenshot4.png"
-   ],
-   "card": {
-    "oneLiner": "호스트 파일과 로컬 VPN을 이용해 기기 전체 광고를 막는 앱",
-    "forWhom": "안드로이드에서 광고와 추적 연결을 걸러 내고 싶은 사람",
-    "features": [
-     "호스트 파일 수정 및 로컬 VPN 차단 지원",
-     "원하는 호스트 소스 목록 직접 추가",
-     "VPN 차단에서 제외할 앱 개별 지정"
-    ],
-    "howToStart": [
-     "F-Droid나 공식 웹사이트에서 앱을 내려받아 설치합니다.",
-     "기기 환경에 맞춰 루팅 방식 또는 로컬 VPN 방식을 선택합니다.",
-     "호스트 소스를 동기화하거나 원하는 차단 목록을 추가합니다."
-    ],
-    "praise": [
-     {
-      "text": "루팅된 기기나 커스텀 롬 환경에서 광고 차단이 원활하게 작동합니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=23317644",
-      "date": "2020-05-26",
-      "old": true
-     },
-     {
-      "text": "루팅 권한 없이도 로컬 VPN 방식으로 간편하게 사용할 수 있습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=24545728",
-      "date": "2020-09-21",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "루팅 설정에 따라 CPU 점유율이 치솟고 배터리가 빠르게 닳는 문제가 보고되었습니다.",
-      "source": "GitHub 이슈 #4112",
-      "url": "https://github.com/AdAway/AdAway/issues/4112",
-      "date": "2024-07-19",
-      "old": true
-     },
-     {
-      "text": "VPN 모드에서 일시 중지하더라도 일정 시간이 지나면 자동으로 다시 켜지는 현상이 있습니다.",
-      "source": "GitHub 이슈 #4022",
-      "url": "https://github.com/AdAway/AdAway/issues/4022",
-      "date": "2023-11-03",
-      "old": true
-     }
-    ],
-    "cautions": [
-     {
-      "text": "오래 갱신이 없어요. 마지막 릴리스가 2024-10-27예요",
-      "url": "https://github.com/AdAway/AdAway/releases"
-     },
-     {
-      "text": "최신 버전은 안드로이드 8 이상을 요구하며, 구형 기기는 버전 4를 사용해야 합니다.",
-      "url": "https://github.com/AdAway/AdAway#readme"
-     },
-     {
-      "text": "특정 루팅 환경에서 새 호스트 파일 설치 및 동기화가 실패할 수 있습니다.",
-      "url": "https://github.com/AdAway/AdAway/issues/4201"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-latest"
-   },
-   "themes": [
-    "network-vpn",
-    "privacy"
-   ],
-   "cardTag": "v6.1.4",
-   "score": 5.4837,
-   "safety": {
-    "vt": null,
-    "attested": false,
-    "attestedChecked": false,
-    "trackers": [],
-    "antiFeatures": [
-     "오류 보고"
-    ],
-    "analyzedTag": "v6.1.4",
-    "crashReporters": [
-     "Sentry"
-    ]
-   }
-  },
-  {
    "repo": "huanghaibin-dev/CalendarView",
    "name": "CalendarView",
    "owner": "huanghaibin-dev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10400925?v=4",
-   "stars": 9420,
+   "stars": 9419,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13744,7 +13704,7 @@
    },
    "themes": [],
    "cardTag": "15.3.0",
-   "score": 5.4513,
+   "score": 5.4459,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13768,7 +13728,7 @@
    "name": "mihon",
    "owner": "mihonapp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/156513628?v=4",
-   "stars": 25435,
+   "stars": 25459,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13859,7 +13819,7 @@
     "reading-news"
    ],
    "cardTag": "v0.21.3",
-   "score": 5.4379,
+   "score": 5.4344,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13885,7 +13845,9 @@
     "analyzedTag": "v0.21.3",
     "crashReporters": [
      "Google CrashLytics"
-    ]
+    ],
+    "packageName": "app.mihon",
+    "certSha256": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
    }
   },
   {
@@ -13893,7 +13855,7 @@
    "name": "espeak-ng",
    "owner": "espeak-ng",
    "avatarUrl": "https://avatars.githubusercontent.com/u/16214005?v=4",
-   "stars": 7045,
+   "stars": 7047,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -13962,7 +13924,7 @@
    },
    "themes": [],
    "cardTag": "1.52.0",
-   "score": 5.3479,
+   "score": 5.3481,
    "safety": {
     "vt": null,
     "attested": false,
@@ -13979,7 +13941,7 @@
    "name": "orgzly-android",
    "owner": "orgzly",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10672741?v=4",
-   "stars": 2819,
+   "stars": 2818,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14057,7 +14019,7 @@
     "notes-tasks"
    ],
    "cardTag": "v1.8.11",
-   "score": 5.3393,
+   "score": 5.3337,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -14071,7 +14033,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v1.8.11"
+    "analyzedTag": "v1.8.11",
+    "packageName": "com.orgzly",
+    "certSha256": "f0bf5b9c3e48ddda0010500e267ca68f9755167c5e311d7ab74fb3b1f05bebaf"
    }
   },
   {
@@ -14190,7 +14154,7 @@
    "name": "Mika",
    "owner": "wangzan101",
    "avatarUrl": "https://avatars.githubusercontent.com/u/102038245?v=4",
-   "stars": 9096,
+   "stars": 9178,
    "license": "Apache-2.0",
    "topics": [
     "accessibility",
@@ -14202,16 +14166,17 @@
     "llm",
     "mobile-agent"
    ],
-   "latestTag": "v0.1.47",
-   "latestDate": "2026-11-18",
+   "latestTag": "v0.1.49",
+   "latestDate": "2026-11-19",
    "apkCount": 2,
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-   "summaryKo": "스마트폰 화면을 대신 조작해 주는 인공지능 비서 앱",
+   "summaryKo": "한 마디로 말하면 스마트폰 앱과 웹을 알아서 조작해 주는 AI 비서 앱",
    "notesKo": {
-    "tag": "v0.1.47",
+    "tag": "v0.1.49",
     "lines": [
-     "입력란의 추천任务 星标入口 제거 및 설정 메뉴로 이동",
-     "TaskRun 클래스를 여러 개의 클래스로 분리하여 순수 리팩토링 진행"
+     "다운로드 일시 중지 후 수동으로 다시 시도할 수 있습니다.",
+     "모델 페이지의 서비스 제공자 상세 화면이 정상 작동합니다.",
+     "여러 언어의 누락된 번역 문자열이 보완되었습니다."
     ]
    },
    "screenshots": [
@@ -14221,37 +14186,37 @@
     "https://raw.githubusercontent.com/wangzan101/Mika/HEAD/docs/media/food-order.jpg"
    ],
    "card": {
-    "oneLiner": "스마트폰 화면을 대신 조작해 주는 인공지능 비서 앱",
-    "forWhom": "스마트폰에서 자주 쓰는 작업을 말 한마디로 자동화하고 싶은 분",
+    "oneLiner": "한 마디로 말하면 스마트폰 앱과 웹을 알아서 조작해 주는 AI 비서 앱",
+    "forWhom": "스마트폰 앱 조작과 반복 작업을 AI에게 맡기고 싶은 사람",
     "features": [
-     "보조 화면에서 앱을 실행하고 터치와 입력을 대신 수행",
-     "웹페이지나 내장 브라우저에서 원하는 작업을 바로 지시",
-     "사용자 설정과 완료한 작업을 기억해 다음 작업에 활용"
+     "별도의 백그라운드 화면에서 앱을 조작하며 현재 화면을 방해하지 않음",
+     "API 연동 없이 사람이 하듯 화면을 보고 버튼을 찾아 작동",
+     "내 기기에 데이터를 보관하며 자신의 모델 API 키나 계정 사용"
     ],
     "howToStart": [
-     "릴리스 페이지에서 APK 파일을 내려받아 설치합니다.",
-     "설정의 모델 메뉴에서 제공자를 선택하고 API 키를 입력하거나 로그인합니다.",
+     "릴리스 페이지에서 안드로이드 APK를 내려받아 설치합니다.",
+     "설정의 모델 메뉴에서 제공자를 선택하고 API 키를 넣거나 계정으로 로그인합니다.",
      "설정의 휴대폰 제어 마법사를 따라 무선 디버깅을 연결합니다."
     ],
     "praise": [
      {
-      "text": "무선 디버깅 설정 방식이 번거롭다는 의견이 있습니다.",
+      "text": "무선 디버깅이나 ADB 연결 과정이 다소 번거롭다는 의견이 있습니다.",
       "source": "GitHub 이슈 #17",
       "url": "https://github.com/wangzan101/Mika/issues/17",
       "date": "2026-10-30",
-      "old": false
-     },
-     {
-      "text": "버튼을 직접 누르는 방식 외에 음성으로 상시 대화하며唤醒하는 기능이 아쉽다는 의견이 있습니다.",
-      "source": "GitHub 이슈 #262",
-      "url": "https://github.com/wangzan101/Mika/issues/262",
-      "date": "2026-11-03",
       "old": false
      }
     ],
     "complaints": [
      {
-      "text": "모델을 바꾸려면 설정 화면으로 이동해야 해서 번거롭다는 의견이 있습니다.",
+      "text": "현재 음성 입력이 수동으로 눌러야만 작동해서 불편합니다.",
+      "source": "GitHub 이슈 #262",
+      "url": "https://github.com/wangzan101/Mika/issues/262",
+      "date": "2026-11-03",
+      "old": false
+     },
+     {
+      "text": "모델을 바꾸려면 설정 화면으로 이동해야 해서 번거롭습니다.",
       "source": "GitHub 이슈 #247",
       "url": "https://github.com/wangzan101/Mika/issues/247",
       "date": "2026-11-02",
@@ -14260,25 +14225,18 @@
     ],
     "cautions": [
      {
-      "text": "공식 저장소 외의 복제 버전에서 악성 코드가 포함된 사례가 있으니 공식 배포처를 이용해야 합니다.",
+      "text": "공식 저장소 외의 복제 버전에서는 악성 코드가 포함될 수 있으니 주의해야 합니다.",
       "url": "https://github.com/wangzan101/Mika/issues/250"
      }
     ],
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-20",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [],
-   "cardTag": "v0.1.47",
-   "score": 5.2174,
+   "cardTag": "v0.1.49",
+   "score": 5.2201,
    "safety": {
-    "vt": {
-     "malicious": 1,
-     "suspicious": 0,
-     "engines": 60,
-     "checkedAt": "2026-11-19",
-     "asset": "Mika-v0.1.47.apk",
-     "sha256": "625832d09a7bf52ce5a145b9275c17f9d3306904320e97b77fa7190a9b4249ba"
-    },
+    "vt": null,
     "attested": false,
     "attestedChecked": true,
     "trackers": [
@@ -14291,7 +14249,7 @@
      "추적",
      "구글 서비스 필요"
     ],
-    "analyzedTag": "v0.1.47",
+    "analyzedTag": "v0.1.49",
     "packageName": "com.wangzan101.mika",
     "certSha256": "11d822669d535c554800f9cbe183a93e9f273e0c0e065dc428e569580b9a3fa8"
    }
@@ -14301,7 +14259,7 @@
    "name": "File-Manager",
    "owner": "FossifyOrg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 1887,
+   "stars": 1888,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14380,7 +14338,7 @@
     "files-photos"
    ],
    "cardTag": "1.6.4",
-   "score": 5.2102,
+   "score": 5.205,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -14394,7 +14352,9 @@
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "1.6.4"
+    "analyzedTag": "1.6.4",
+    "packageName": "org.fossify.filemanager",
+    "certSha256": "affdb124d3f4720c2f98dbca9eacba0514fba4306e20a2786c861c3c0d6ff292"
    }
   },
   {
@@ -14402,7 +14362,7 @@
    "name": "rikkahub",
    "owner": "rikkahub",
    "avatarUrl": "https://avatars.githubusercontent.com/u/211976783?v=4",
-   "stars": 9004,
+   "stars": 9037,
    "license": "AGPL-3.0",
    "topics": [
     "agent",
@@ -14491,7 +14451,7 @@
    },
    "themes": [],
    "cardTag": "3.3.0",
-   "score": 5.2066,
+   "score": 5.2039,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -14527,7 +14487,7 @@
    "name": "Bluetooth-LE-Spam",
    "owner": "simondankelmann",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5880491?v=4",
-   "stars": 4993,
+   "stars": 4994,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14617,7 +14577,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.9",
-   "score": 5.1984,
+   "score": 5.1985,
    "safety": {
     "vt": null,
     "attested": false,
@@ -14634,7 +14594,7 @@
    "name": "Cashew",
    "owner": "jameskokoska",
    "avatarUrl": "https://avatars.githubusercontent.com/u/50821962?v=4",
-   "stars": 4816,
+   "stars": 4819,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14700,7 +14660,7 @@
    },
    "themes": [],
    "cardTag": "5.3.4+396",
-   "score": 5.1828,
+   "score": 5.183,
    "safety": {
     "vt": null,
     "attested": false,
@@ -14719,7 +14679,7 @@
    "name": "tts-server-android",
    "owner": "jing332",
    "avatarUrl": "https://avatars.githubusercontent.com/u/42014615?v=4",
-   "stars": 4551,
+   "stars": 4552,
    "license": null,
    "topics": [
     "android",
@@ -14807,7 +14767,7 @@
    },
    "themes": [],
    "cardTag": "0.9_202307261647",
-   "score": 5.1582,
+   "score": 5.1583,
    "safety": {
     "vt": null,
     "attested": false,
@@ -14824,7 +14784,7 @@
    "name": "Bangumi",
    "owner": "czy0729",
    "avatarUrl": "https://avatars.githubusercontent.com/u/13514316?v=4",
-   "stars": 6257,
+   "stars": 6261,
    "license": "MIT",
    "topics": [
     "android",
@@ -14923,7 +14883,7 @@
     "reading-news"
    ],
    "cardTag": "8.42.0",
-   "score": 5.096,
+   "score": 5.0924,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -14954,7 +14914,7 @@
    "name": "ImageToolbox",
    "owner": "T8RIN",
    "avatarUrl": "https://avatars.githubusercontent.com/u/52178347?v=4",
-   "stars": 15641,
+   "stars": 15667,
    "license": "Apache-2.0",
    "topics": [
     "ai",
@@ -15045,7 +15005,7 @@
     "files-photos"
    ],
    "cardTag": "4.2.0",
-   "score": 5.0945,
+   "score": 5.0912,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15081,7 +15041,7 @@
    "name": "tasks",
    "owner": "tasks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/9398829?v=4",
-   "stars": 5766,
+   "stars": 5772,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -15153,7 +15113,7 @@
     "notes-tasks"
    ],
    "cardTag": "15.14.1",
-   "score": 5.075,
+   "score": 5.0715,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15184,7 +15144,7 @@
    "name": "Infinity-For-Reddit",
    "owner": "Docile-Alligator",
    "avatarUrl": "https://avatars.githubusercontent.com/u/25734209?v=4",
-   "stars": 5545,
+   "stars": 5543,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -15192,16 +15152,17 @@
     "reddit",
     "reddit-client"
    ],
-   "latestTag": "v8.3.5",
-   "latestDate": "2026-11-04",
+   "latestTag": "v8.4.0",
+   "latestDate": "2026-11-19",
    "apkCount": 2,
    "description": "A Reddit client for Android",
-   "summaryKo": "안드로이드를 위한 광고 없는 오픈소스 레딧 클라이언트 앱입니다.",
+   "summaryKo": "안드로이드를 위한 광고 없는 깔끔한 레딧 클라이언트 앱입니다",
    "notesKo": {
-    "tag": "v8.3.5",
+    "tag": "v8.4.0",
     "lines": [
-     "일부 갤러리 게시물이 올바르게 표시되지 않던 문제 수정",
-     "제출된 갤러리 게시물이 링크 게시물로 잘못 렌더링되던 문제 수정"
+     "구글 플레이 버전에 7일 무료 체험이 제공됩니다.",
+     "멀티레딧 생성 관련 문제가 수정되었습니다.",
+     "스트리머블 관련 문제가 수정되었습니다."
     ]
    },
    "screenshots": [
@@ -15213,27 +15174,27 @@
     "https://raw.githubusercontent.com/Docile-Alligator/Infinity-For-Reddit/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png"
    ],
    "card": {
-    "oneLiner": "안드로이드를 위한 광고 없는 오픈소스 레딧 클라이언트 앱입니다.",
-    "forWhom": "레딧을 광고 없이 깔끔하게 둘러보고 싶은 안드로이드 사용자",
+    "oneLiner": "안드로이드를 위한 광고 없는 깔끔한 레딧 클라이언트 앱입니다",
+    "forWhom": "레딧을 광고 없이 부드럽게 탐색하고 싶은 안드로이드 사용자",
     "features": [
-     "구독 중인 채널 모아보기 및 메시지 알림 기능 제공",
-     "글과 댓글 작성, 수정, 삭제 등의 기본 커뮤니티 기능 지원"
+     "자동으로 게시물을 넘겨 보는 지연 모드 제공",
+     "게시물과 댓글 작성 및 수정, 삭제 기능",
+     "구독 중인 서브레딧과 팔로우한 사용자 확인"
     ],
     "howToStart": [
-     "구글 플레이스토어 또는 깃허브 저장소에서 앱을 내려받아 설치합니다.",
-     "앱을 실행한 뒤 홈 화면이나 구독 페이지에서 글을 불러옵니다.",
-     "필요시 계정에 로그인하거나 익명 모드로 글을 탐색합니다."
+     "구글 플레이나 깃허브에서 앱을 내려받아 설치합니다.",
+     "구글 플레이 버전은 무료 체험을 시작할 수 있습니다."
     ],
     "praise": [
      {
-      "text": "광고가 전혀 없고 사생활 보호에 신경 쓴 점이 좋습니다.",
+      "text": "광고가 없고 화면이 깔끔하며 탐색이 부드럽습니다.",
       "source": "Hacker News 댓글",
       "url": "https://news.ycombinator.com/item?id=31882554",
       "date": "2022-06-26",
       "old": true
      },
      {
-      "text": "안드로이드에서 쓰기 좋고 동영상 다운로드도 지원합니다.",
+      "text": "영상을 내려받을 수 있고 개인정보 보호에 좋습니다.",
       "source": "Hacker News 댓글",
       "url": "https://news.ycombinator.com/item?id=30365599",
       "date": "2022-02-16",
@@ -15242,44 +15203,40 @@
     ],
     "complaints": [
      {
-      "text": "가끔 게시글이나 댓글을 불러오지 못하고 오류가 발생합니다.",
-      "source": "GitHub 이슈 #1988",
-      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1988",
-      "date": "2026-11-12",
+      "text": "게시물을 불러오는 중 오류가 발생할 때가 있습니다.",
+      "source": "GitHub 이슈 #1921",
+      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1921",
+      "date": "2026-05-29",
       "old": false
      },
      {
-      "text": "익명 모드에서 게시글이 정상적으로 로드되지 않을 때가 있습니다.",
-      "source": "GitHub 이슈 #1245",
-      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1245",
-      "date": "2022-11-20",
+      "text": "일부 비디오 재생이나 댓글의 GIF 로딩에 문제가 생기기도 합니다.",
+      "source": "GitHub 이슈 #803",
+      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/803",
+      "date": "2022-06-12",
       "old": true
      }
     ],
     "cautions": [
      {
-      "text": "레딧 API 정책이나 서버 상황에 따라 피드 로딩 오류가 생길 수 있습니다.",
-      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1648"
-     },
-     {
-      "text": "일부 동영상이나 움짤이 재생되지 않거나 마크다운 코드로 그대로 노출되는 문제가 있을 수 있습니다.",
-      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1058"
+      "text": "정책 변경으로 인해 무료 이용이 어려워질 수 있습니다.",
+      "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v8.4.0"
      }
     ],
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-20",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [],
-   "cardTag": "v8.3.5",
-   "score": 5.0133,
+   "cardTag": "v8.4.0",
+   "score": 5.0668,
    "safety": {
     "vt": {
      "malicious": 0,
      "suspicious": 0,
-     "engines": 36,
-     "checkedAt": "2026-11-17",
-     "asset": "Infinity+-v8.3.5.apk",
-     "sha256": "5f04372874f9b8691eb6d411922418a1050a4432f748c336f181a1d905045500"
+     "engines": 67,
+     "checkedAt": "2026-11-20",
+     "asset": "Infinity+-v8.4.0.apk",
+     "sha256": "ba54629f76774bd0b32da9d409d9feabba48d6508accc68dfa085af1641033a0"
     },
     "attested": false,
     "attestedChecked": true,
@@ -15293,7 +15250,7 @@
      "추적",
      "구글 서비스 필요"
     ],
-    "analyzedTag": "v8.3.5",
+    "analyzedTag": "v8.4.0",
     "packageName": "ml.docilealligator.infinityforreddit.plus",
     "certSha256": "6f1c3123d9b4e9f424f8d1436e58f1a4c18ecaa9a7e8fac2918928348e765dc0"
    }
@@ -15303,7 +15260,7 @@
    "name": "AndroidProject",
    "owner": "getActivity",
    "avatarUrl": "https://avatars.githubusercontent.com/u/28616817?v=4",
-   "stars": 6935,
+   "stars": 6934,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -15408,7 +15365,7 @@
    },
    "themes": [],
    "cardTag": "17.0",
-   "score": 4.9892,
+   "score": 4.9853,
    "safety": {
     "vt": null,
     "attested": false,
@@ -15436,7 +15393,7 @@
    "name": "keepass2android",
    "owner": "PhilippC",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5421734?v=4",
-   "stars": 6408,
+   "stars": 6411,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -15526,7 +15483,7 @@
     "security-auth"
    ],
    "cardTag": "v1.15-r6",
-   "score": 4.9805,
+   "score": 4.9768,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15631,7 +15588,9 @@
     "attestedChecked": false,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v1.4.5"
+    "analyzedTag": "v1.4.5",
+    "packageName": "org.dslul.openboard.inputmethod.latin",
+    "certSha256": "b7a348d90170d35f056aa1c99b49087f1752560a28af6756b17ee112c4ca1d89"
    }
   },
   {
@@ -15639,7 +15598,7 @@
    "name": "revanced-manager",
    "owner": "ReVanced",
    "avatarUrl": "https://avatars.githubusercontent.com/u/101597779?v=4",
-   "stars": 30209,
+   "stars": 30215,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -15711,7 +15670,7 @@
     "phone-tools"
    ],
    "cardTag": "v2.6.0",
-   "score": 4.7921,
+   "score": 4.7883,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15742,7 +15701,7 @@
    "name": "VPNHotspot",
    "owner": "Mygod",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3511321?v=4",
-   "stars": 6702,
+   "stars": 6707,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -15822,7 +15781,7 @@
     "network-vpn"
    ],
    "cardTag": "v3.0.8",
-   "score": 4.7103,
+   "score": 4.7067,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15858,7 +15817,7 @@
    "name": "shadowsocks-android",
    "owner": "shadowsocks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4",
-   "stars": 36840,
+   "stars": 36844,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -15922,7 +15881,7 @@
     "network-vpn"
    ],
    "cardTag": "v5.3.5-nightly",
-   "score": 4.5648,
+   "score": 4.561,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15958,7 +15917,7 @@
    "name": "SmsForwarder",
    "owner": "pppscn",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5105854?v=4",
-   "stars": 28927,
+   "stars": 28951,
    "license": "BSD-2-Clause",
    "topics": [
     "android",
@@ -16060,7 +16019,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.5.0",
-   "score": 4.5066,
+   "score": 4.503,
    "safety": {
     "vt": {
      "malicious": 14,
@@ -16203,7 +16162,7 @@
    "name": "MifareClassicTool",
    "owner": "ikarus23",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1389516?v=4",
-   "stars": 6556,
+   "stars": 6555,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16249,7 +16208,7 @@
    },
    "themes": [],
    "cardTag": "v4.3.1",
-   "score": 4.1838,
+   "score": 4.1783,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16273,7 +16232,7 @@
    "name": "react-native-vision-camera",
    "owner": "margelo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/91980534?v=4",
-   "stars": 9663,
+   "stars": 9664,
    "license": "MIT",
    "topics": [
     "android",
@@ -16335,7 +16294,7 @@
    },
    "themes": [],
    "cardTag": "v5.2.4",
-   "score": 4.1091,
+   "score": 4.1053,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -16473,7 +16432,7 @@
    "name": "GoGoGo",
    "owner": "ZCShou",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8591065?v=4",
-   "stars": 11869,
+   "stars": 11876,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16562,7 +16521,7 @@
    },
    "themes": [],
    "cardTag": "ReleaseV1.12.3",
-   "score": 3.9021,
+   "score": 3.9023,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -16661,7 +16620,7 @@
     "downloaders"
    ],
    "cardTag": "v0.10.1",
-   "score": 3.9016,
+   "score": 3.8961,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16685,7 +16644,7 @@
    "name": "Android-DataBackup",
    "owner": "XayahSuSuSu",
    "avatarUrl": "https://avatars.githubusercontent.com/u/44322170?v=4",
-   "stars": 7602,
+   "stars": 7604,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16750,7 +16709,7 @@
     "phone-tools"
    ],
    "cardTag": "2.0.12",
-   "score": 3.881,
+   "score": 3.8811,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16774,7 +16733,7 @@
    "name": "flutter_deer",
    "owner": "simplezhli",
    "avatarUrl": "https://avatars.githubusercontent.com/u/12456431?v=4",
-   "stars": 8626,
+   "stars": 8625,
    "license": "Apache-2.0",
    "topics": [
     "amap",
@@ -16903,7 +16862,7 @@
    "name": "UltimateRecyclerView",
    "owner": "cymcsg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/963906?v=4",
-   "stars": 7164,
+   "stars": 7163,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -17017,7 +16976,7 @@
    "name": "InnerTune",
    "owner": "z-huang",
    "avatarUrl": "https://avatars.githubusercontent.com/u/39427017?v=4",
-   "stars": 6154,
+   "stars": 6153,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -17130,7 +17089,9 @@
     "analyzedTag": "v0.5.10",
     "crashReporters": [
      "Google CrashLytics"
-    ]
+    ],
+    "packageName": "com.zionhuang.music",
+    "certSha256": "5d55f9086e9543ee4d9e5f50bd60595ed4e9ac842de334fde900f3c616e32af2"
    }
   },
   {
@@ -17138,7 +17099,7 @@
    "name": "Aliucord",
    "owner": "Aliucord",
    "avatarUrl": "https://avatars.githubusercontent.com/u/78881422?v=4",
-   "stars": 4942,
+   "stars": 4940,
    "license": "OSL-3.0",
    "topics": [
     "android",
@@ -17207,7 +17168,7 @@
    },
    "themes": [],
    "cardTag": "1.2.0",
-   "score": 3.694,
+   "score": 3.6938,
    "safety": {
     "vt": null,
     "attested": false,
@@ -17224,7 +17185,7 @@
    "name": "termux-api",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 4665,
+   "stars": 4669,
    "license": null,
    "topics": [
     "android",
@@ -17282,7 +17243,7 @@
     "phone-tools"
    ],
    "cardTag": "v0.53.0",
-   "score": 3.6689,
+   "score": 3.6693,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -17384,7 +17345,7 @@
     "downloaders"
    ],
    "cardTag": "v1.14.1",
-   "score": 3.5123,
+   "score": 3.5085,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -17473,7 +17434,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.19",
-   "score": 3.2566,
+   "score": 3.2528,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -17508,7 +17469,7 @@
    "name": "Notes",
    "owner": "FossifyOrg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 523,
+   "stars": 522,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -17581,7 +17542,7 @@
     "notes-tasks"
    ],
    "cardTag": "1.7.0",
-   "score": 3.1139,
+   "score": 3.1075,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -17603,7 +17564,7 @@
    "name": "Camera",
    "owner": "FossifyOrg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 496,
+   "stars": 495,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -17681,7 +17642,7 @@
     "privacy"
    ],
    "cardTag": "1.5.0",
-   "score": 3.0909,
+   "score": 3.0845,
    "safety": {
     "vt": {
      "malicious": 0,
