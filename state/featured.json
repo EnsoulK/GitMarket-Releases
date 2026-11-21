@@ -22,5 +22,9 @@
  {
   "date": "2026-11-21",
   "repo": "librepods-org/librepods"
+ },
+ {
+  "date": "2026-11-22",
+  "repo": "lollipopkit/flutter_server_box"
  }
 ]

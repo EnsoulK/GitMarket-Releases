@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-21T08:59:46+09:00",
- "featured": "librepods-org/librepods",
+ "generatedAt": "2026-11-22T08:19:16+09:00",
+ "featured": "lollipopkit/flutter_server_box",
  "themes": [
   {
    "id": "ad-free-media",
@@ -15,6 +15,7 @@
     "bggRGjQaUbCoE/PiliPlus",
     "MetrolistGroup/Metrolist",
     "maxrave-dev/SimpMusic",
+    "MorpheApp/morphe-manager",
     "recloudstream/cloudstream",
     "mornyeapp/Mornye",
     "InfinityLoop1308/PipePipe",
@@ -26,8 +27,7 @@
     "cwuom/NeriPlayer",
     "libre-tube/LibreTube",
     "streamyfin/streamyfin",
-    "OxygenCobalt/Auxio",
-    "MorpheApp/morphe-manager"
+    "OxygenCobalt/Auxio"
    ]
   },
   {
@@ -36,11 +36,11 @@
    "subtitle": "영상과 음악, 파일을 기기에 저장하는 앱",
    "apps": [
     "team-spotube/spotube",
-    "Predidit/Kazumi",
     "Notsfsssf/pixez-flutter",
     "mornyeapp/Mornye",
     "deniscerri/ytdlnis",
     "namidaco/namida",
+    "shiaho777/web-to-app",
     "streamyfin/streamyfin",
     "GopeedLab/gopeed",
     "Minireel/HGhub",
@@ -56,8 +56,8 @@
    "subtitle": "추적과 감시를 막아 주는 앱",
    "apps": [
     "TeamNewPipe/NewPipe",
-    "getpaseo/paseo",
     "microg/GmsCore",
+    "shiaho777/web-to-app",
     "tonyantony300/dashbeam",
     "samolego/Canta",
     "emanuele-f/PCAPdroid",
@@ -71,8 +71,8 @@
     "aistra0528/Hail",
     "2dust/v2rayNG",
     "M66B/NetGuard",
+    "super-productivity/super-productivity",
     "niedev/RTranslator",
-    "MorpheApp/morphe-manager",
     "mullvad/mullvadvpn-app",
     "AdAway/AdAway"
    ]
@@ -89,6 +89,7 @@
     "samolego/Canta",
     "alipay/SoloPi",
     "bmax121/APatch",
+    "ersinkoc/phonebox",
     "thtbee/nectarlink",
     "MuntashirAkon/AppManager",
     "KernelSU-Next/KernelSU-Next",
@@ -100,8 +101,7 @@
     "RikkaApps/Shizuku",
     "NeoApplications/Neo-Backup",
     "LibChecker/LibChecker",
-    "wxxsfxyzm/InstallerX-Revived",
-    "ReVanced/revanced-manager"
+    "wxxsfxyzm/InstallerX-Revived"
    ]
   },
   {
@@ -154,8 +154,8 @@
    "apps": [
     "ComicSparks/pikapika",
     "koreader/koreader",
-    "kodjodevf/mangayomi",
     "zly2006/zhihu-plus-plus",
+    "kodjodevf/mangayomi",
     "ReadYouApp/ReadYou",
     "fumiama/copymanga",
     "mihonapp/mihon",
@@ -188,7 +188,6 @@
     "guardianproject/orbot-android",
     "2dust/v2rayNG",
     "M66B/NetGuard",
-    "MatsuriDayo/NekoBoxForAndroid",
     "romanvht/ByeByeDPI",
     "AdAway/AdAway",
     "Mygod/VPNHotspot",
@@ -202,7 +201,7 @@
    "name": "rustdesk",
    "owner": "rustdesk",
    "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
-   "stars": 130502,
+   "stars": 130643,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -292,7 +291,7 @@
    },
    "themes": [],
    "cardTag": "1.5.3",
-   "score": 8.5499,
+   "score": 8.5449,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -316,7 +315,7 @@
    "name": "spotube",
    "owner": "team-spotube",
    "avatarUrl": "https://avatars.githubusercontent.com/u/263316120?v=4",
-   "stars": 50855,
+   "stars": 50874,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -412,7 +411,7 @@
     "downloaders"
    ],
    "cardTag": "v6.0.0",
-   "score": 8.1461,
+   "score": 8.1408,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -432,11 +431,134 @@
    }
   },
   {
+   "repo": "Predidit/Kazumi",
+   "name": "Kazumi",
+   "owner": "Predidit",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/34627277?v=4",
+   "stars": 43458,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "cross-platform",
+    "danmaku",
+    "flutter",
+    "ios",
+    "linux-desktop",
+    "macos",
+    "windows"
+   ],
+   "latestTag": "2.4.5",
+   "latestDate": "2026-11-21",
+   "apkCount": 1,
+   "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+   "summaryKo": "사용자 맞춤 규칙으로 애니메이션을 찾고 보는 앱",
+   "notesKo": {
+    "tag": "2.4.5",
+    "lines": [
+     "플레이 페이지의 선집 및 댓글 패널을 다시 디자인했습니다.",
+     "Material 3 Expressive 컴포넌트의 선택 색상과 애니메이션을 최적화했습니다.",
+     "일부 기기 및 화면에서의 레이아웃과 화면 끌림 문제를 수정했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png",
+    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png",
+    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png"
+   ],
+   "card": {
+    "oneLiner": "사용자 맞춤 규칙으로 애니메이션을 찾고 보는 앱",
+    "forWhom": "안드로이드 등 다양한 기기에서 애니메이션을 즐기는 사용자",
+    "features": [
+     "Xpath 규칙을 이용한 番剧(애니메이션) 수집 및 시청",
+     "Anime4K 기반 실시간 고화질 변환 지원",
+     "彈幕(자막/대화) 및 이어보기, 倍速 재생 제공"
+    ],
+    "howToStart": [
+     "깃허브나 F-Droid에서 Kazumi 앱을 내려받아 설치합니다.",
+     "원하는 규칙을 불러오거나 직접 작성하여 영상을 검색합니다.",
+     "재생 버튼을 눌러 시청을 시작합니다."
+    ],
+    "praise": [
+     {
+      "text": "새로 추가된 초고화질 재생 기능이 아주 유용합니다.",
+      "source": "GitHub 이슈 #710",
+      "url": "https://github.com/Predidit/Kazumi/issues/710",
+      "date": "2025-02-10",
+      "old": true
+     },
+     {
+      "text": "새로운 검색 기능이 편리하고 직관적입니다.",
+      "source": "GitHub 이슈 #2539",
+      "url": "https://github.com/Predidit/Kazumi/issues/2539",
+      "date": "2026-09-07",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "업데이트 후 기존의 영화 벽 형태의 디자인이 사라졌습니다.",
+      "source": "GitHub 이슈 #2539",
+      "url": "https://github.com/Predidit/Kazumi/issues/2539",
+      "date": "2026-09-07",
+      "old": false
+     },
+     {
+      "text": "일부 기기에서 뱅구미 동기화 시 사용자 정보 형식이 잘못되었다고 나옵니다.",
+      "source": "GitHub 이슈 #2869",
+      "url": "https://github.com/Predidit/Kazumi/issues/2869",
+      "date": "2026-11-21",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "일부 영상 소스 자체에 포함된 광고는 앱에서 차단하지 못할 수 있습니다.",
+      "url": "https://github.com/Predidit/Kazumi#readme"
+     },
+     {
+      "text": "고화질 변환 기능은 그래픽카드 성능을 많이 사용하여 저사양에서는 버거울 수 있습니다.",
+      "url": "https://github.com/Predidit/Kazumi#readme"
+     },
+     {
+      "text": "네트워크 상황이나 외부 서비스 차단 시 정보 불러오기가 안 될 수 있습니다.",
+      "url": "https://github.com/Predidit/Kazumi/issues/2133"
+     }
+    ],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media"
+   ],
+   "cardTag": "2.4.5",
+   "score": 8.1326,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 67,
+     "checkedAt": "2026-11-22",
+     "asset": "Kazumi_android_2.4.5.apk",
+     "sha256": "3568667dc15265eebd184a0821ff2049318ef1b579fb5036746bed07dcefc29c"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "2.4.5",
+    "packageName": "com.predidit.kazumi",
+    "certSha256": "f4633dcf19ca0ccac7e730c57124a7acca57ce52b87913f9620d6bb718551d98"
+   }
+  },
+  {
    "repo": "gkd-kit/gkd",
    "name": "gkd",
    "owner": "gkd-kit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/138121201?v=4",
-   "stars": 45126,
+   "stars": 45171,
    "license": "GPL-3.0",
    "topics": [
     "accessibility",
@@ -527,7 +649,7 @@
     "phone-tools"
    ],
    "cardTag": "v1.13.2",
-   "score": 8.1106,
+   "score": 8.1056,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -547,133 +669,11 @@
    }
   },
   {
-   "repo": "Predidit/Kazumi",
-   "name": "Kazumi",
-   "owner": "Predidit",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/34627277?v=4",
-   "stars": 43305,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "cross-platform",
-    "danmaku",
-    "flutter",
-    "ios",
-    "linux-desktop",
-    "macos",
-    "windows"
-   ],
-   "latestTag": "2.4.4",
-   "latestDate": "2026-11-12",
-   "apkCount": 1,
-   "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
-   "summaryKo": "사용자 맞춤 규칙으로 애니메이션을 수집하고 감상하는 프로그램",
-   "notesKo": {
-    "tag": "2.4.4",
-    "lines": [
-     "flutter 3.50 버전을 지원하도록 적응했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
-    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
-    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
-    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png",
-    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png",
-    "https://raw.githubusercontent.com/Predidit/Kazumi/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png"
-   ],
-   "card": {
-    "oneLiner": "사용자 맞춤 규칙으로 애니메이션을 수집하고 감상하는 프로그램",
-    "forWhom": "안드로이드 등 다양한 기기에서 애니메이션을 즐기고 싶은 사용자",
-    "features": [
-     "자바스크립트나 Xpath를 활용한 사용자 맞춤 규칙 생성과 공유",
-     "Anime4K 기술을 이용한 실시간 고화질 영상 재생",
-     "탄막 기능과 시간표, 追番(추천) 목록 관리 기능 지원"
-    ],
-    "howToStart": [
-     "릴리스 페이지나 F-Droid에서 앱을 내려받아 설치합니다.",
-     "앱을 실행한 뒤 기본 규칙을 설정하거나 필요한 규칙을 가져옵니다.",
-     "원하는 애니메이션을 검색하여 감상합니다."
-    ],
-    "praise": [
-     {
-      "text": "새로 추가된 검색 기능이 편리하고 직관적입니다.",
-      "source": "GitHub 이슈 #2539",
-      "url": "https://github.com/Predidit/Kazumi/issues/2539",
-      "date": "2026-09-07",
-      "old": false
-     },
-     {
-      "text": "초분해능 기능이 매우 실용적입니다.",
-      "source": "GitHub 이슈 #710",
-      "url": "https://github.com/Predidit/Kazumi/issues/710",
-      "date": "2025-02-10",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "업데이트 이후 매번 실행할 때마다 이미지 캐시를 다시 불러옵니다.",
-      "source": "GitHub 이슈 #2846",
-      "url": "https://github.com/Predidit/Kazumi/issues/2846",
-      "date": "2026-11-16",
-      "old": false
-     },
-     {
-      "text": "일부 버전이나 플랫폼에서 실행할 때 화면이 멈추거나 검게 변하는 현상이 있습니다.",
-      "source": "GitHub 이슈 #2847",
-      "url": "https://github.com/Predidit/Kazumi/issues/2847",
-      "date": "2026-11-16",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 영상 원본에 포함된 광고는 앱 자체와 무관하며 주의가 필요합니다.",
-      "url": "https://github.com/Predidit/Kazumi#readme"
-     },
-     {
-      "text": "고화질 초분해능 기능을 사용할 때는 그래픽카드 성능에 맞춰 설정해야 끊김이 없습니다.",
-      "url": "https://github.com/Predidit/Kazumi#readme"
-     },
-     {
-      "text": "컴퓨터에 C드라이브만 있으면 로컬 저장소 초기화에 문제가 생길 수 있습니다.",
-      "url": "https://github.com/Predidit/Kazumi/issues/2840"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "ad-free-media",
-    "downloaders"
-   ],
-   "cardTag": "2.4.4",
-   "score": 8.0872,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-16",
-     "asset": "Kazumi_android_2.4.4.apk",
-     "sha256": "058f9dd7128a2a05ca5d54038ff7753018d0ee62239f22d7306f8aa462f71618"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "2.4.4",
-    "packageName": "com.predidit.kazumi",
-    "certSha256": "f4633dcf19ca0ccac7e730c57124a7acca57ce52b87913f9620d6bb718551d98"
-   }
-  },
-  {
    "repo": "yuliskov/SmartTube",
    "name": "SmartTube",
    "owner": "yuliskov",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5897464?v=4",
-   "stars": 36506,
+   "stars": 36524,
    "license": "MIT",
    "topics": [
     "android",
@@ -768,7 +768,7 @@
     "ad-free-media"
    ],
    "cardTag": "32.80s",
-   "score": 8.0514,
+   "score": 8.0462,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -798,7 +798,7 @@
    "name": "NewPipe",
    "owner": "TeamNewPipe",
    "avatarUrl": "https://avatars.githubusercontent.com/u/22159318?v=4",
-   "stars": 40846,
+   "stars": 40860,
    "license": "GPL-3.0",
    "topics": [
     "4k",
@@ -895,7 +895,7 @@
     "privacy"
    ],
    "cardTag": "v0.29.3",
-   "score": 8.0509,
+   "score": 8.0456,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -924,7 +924,7 @@
    "name": "dsh-Go",
    "owner": "ccch1mneyyy",
    "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
-   "stars": 28996,
+   "stars": 29587,
    "license": "AGPL-3.0",
    "topics": [
     "ai-agent",
@@ -1022,7 +1022,7 @@
    },
    "themes": [],
    "cardTag": "v1.3.0",
-   "score": 7.9569,
+   "score": 7.9602,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -1046,7 +1046,7 @@
    "name": "paseo",
    "owner": "getpaseo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/259503569?v=4",
-   "stars": 24539,
+   "stars": 24615,
    "license": "NOASSERTION",
    "topics": [
     "ade",
@@ -1065,19 +1065,11 @@
     "pi",
     "windows"
    ],
-   "latestTag": "v0.16.2",
-   "latestDate": "2026-11-18",
+   "latestTag": "v0.17.1",
+   "latestDate": "2026-11-21",
    "apkCount": 1,
    "description": "Orchestrate multiple coding agents from desktop and mobile",
-   "summaryKo": "여러 인공지능 코딩 도구를 한 화면에서 관리하는 오픈소스 앱",
-   "notesKo": {
-    "tag": "v0.16.2",
-    "lines": [
-     "클로드 배경 작업 알림 시 완료된 답변이 숨겨지는 문제 수정",
-     "워크스페이스 아카이브 시 분리된 워크트리 커밋이 유실되는 현상 수정",
-     "데스크톱 업데이트 시 이전 데몬 프로세스가 남아있던 문제 수정"
-    ]
-   },
+   "summaryKo": "다양한 코딩 에이전트를 한 화면에서 실행하고 관리하는 오픈소스 환경입니다.",
    "screenshots": [
     "https://raw.githubusercontent.com/getpaseo/paseo/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
     "https://raw.githubusercontent.com/getpaseo/paseo/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
@@ -1086,28 +1078,28 @@
     "https://raw.githubusercontent.com/getpaseo/paseo/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png"
    ],
    "card": {
-    "oneLiner": "여러 인공지능 코딩 도구를 한 화면에서 관리하는 오픈소스 앱",
-    "forWhom": "여러 기기에서 인공지능 코딩 에이전트를 함께 사용하는 개발자",
+    "oneLiner": "다양한 코딩 에이전트를 한 화면에서 실행하고 관리하는 오픈소스 환경입니다.",
+    "forWhom": "여러 AI 코딩 에이전트를 모바일과 데스크톱에서 함께 쓰는 개발자",
     "features": [
-     "한 화면에서 여러 인공지능 에이전트 동시 실행",
-     "PC, 모바일, 웹, 터미널을 지원하는 크로스플랫폼",
-     "개인정보 추적과 강제 로그인 없는 보안 구조"
+     "여러 코딩 에이전트를 동시에 실행",
+     "데스크톱, 모바일, 웹, 터미널 지원",
+     "개인정보 보호를 위한 추적 및 로그인 없음"
     ],
     "howToStart": [
-     "공식 홈페이지나 깃허브에서 데스크톱 앱을 내려받아 설치합니다.",
-     "원하는 인공지능 에이전트 도구와 인증 정보를 미리 준비합니다.",
-     "모바일 기기에서 연결하려면 설정 메뉴에서 기기를 연결합니다."
+     "공식 홈페이지나 깃허브에서 데스크톱 앱을 내려받아 실행합니다.",
+     "컴퓨터에 사용할 에이전트 도구를 설치하고 계정을 연결합니다.",
+     "모바일 앱에서 설정 화면을 통해 기기를 연결합니다."
     ],
     "praise": [
      {
-      "text": "시간과 에너지를 아껴 주는 훌륭한 오픈소스 도구입니다.",
+      "text": "시간과 에너지를 아껴주는 매우 유용한 도구입니다.",
       "source": "Hacker News 댓글",
       "url": "https://news.ycombinator.com/item?id=48456273",
       "date": "2026-06-09",
       "old": false
      },
      {
-      "text": "사양 낮은 기기에서도 모바일 앱이 가볍고 잘 작동합니다.",
+      "text": "오래된 기기에서도 모바일 앱이 가볍게 잘 작동합니다.",
       "source": "Hacker News 댓글",
       "url": "https://news.ycombinator.com/item?id=48396843",
       "date": "2026-06-04",
@@ -1116,14 +1108,12 @@
     ],
     "complaints": [],
     "cautions": [],
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-22",
     "model": "gemini-flash-lite-latest"
    },
-   "themes": [
-    "privacy"
-   ],
-   "cardTag": "v0.16.2",
-   "score": 7.8734,
+   "themes": [],
+   "cardTag": "v0.17.1",
+   "score": 7.8857,
    "safety": {
     "vt": null,
     "attested": false,
@@ -1131,8 +1121,8 @@
     "trackers": [],
     "antiFeatures": [],
     "analyzedTag": null,
-    "failedTag": "v0.16.2",
-    "failedAt": "2026-11-19"
+    "failedTag": "v0.17.1",
+    "failedAt": "2026-11-22"
    }
   },
   {
@@ -1140,7 +1130,7 @@
    "name": "filament",
    "owner": "google",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 20779,
+   "stars": 20783,
    "license": "Apache-2.0",
    "topics": [
     "3d-graphics",
@@ -1224,7 +1214,7 @@
    },
    "themes": [],
    "cardTag": "v1.81.0",
-   "score": 7.7957,
+   "score": 7.7903,
    "safety": {
     "vt": null,
     "attested": false,
@@ -1241,7 +1231,7 @@
    "name": "librepods",
    "owner": "librepods-org",
    "avatarUrl": "https://avatars.githubusercontent.com/u/296429189?v=4",
-   "stars": 30903,
+   "stars": 30916,
    "license": "GPL-3.0",
    "topics": [
     "accessiblity",
@@ -1332,7 +1322,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.4",
-   "score": 7.7928,
+   "score": 7.7875,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1358,7 +1348,7 @@
    "name": "PiliPlus",
    "owner": "bggRGjQaUbCoE",
    "avatarUrl": "https://avatars.githubusercontent.com/u/114972867?v=4",
-   "stars": 21161,
+   "stars": 21199,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1442,7 +1432,7 @@
     "ad-free-media"
    ],
    "cardTag": "2.2.1",
-   "score": 7.7872,
+   "score": 7.7825,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1466,7 +1456,7 @@
    "name": "Metrolist",
    "owner": "MetrolistGroup",
    "avatarUrl": "https://avatars.githubusercontent.com/u/260068764?v=4",
-   "stars": 14699,
+   "stars": 14783,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1548,7 +1538,7 @@
     "ad-free-media"
    ],
    "cardTag": "v14.0.1",
-   "score": 7.6564,
+   "score": 7.6534,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1577,7 +1567,7 @@
    "name": "organicmaps",
    "owner": "organicmaps",
    "avatarUrl": "https://avatars.githubusercontent.com/u/76659619?v=4",
-   "stars": 16058,
+   "stars": 16068,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -1680,7 +1670,7 @@
    },
    "themes": [],
    "cardTag": "2026.11.11-39-android",
-   "score": 7.6509,
+   "score": 7.6457,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1706,7 +1696,7 @@
    "name": "GmsCore",
    "owner": "microg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2758598?v=4",
-   "stars": 15383,
+   "stars": 15390,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -1804,7 +1794,7 @@
     "privacy"
    ],
    "cardTag": "v0.3.18.252432",
-   "score": 7.6378,
+   "score": 7.6325,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1830,7 +1820,7 @@
    "name": "SimpMusic",
    "owner": "maxrave-dev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/113747128?v=4",
-   "stars": 13667,
+   "stars": 13709,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -1939,7 +1929,7 @@
     "ad-free-media"
    ],
    "cardTag": "v2.6.0",
-   "score": 7.5973,
+   "score": 7.5932,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -1963,7 +1953,7 @@
    "name": "thunderbird-android",
    "owner": "thunderbird",
    "avatarUrl": "https://avatars.githubusercontent.com/u/15187237?v=4",
-   "stars": 14253,
+   "stars": 14257,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -2049,7 +2039,7 @@
    },
    "themes": [],
    "cardTag": "K9MAIL_25_0",
-   "score": 7.5937,
+   "score": 7.5883,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2073,7 +2063,7 @@
    "name": "pixez-flutter",
    "owner": "Notsfsssf",
    "avatarUrl": "https://avatars.githubusercontent.com/u/16934707?v=4",
-   "stars": 13403,
+   "stars": 13421,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2165,7 +2155,7 @@
     "downloaders"
    ],
    "cardTag": "0.9.114",
-   "score": 7.556,
+   "score": 7.5511,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2191,7 +2181,7 @@
    "name": "Unciv",
    "owner": "yairm210",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?v=4",
-   "stars": 11618,
+   "stars": 11622,
    "license": "MPL-2.0",
    "topics": [
     "4x",
@@ -2271,7 +2261,7 @@
    },
    "themes": [],
    "cardTag": "5.0.1",
-   "score": 7.5433,
+   "score": 7.5379,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2291,11 +2281,124 @@
    }
   },
   {
+   "repo": "MorpheApp/morphe-manager",
+   "name": "morphe-manager",
+   "owner": "MorpheApp",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/246280111?v=4",
+   "stars": 10699,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "apk",
+    "app",
+    "morphe",
+    "patcher",
+    "patches",
+    "youtube"
+   ],
+   "latestTag": "v2.7.0",
+   "latestDate": "2026-11-21",
+   "apkCount": 1,
+   "description": "Morphe app patcher for Android",
+   "summaryKo": "유튜브와 앱을 내 기기에서 직접 수정하는 오픈소스 패처",
+   "notesKo": {
+    "tag": "v2.7.0",
+    "lines": [
+     "앱의 모든 웹 링크를 한 번에 비활성화하는 기능을 추가했습니다.",
+     "내보낸 APK 이름에 복제된 앱을 표시하도록 수정했습니다.",
+     "대용량 파일 다운로드 속도를 개선했습니다."
+    ]
+   },
+   "screenshots": [],
+   "card": {
+    "oneLiner": "유튜브와 앱을 내 기기에서 직접 수정하는 오픈소스 패처",
+    "forWhom": "유튜브 등 앱의 광고와 불편한 기능을 직접 없애고 싶은 사용자",
+    "features": [
+     "유튜브 및 기타 지원 앱의 광고 제거",
+     "원탭으로 쉽게 패치하는 간편 모드 제공",
+     "상세 설정을 직접 고르는 전문가 모드 지원"
+    ],
+    "howToStart": [
+     "morphe.software 누리집에서 앱 설치하기",
+     "유튜브 등 패치할 앱 고르기",
+     "간편 모드나 전문가 모드로 패치 실행하기"
+    ],
+    "praise": [
+     {
+      "text": "패치 소스를 찾기 쉽게 커뮤니티 페이지 바로가기 버튼이 있으면 좋겠습니다.",
+      "source": "GitHub 이슈 #835",
+      "url": "https://github.com/MorpheApp/morphe-manager/issues/835",
+      "date": "2026-08-09",
+      "old": false
+     },
+     {
+      "text": "패치 요청을 모아보는 투표 시스템이 있으면 개발자가 우선순위를 정하기 편할 것입니다.",
+      "source": "GitHub 이슈 #810",
+      "url": "https://github.com/MorpheApp/morphe-manager/issues/810",
+      "date": "2026-08-02",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "앱 세부 정보 화면에서 패치 목록을 연 뒤 앱 정보가 사라지는 문제가 있습니다.",
+      "source": "GitHub 이슈 #1491",
+      "url": "https://github.com/MorpheApp/morphe-manager/issues/1491",
+      "date": "2026-11-21",
+      "old": false
+     },
+     {
+      "text": "메모리 부족 오류로 유튜브 패치가 실패하는 경우가 있습니다.",
+      "source": "GitHub 이슈 #1119",
+      "url": "https://github.com/MorpheApp/morphe-manager/issues/1119",
+      "date": "2026-10-02",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "기기 성능이나 메모리 부족으로 패치가 실패할 수 있습니다.",
+      "url": "https://github.com/MorpheApp/morphe-manager/issues/1119"
+     },
+     {
+      "text": "전문가 모드에서 일부 패치 선택 시 오류가 날 수 있습니다.",
+      "url": "https://github.com/MorpheApp/morphe-manager/issues/1058"
+     }
+    ],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media"
+   ],
+   "cardTag": "v2.7.0",
+   "score": 7.5239,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 61,
+     "checkedAt": "2026-11-22",
+     "asset": "morphe-manager-2.7.0.apk",
+     "sha256": "92ad7afd0feeb239338581f104c9c025877b0e27dfe3134881b9382891262794"
+    },
+    "attested": true,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v2.7.0",
+    "packageName": "app.morphe.manager",
+    "certSha256": "0b6c9515afb195fac59601696ba0a7907a0b217ccf720b43148427ccf64343e7"
+   }
+  },
+  {
    "repo": "recloudstream/cloudstream",
    "name": "cloudstream",
    "owner": "recloudstream",
    "avatarUrl": "https://avatars.githubusercontent.com/u/110591699?v=4",
-   "stars": 11372,
+   "stars": 11383,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2364,7 +2467,7 @@
     "ad-free-media"
    ],
    "cardTag": "v4.9.1",
-   "score": 7.4901,
+   "score": 7.4851,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2390,7 +2493,7 @@
    "name": "android-ad-cleaner",
    "owner": "rddmwmddr",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5119232?v=4",
-   "stars": 8531,
+   "stars": 8645,
    "license": "MIT",
    "topics": [
     "adb",
@@ -2476,7 +2579,7 @@
     "phone-tools"
    ],
    "cardTag": "v0.4.5",
-   "score": 7.4146,
+   "score": 7.4149,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2502,7 +2605,7 @@
    "name": "pikapika",
    "owner": "ComicSparks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/226234085?v=4",
-   "stars": 8428,
+   "stars": 8432,
    "license": null,
    "topics": [
     "acg",
@@ -2601,7 +2704,7 @@
     "reading-news"
    ],
    "cardTag": "v1.8.27",
-   "score": 7.4093,
+   "score": 7.4041,
    "safety": {
     "vt": null,
     "attested": false,
@@ -2618,7 +2721,7 @@
    "name": "flutter_server_box",
    "owner": "lollipopkit",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10864310?v=4",
-   "stars": 9050,
+   "stars": 9052,
    "license": "AGPL-3.0",
    "topics": [
     "ai-agents",
@@ -2711,7 +2814,7 @@
     "phone-tools"
    ],
    "cardTag": "v1.0.1925",
-   "score": 7.4019,
+   "score": 7.3965,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2735,7 +2838,7 @@
    "name": "sdmaid-se",
    "owner": "d4rken-org",
    "avatarUrl": "https://avatars.githubusercontent.com/u/109539113?v=4",
-   "stars": 8153,
+   "stars": 8169,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2817,7 +2920,7 @@
     "phone-tools"
    ],
    "cardTag": "v2.2.3-rc0",
-   "score": 7.4004,
+   "score": 7.3958,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2841,7 +2944,7 @@
    "name": "Anki-Android",
    "owner": "ankidroid",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3320903?v=4",
-   "stars": 12297,
+   "stars": 12305,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -2913,7 +3016,7 @@
    },
    "themes": [],
    "cardTag": "v2.25.3",
-   "score": 7.3981,
+   "score": 7.3929,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -2942,7 +3045,7 @@
    "name": "Mornye",
    "owner": "mornyeapp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/275997661?v=4",
-   "stars": 8082,
+   "stars": 8096,
    "license": "LGPL-3.0",
    "topics": [
     "android",
@@ -3022,7 +3125,7 @@
     "downloaders"
    ],
    "cardTag": "v5.4.0",
-   "score": 7.3857,
+   "score": 7.3809,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3048,7 +3151,7 @@
    "name": "koreader",
    "owner": "koreader",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3957564?v=4",
-   "stars": 31231,
+   "stars": 31251,
    "license": "AGPL-3.0",
    "topics": [
     "cbz",
@@ -3134,7 +3237,7 @@
     "reading-news"
    ],
    "cardTag": "v2026.07.1",
-   "score": 7.3809,
+   "score": 7.3757,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3158,7 +3261,7 @@
    "name": "ytdlnis",
    "owner": "deniscerri",
    "avatarUrl": "https://avatars.githubusercontent.com/u/64997243?v=4",
-   "stars": 11235,
+   "stars": 11248,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3257,7 +3360,7 @@
     "downloaders"
    ],
    "cardTag": "v1.9.1.1",
-   "score": 7.3698,
+   "score": 7.3648,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3281,7 +3384,7 @@
    "name": "PipePipe",
    "owner": "InfinityLoop1308",
    "avatarUrl": "https://avatars.githubusercontent.com/u/96324692?v=4",
-   "stars": 7274,
+   "stars": 7282,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3373,7 +3476,7 @@
     "ad-free-media"
    ],
    "cardTag": "v5.6.0",
-   "score": 7.3564,
+   "score": 7.3514,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3402,7 +3505,7 @@
    "name": "namida",
    "owner": "namidaco",
    "avatarUrl": "https://avatars.githubusercontent.com/u/125698776?v=4",
-   "stars": 6894,
+   "stars": 6898,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -3494,7 +3597,7 @@
     "downloaders"
    ],
    "cardTag": "v8.6.7",
-   "score": 7.3331,
+   "score": 7.3278,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3518,7 +3621,7 @@
    "name": "uhabits",
    "owner": "iSoron",
    "avatarUrl": "https://avatars.githubusercontent.com/u/4699657?v=4",
-   "stars": 10430,
+   "stars": 10435,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3593,7 +3696,7 @@
    },
    "themes": [],
    "cardTag": "v2.3.2",
-   "score": 7.3265,
+   "score": 7.3213,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3610,6 +3713,127 @@
     "analyzedTag": "v2.3.2",
     "packageName": "org.isoron.uhabits",
     "certSha256": "a0d51f7d9e76941e808585a52080e2d670d7f4fa05816549c45d7adaaa6f8bec"
+   }
+  },
+  {
+   "repo": "shiaho777/web-to-app",
+   "name": "web-to-app",
+   "owner": "shiaho777",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/222622008?v=4",
+   "stars": 7313,
+   "license": "Unlicense",
+   "topics": [
+    "android",
+    "app",
+    "web"
+   ],
+   "latestTag": "v2.8.8",
+   "latestDate": "2026-11-11",
+   "apkCount": 1,
+   "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
+   "summaryKo": "안드로이드 기기에서 웹 프로젝트를 앱으로 만드는 도구",
+   "notesKo": {
+    "tag": "v2.8.8",
+    "lines": [
+     "전체 화면 WebView 앱에서 디스플레이 컷아웃 처리 옵션을 추가했습니다.",
+     "페이지가 실제 컷아웃 여백을 읽을 수 있는 안전 영역 변수를 추가했습니다.",
+     "대형 다운로드 및 교차 출처 요청 처리 방식을 개선했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg",
+    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg",
+    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg",
+    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg",
+    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/05.jpg",
+    "https://raw.githubusercontent.com/shiaho777/web-to-app/main/fastlane/metadata/android/en-US/images/phoneScreenshots/06.jpg"
+   ],
+   "card": {
+    "oneLiner": "안드로이드 기기에서 웹 프로젝트를 앱으로 만드는 도구",
+    "forWhom": "웹사이트를 안드로이드 앱으로 변환하고 싶은 개발자",
+    "features": [
+     "휴대폰에서 직접 APK 빌드",
+     "Node.js 및 PHP 등 서버 런타임 실행",
+     "개인정보 보호 및 네트워크 보안 스택 제공"
+    ],
+    "howToStart": [
+     "앱을 설치하고 메인 화면에서 프로젝트를 선택합니다.",
+     "원하는 웹 URL이나 프로젝트 종류를 설정합니다.",
+     "빌드 버튼을 눌러 안드로이드 앱으로 변환합니다."
+    ],
+    "praise": [
+     {
+      "text": "모바일 기기에서 직접 서버 런타임을 구동할 수 있어 매우 인상적입니다.",
+      "source": "GitHub 이슈 #117",
+      "url": "https://github.com/shiaho777/web-to-app/issues/117",
+      "date": "2026-06-10",
+      "old": false
+     },
+     {
+      "text": "정말 훌륭한 프로젝트입니다.",
+      "source": "GitHub 이슈 #31",
+      "url": "https://github.com/shiaho777/web-to-app/issues/31",
+      "date": "2026-02-15",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "확장 모듈을 켜면 화면 스크롤이나 클릭을 방해하는 플로팅 버튼이 생깁니다.",
+      "source": "GitHub 이슈 #24",
+      "url": "https://github.com/shiaho777/web-to-app/issues/24",
+      "date": "2026-02-05",
+      "old": false
+     },
+     {
+      "text": "확장 모듈을 선택할 때 앱이 강제로 종료되는 문제가 있습니다.",
+      "source": "GitHub 이슈 #993",
+      "url": "https://github.com/shiaho777/web-to-app/issues/993",
+      "date": "2026-09-19",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "전체 화면 모드에서 상단 UI 요소가 카메라 노치 등에 가려질 수 있습니다.",
+      "url": "https://github.com/shiaho777/web-to-app/issues/1501"
+     },
+     {
+      "text": "빌드된 APK에서 외부 링크가 브라우저가 아닌 웹뷰 안에서 열릴 수 있습니다.",
+      "url": "https://github.com/shiaho777/web-to-app/issues/22"
+     },
+     {
+      "text": "생성된 앱에서 HTML의 텍스트 읽어주기(TTS) 기능이 작동하지 않을 수 있습니다.",
+      "url": "https://github.com/shiaho777/web-to-app/issues/1683"
+     }
+    ],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "downloaders",
+    "privacy"
+   ],
+   "cardTag": "v2.8.8",
+   "score": 7.3039,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 44,
+     "checkedAt": "2026-11-17",
+     "asset": "web-to-app-2.8.8.APK",
+     "sha256": "c7a7a80be49434eb0485956d3f9c580f0229d6702781bdd9afff67236325beba"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v2.8.8",
+    "packageName": "com.webtoapp",
+    "certSha256": "9560c2ed104d79f8f276752d2cbe3247a846951e3c02bd4545c2efd4aa8cbe22"
    }
   },
   {
@@ -3698,7 +3922,7 @@
     "network-vpn"
    ],
    "cardTag": "v20270101",
-   "score": 7.3092,
+   "score": 7.3038,
    "safety": {
     "vt": null,
     "attested": false,
@@ -3715,7 +3939,7 @@
    "name": "dashbeam",
    "owner": "tonyantony300",
    "avatarUrl": "https://avatars.githubusercontent.com/u/54979586?v=4",
-   "stars": 10366,
+   "stars": 10372,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -3792,7 +4016,7 @@
     "privacy"
    ],
    "cardTag": "v0.7.2",
-   "score": 7.3074,
+   "score": 7.3022,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3816,7 +4040,7 @@
    "name": "KeePassDX",
    "owner": "Kunzisoft",
    "avatarUrl": "https://avatars.githubusercontent.com/u/22522604?v=4",
-   "stars": 7712,
+   "stars": 7716,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -3921,7 +4145,7 @@
     "security-auth"
    ],
    "cardTag": "4.5.8",
-   "score": 7.2722,
+   "score": 7.2669,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -3945,7 +4169,7 @@
    "name": "android-sms-gateway",
    "owner": "capcom6",
    "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?v=4",
-   "stars": 6038,
+   "stars": 6041,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -4027,7 +4251,7 @@
    },
    "themes": [],
    "cardTag": "v1.79.0",
-   "score": 7.259,
+   "score": 7.2538,
    "safety": {
     "vt": {
      "malicious": 6,
@@ -4053,7 +4277,7 @@
    "name": "Canta",
    "owner": "samolego",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34912839?v=4",
-   "stars": 7612,
+   "stars": 7642,
    "license": "LGPL-3.0",
    "topics": [
     "android",
@@ -4132,7 +4356,7 @@
     "privacy"
    ],
    "cardTag": "v4.1.0",
-   "score": 7.2555,
+   "score": 7.2518,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4156,7 +4380,7 @@
    "name": "SoloPi",
    "owner": "alipay",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1299356?v=4",
-   "stars": 6390,
+   "stars": 6465,
    "license": "Apache-2.0",
    "topics": [
     "adb",
@@ -4249,7 +4473,7 @@
     "phone-tools"
    ],
    "cardTag": "v1.0.4",
-   "score": 7.2453,
+   "score": 7.2449,
    "safety": {
     "vt": null,
     "attested": false,
@@ -4266,7 +4490,7 @@
    "name": "android",
    "owner": "nextcloud",
    "avatarUrl": "https://avatars.githubusercontent.com/u/19211038?v=4",
-   "stars": 5726,
+   "stars": 5729,
    "license": "GPL-2.0",
    "topics": [
     "android",
@@ -4351,7 +4575,7 @@
    },
    "themes": [],
    "cardTag": "35.1.0",
-   "score": 7.2415,
+   "score": 7.2362,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4375,7 +4599,7 @@
    "name": "AutoJs6",
    "owner": "SuperMonster003",
    "avatarUrl": "https://avatars.githubusercontent.com/u/30370009?v=4",
-   "stars": 6681,
+   "stars": 6682,
    "license": "MPL-2.0",
    "topics": [
     "android",
@@ -4443,7 +4667,7 @@
    },
    "themes": [],
    "cardTag": "v6.8.0",
-   "score": 7.2263,
+   "score": 7.2209,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -4467,7 +4691,7 @@
    "name": "Aegis",
    "owner": "beemdevelopment",
    "avatarUrl": "https://avatars.githubusercontent.com/u/47433933?v=4",
-   "stars": 13592,
+   "stars": 13599,
    "license": "GPL-3.0",
    "topics": [
     "2fa",
@@ -4545,7 +4769,7 @@
     "security-auth"
    ],
    "cardTag": "v3.4.3",
-   "score": 7.2169,
+   "score": 7.2116,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4569,7 +4793,7 @@
    "name": "PCAPdroid",
    "owner": "emanuele-f",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5488003?v=4",
-   "stars": 5228,
+   "stars": 5236,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4658,7 +4882,7 @@
     "network-vpn"
    ],
    "cardTag": "v2.0.4",
-   "score": 7.2129,
+   "score": 7.2081,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4682,7 +4906,7 @@
    "name": "APatch",
    "owner": "bmax121",
    "avatarUrl": "https://avatars.githubusercontent.com/u/12316019?v=4",
-   "stars": 8199,
+   "stars": 8200,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4766,7 +4990,7 @@
     "phone-tools"
    ],
    "cardTag": "11282",
-   "score": 7.2111,
+   "score": 7.2056,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4786,11 +5010,138 @@
    }
   },
   {
+   "repo": "saber-notes/saber",
+   "name": "saber",
+   "owner": "saber-notes",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/148824533?v=4",
+   "stars": 5057,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "cross-platform",
+    "dart",
+    "f-droid",
+    "flatpak",
+    "flutter",
+    "handwritten-notes",
+    "ios",
+    "linux",
+    "macos",
+    "notes",
+    "notes-app",
+    "saber",
+    "windows"
+   ],
+   "latestTag": "v1.38.0",
+   "latestDate": "2026-11-21",
+   "apkCount": 2,
+   "description": "The cross-platform open-source app built for handwriting",
+   "summaryKo": "손글씨 입력과 기기 간 동기화를 지원하는 오픈소스 메모 앱",
+   "notesKo": {
+    "tag": "v1.38.0",
+    "lines": [
+     "PDF 가져오기를 하나의 기록 항목으로 그룹화하여 한 번에 실행 취소할 수 있습니다.",
+     "다양한 비율로 가져온 PDF의 크기 조정 및 스크롤 성능을 개선했습니다.",
+     "PDF에서 가져온 페이지가 입력된 텍스트 도구의 변경 사항을 반영하지 못하던 문제를 수정했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/1_home.png",
+    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/2_editor.png",
+    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/3_login.png",
+    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/4_settings.png"
+   ],
+   "card": {
+    "oneLiner": "손글씨 입력과 기기 간 동기화를 지원하는 오픈소스 메모 앱",
+    "forWhom": "디지털 손글씨로 메모하고 여러 기기에서 동기화하려는 사람",
+    "features": [
+     "어두운 화면에서 글자와 이미지를 반전해 눈이 편한 모드",
+     "이중 비밀번호로 안전하게 메모 보호",
+     "폴더 안에 폴더를 무제한으로 만들어 정리"
+    ],
+    "howToStart": [
+     "구글 플레이나 F-Droid, 앱 스토어 등에서 Saber 앱을 설치합니다.",
+     "새 메모를 만들고 손글씨나 펜으로 자유롭게 내용을 적습니다.",
+     "서버 동기화나 폴더 설정을 통해 여러 기기에서 메모를 관리합니다."
+    ],
+    "praise": [
+     {
+      "text": "공부할 때 정말 큰 도움이 되는 멋진 앱입니다.",
+      "source": "GitHub 이슈 #932",
+      "url": "https://github.com/saber-notes/saber/issues/932",
+      "date": "2023-09-23",
+      "old": true
+     },
+     {
+      "text": "여러 기기에서 쓸 수 있고 PDF로 저장하기 쉽습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=41362477",
+      "date": "2024-08-26",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "다른 페이지로 선택 영역을 드래그하면 사라집니다.",
+      "source": "GitHub 이슈 #932",
+      "url": "https://github.com/saber-notes/saber/issues/932",
+      "date": "2023-09-23",
+      "old": true
+     },
+     {
+      "text": "맞춤 데이터 디렉토리를 지정하면 저장되지 않을 때가 있습니다.",
+      "source": "GitHub 이슈 #1223",
+      "url": "https://github.com/saber-notes/saber/issues/1223",
+      "date": "2024-04-21",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "노트 이름을 바꾸면 가져온 PDF가 사라질 수 있습니다.",
+      "url": "https://github.com/saber-notes/saber/issues/1892"
+     },
+     {
+      "text": "일부 환경에서 저장된 파일이 암호화되지 않고 문서 폴더에 저장될 수 있습니다.",
+      "url": "https://github.com/saber-notes/saber/issues/1888"
+     },
+     {
+      "text": "PDF 파일을 가져올 때 파일 용량이 매우 커질 수 있습니다.",
+      "url": "https://github.com/saber-notes/saber/issues/1859"
+     }
+    ],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "notes-tasks"
+   ],
+   "cardTag": "v1.38.0",
+   "score": 7.1985,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 66,
+     "checkedAt": "2026-11-22",
+     "asset": "Saber_FOSS_v1.38.0.apk",
+     "sha256": "e3f5644eafab0d0668cc7474e3c2fb8ab025b50f4c01fff881255e948f0b9657"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v1.38.0",
+    "packageName": "com.adilhanney.saber",
+    "certSha256": "cc8fd688fa55bcff371383dfbd8ef67d4c21d2a6aaf306b60c81ef2123eaa7e2"
+   }
+  },
+  {
    "repo": "deckerst/aves",
    "name": "aves",
    "owner": "deckerst",
    "avatarUrl": "https://avatars.githubusercontent.com/u/13898333?v=4",
-   "stars": 5538,
+   "stars": 5540,
    "license": "BSD-3-Clause",
    "topics": [
     "android",
@@ -4874,7 +5225,7 @@
     "files-photos"
    ],
    "cardTag": "v1.15.10",
-   "score": 7.1832,
+   "score": 7.1778,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -4900,7 +5251,7 @@
    "name": "termux-x11",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 5184,
+   "stars": 5190,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -4980,7 +5331,7 @@
    },
    "themes": [],
    "cardTag": "nightly",
-   "score": 7.1819,
+   "score": 7.1769,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -5004,7 +5355,7 @@
    "name": "Android",
    "owner": "duckduckgo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/342708?v=4",
-   "stars": 4912,
+   "stars": 4914,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -5094,7 +5445,7 @@
     "privacy"
    ],
    "cardTag": "5.304.0",
-   "score": 7.1804,
+   "score": 7.1751,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5116,126 +5467,232 @@
    }
   },
   {
-   "repo": "saber-notes/saber",
-   "name": "saber",
-   "owner": "saber-notes",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/148824533?v=4",
-   "stars": 5052,
-   "license": "GPL-3.0",
+   "repo": "ersinkoc/phonebox",
+   "name": "phonebox",
+   "owner": "ersinkoc",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/408479?v=4",
+   "stars": 4629,
+   "license": "MIT",
    "topics": [
     "android",
-    "cross-platform",
-    "dart",
-    "f-droid",
-    "flatpak",
-    "flutter",
-    "handwritten-notes",
-    "ios",
+    "claude-code",
+    "codex",
+    "dashboard",
+    "desk-panel",
+    "dotnet",
+    "home-assistant",
     "linux",
     "macos",
-    "notes",
-    "notes-app",
-    "saber",
+    "old-phone",
+    "smart-stack",
+    "stream-deck",
+    "system-monitor",
+    "tailscale",
+    "webhooks",
+    "widgets",
     "windows"
    ],
-   "latestTag": "v1.37.2",
-   "latestDate": "2026-11-13",
-   "apkCount": 2,
-   "description": "The cross-platform open-source app built for handwriting",
-   "summaryKo": "손글씨 작성과 동기화를 지원하는 오픈소스 메모 앱입니다.",
+   "latestTag": "v0.9.27",
+   "latestDate": "2026-11-21",
+   "apkCount": 1,
+   "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+   "summaryKo": "안드로이드 공폰을 PC 제어 패널과 모니터로 쓰는 오픈소스 앱",
    "notesKo": {
-    "tag": "v1.37.2",
+    "tag": "v0.9.27",
     "lines": [
-     "다크 모드에서 편집기 대비 저하 문제 수정",
-     "안드로이드 8 이상 요구",
-     "한국어 메타데이터 및 번역 추가"
+     "한국어를 포함한 9개의 새로운 언어가 추가되었습니다.",
+     "디스코드 로그인 기능이 다시 작동하며 말하는 사용자를 표시합니다.",
+     "뉴스 피드에 카테고리 기능과 OPML 가져오기 기능이 추가되었습니다."
     ]
    },
    "screenshots": [
-    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/1_home.png",
-    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/2_editor.png",
-    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/3_login.png",
-    "https://github.com/saber-notes/saber/raw/main/metadata/en-US/images/phoneScreenshots/4_settings.png"
+    "https://raw.githubusercontent.com/ersinkoc/phonebox/HEAD/docs/screenshots/home.png",
+    "https://raw.githubusercontent.com/ersinkoc/phonebox/HEAD/docs/screenshots/work.png",
+    "https://raw.githubusercontent.com/ersinkoc/phonebox/HEAD/docs/screenshots/system.png",
+    "https://raw.githubusercontent.com/ersinkoc/phonebox/HEAD/docs/screenshots/settings-editor.png"
    ],
    "card": {
-    "oneLiner": "손글씨 작성과 동기화를 지원하는 오픈소스 메모 앱입니다.",
-    "forWhom": "디지털 기기에서 손글씨로 메모하고 정리하려는 사용자",
+    "oneLiner": "안드로이드 공폰을 PC 제어 패널과 모니터로 쓰는 오픈소스 앱",
+    "forWhom": "안드로이드 공폰을 활용해 PC 상태를 확인하고 제어하려는 분",
     "features": [
-     "손글씨와 디지털 필기에 최적화된 노트 기능",
-     "다양한 기기 간 간편한 동기화 지원",
-     "다크 모드에서 필기 반전 기능 제공"
+     "CPU, GPU, RAM 등 PC 상태 실시간 확인",
+     "터치로 앱, 미디어, 웹훅 및 홈 어시스턴트 제어",
+     "AI 코딩 세션 진행 상황 및 토큰 사용량 확인"
     ],
     "howToStart": [
-     "구글 플레이 스토어, F-Droid 또는 깃허브에서 앱을 내려받습니다.",
-     "앱을 실행하고 새 노트를 만들어 손글씨를 작성합니다.",
-     "필요시 동기화 서버를 설정해 기기 간에 노트를 연결합니다."
+     "PC에 데스크톱 에이전트를 설치하고 설정을 엽니다.",
+     "USB 케이블이나 Wi-Fi로 안드로이드 5 이상 폰을 연결합니다.",
+     "웹 에이전트에서 위젯을 배치하고 원하는 레이아웃을 만듭니다."
     ],
     "praise": [
      {
-      "text": "여러 기기에서 사용할 수 있고 PDF로 저장하기 쉽습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=41362477",
-      "date": "2024-08-26",
-      "old": true
-     },
-     {
-      "text": "공부할 때 필기 정리에 큰 도움이 됩니다.",
-      "source": "GitHub 이슈 #932",
-      "url": "https://github.com/saber-notes/saber/issues/932",
-      "date": "2023-09-23",
-      "old": true
+      "text": "위젯 시스템과 페어링, 자동화 규칙이 매우 유용합니다.",
+      "source": "GitHub 이슈 #95",
+      "url": "https://github.com/ersinkoc/phonebox/issues/95",
+      "date": "2026-11-15",
+      "old": false
      }
     ],
     "complaints": [
      {
-      "text": "다른 창으로 이동하면 앱이 멈추거나 꺼질 수 있습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=41354655",
-      "date": "2024-08-26",
-      "old": true
+      "text": "디스플레이 밝기 슬라이더를 조작하면 값이 잠시 뒤로 튀는 문제가 있습니다.",
+      "source": "GitHub 이슈 #360",
+      "url": "https://github.com/ersinkoc/phonebox/issues/360",
+      "date": "2026-11-21",
+      "old": false
      },
      {
-      "text": "노트 이름을 바꿀 때 가져온 PDF가 사라지는 문제가 있습니다.",
-      "source": "GitHub 이슈 #1892",
-      "url": "https://github.com/saber-notes/saber/issues/1892",
-      "date": "2026-11-15",
+      "text": "디스코드 로그인 시 redirect_uri 누락 오류가 발생할 수 있습니다.",
+      "source": "GitHub 이슈 #316",
+      "url": "https://github.com/ersinkoc/phonebox/issues/316",
+      "date": "2026-11-20",
       "old": false
      }
     ],
     "cautions": [
      {
-      "text": "선택한 내용을 다른 페이지로 끌어다 놓을 때 위치가 어긋날 수 있습니다.",
-      "url": "https://github.com/saber-notes/saber/issues/1853"
+      "text": "윈도우에서는 스마트 앱 컨트롤이나 백신이 에이전트 실행을 차단할 수 있습니다.",
+      "url": "https://github.com/ersinkoc/phonebox/issues/56"
      },
      {
-      "text": "대용량 PDF를 가져올 때 파일 용량이 매우 커질 수 있습니다.",
-      "url": "https://github.com/saber-notes/saber/issues/1859"
+      "text": "맥OS에서는 업데이트 후 접근성 권한을 다시 허용해야 단축키가 작동합니다.",
+      "url": "https://github.com/ersinkoc/phonebox/issues/269"
+     },
+     {
+      "text": "안드로이드 9 및 10 버전에서 실행 시 충돌이 발생할 수 있습니다.",
+      "url": "https://github.com/ersinkoc/phonebox/issues/8"
      }
     ],
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-22",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [
-    "notes-tasks"
+    "phone-tools"
    ],
-   "cardTag": "v1.37.2",
-   "score": 7.1597,
+   "cardTag": "v0.9.27",
+   "score": 7.1601,
+   "safety": {
+    "vt": null,
+    "attested": true,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v0.9.27",
+    "packageName": "net.oxog.phonebox.deskpanel",
+    "certSha256": "756909a22c89e82e5e7c8cd7bb0cdc32b4d797e5c54e9c7316b15d5bb86b73c1"
+   }
+  },
+  {
+   "repo": "zly2006/zhihu-plus-plus",
+   "name": "zhihu-plus-plus",
+   "owner": "zly2006",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/66198935?v=4",
+   "stars": 4547,
+   "license": "AGPL-3.0",
+   "topics": [
+    "android",
+    "zhihu",
+    "zhihu-daily"
+   ],
+   "latestTag": "0.32",
+   "latestDate": "2026-11-21",
+   "apkCount": 2,
+   "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
+   "summaryKo": "광고와 알고리즘 추천을 없앤 가벼운 지乎 오픈소스 클라이언트",
+   "notesKo": {
+    "tag": "0.32",
+    "lines": [
+     "공식 폰트 import 및 수식 폰트 선택을 지원합니다.",
+     "답변 목록에서 이미지 썸네일과 뼈대 화면을 제공합니다.",
+     "댓글 동기화 및 내 답변 편집 기능을 추가했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/1_home.jpg",
+    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/2_follow.jpg",
+    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/3_daily.jpg",
+    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/4_people.jpg",
+    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/5_article.jpg"
+   ],
+   "card": {
+    "oneLiner": "광고와 알고리즘 추천을 없앤 가벼운 지乎 오픈소스 클라이언트",
+    "forWhom": "지乎을 광고 없이 쾌적하게 이용하고 싶은 안드로이드 사용자",
+    "features": [
+     "광고, 홍보글,盐选 유료 콘텐츠 차단 기능",
+     "답변 및 기사 PDF, 이미지, 마크다운 내보내기",
+     "기기 사양에 맞춰 고르는 Full 및 Lite 버전 제공"
+    ],
+    "howToStart": [
+     "깃허브 릴리스 페이지에서 최신 APK 파일을 다운로드하여 설치합니다.",
+     "앱을 실행한 뒤 휴대폰 번호, QR코드 또는 쿠키로 로그인합니다.",
+     "설정에서 화면 테마, 차단 단어 및 피드 추천 방식을 입맛에 맞게 조절합니다."
+    ],
+    "praise": [
+     {
+      "text": "답변을 넘겨볼 때 좌우 슬라이드 기능이 편리합니다.",
+      "source": "GitHub 이슈 #48",
+      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/48",
+      "date": "2026-01-22",
+      "old": false
+     },
+     {
+      "text": "원하는 사용자의 동창 키워드 검색 기능이 있으면 좋겠습니다.",
+      "source": "GitHub 이슈 #194",
+      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/194",
+      "date": "2026-03-22",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "댓글을 시간순으로 정렬하는 기능이 필요합니다.",
+      "source": "GitHub 이슈 #200",
+      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/200",
+      "date": "2026-03-23",
+      "old": false
+     },
+     {
+      "text": "답변 내 코드 블록이 줄바꿈되지 않고 가로 스크롤도 안 됩니다.",
+      "source": "GitHub 이슈 #234",
+      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/234",
+      "date": "2026-03-28",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "일부 설정에서 옵션을 꺼도 예견식返回 애니메이션이 남는 문제가 있습니다.",
+      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/494"
+     },
+     {
+      "text": "홈 화면의 새로고침 버튼과 발행 버튼 위치가 겹치는 현상이 발생할 수 있습니다.",
+      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/825"
+     }
+    ],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "reading-news"
+   ],
+   "cardTag": "0.32",
+   "score": 7.1523,
    "safety": {
     "vt": {
      "malicious": 0,
      "suspicious": 0,
-     "engines": 66,
-     "checkedAt": "2026-11-17",
-     "asset": "Saber_FOSS_v1.37.2.apk",
-     "sha256": "43d2cb85d0c0ab67480830edad87a4667fc889536ff5e3aab913d585fb455591"
+     "engines": 63,
+     "checkedAt": "2026-11-22",
+     "asset": "zhihu++-full.apk",
+     "sha256": "24206c1d830087cf85d83e4c5ff267003fa127ce4eb6431416ea92687e787536"
     },
     "attested": false,
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "v1.37.2",
-    "packageName": "com.adilhanney.saber",
-    "certSha256": "cc8fd688fa55bcff371383dfbd8ef67d4c21d2a6aaf306b60c81ef2123eaa7e2"
+    "analyzedTag": "0.32",
+    "packageName": "com.github.zly2006.zhplus",
+    "certSha256": "45b5ea26b2a8bf6efd79d5d9532ed8d1cbcbe80a2629dd39d889d1209b7cca2d"
    }
   },
   {
@@ -5243,7 +5700,7 @@
    "name": "mangayomi",
    "owner": "kodjodevf",
    "avatarUrl": "https://avatars.githubusercontent.com/u/107993382?v=4",
-   "stars": 4532,
+   "stars": 4543,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -5343,7 +5800,7 @@
     "reading-news"
    ],
    "cardTag": "v0.9.97",
-   "score": 7.1509,
+   "score": 7.1465,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5369,7 +5826,7 @@
    "name": "nextplayer",
    "owner": "anilbeesetti",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66936649?v=4",
-   "stars": 4776,
+   "stars": 4783,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5451,7 +5908,7 @@
     "ad-free-media"
    ],
    "cardTag": "v0.21.0",
-   "score": 7.1408,
+   "score": 7.136,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5471,103 +5928,11 @@
    }
   },
   {
-   "repo": "zhanghai/MaterialFiles",
-   "name": "MaterialFiles",
-   "owner": "zhanghai",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/4469895?v=4",
-   "stars": 9512,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "android-application",
-    "file-manager",
-    "kotlin",
-    "kotlin-android",
-    "material-design"
-   ],
-   "latestTag": "v1.7.5",
-   "latestDate": "2026-09-20",
-   "apkCount": 2,
-   "description": "Material Design file manager for Android",
-   "summaryKo": "안드로이드용 오픈소스 파일 관리자 앱입니다.",
-   "notesKo": {
-    "tag": "v1.7.5",
-    "lines": [
-     "Shizuku 지원을 추가했습니다.",
-     "ZIP 압축 파일 생성 시 암호화를 AES-256으로 변경했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
-    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
-    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
-    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png",
-    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png",
-    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드용 오픈소스 파일 관리자 앱입니다.",
-    "forWhom": "안드로이드 기기에서 깔끔한 디자인의 파일 관리자를 찾는 분",
-    "features": [
-     "루트 권한 파일 관리 지원",
-     "FTP, SFTP, SMB 등 NAS 서버 연결 지원",
-     "압축 파일 보기, 해제 및 생성 지원"
-    ],
-    "howToStart": [
-     "구글 플레이나 F-Droid, 또는 깃허브에서 앱을 내려받아 설치합니다.",
-     "앱을 실행하여 기기 내 파일과 폴더를 탐색합니다.",
-     "필요시 설정에서 테마를 바꾸거나 NAS 서버를 연결해 파일을 관리합니다."
-    ],
-    "praise": [
-     {
-      "text": "오픈소스이며 가볍고 깔끔합니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=38992689",
-      "date": "2024-01-14",
-      "old": true
-     },
-     {
-      "text": "안드로이드 5.0 이상을 지원해서 인상적입니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=38993626",
-      "date": "2024-01-14",
-      "old": true
-     }
-    ],
-    "complaints": [],
-    "cautions": [],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "files-photos"
-   ],
-   "cardTag": "v1.7.5",
-   "score": 7.1386,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 58,
-     "checkedAt": "2026-11-16",
-     "asset": "app-release-fdroid.apk",
-     "sha256": "2fe900bf43d725b655008d438f5ca46d0da0f301e3784403b5b96c3fc2df6e8a"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v1.7.5",
-    "packageName": "me.zhanghai.android.files",
-    "certSha256": "9c22a742fa200c85bafbc9924a02ddc8f3a0b975d4d7b5a8da21d7cf34ce2b20"
-   }
-  },
-  {
    "repo": "AAswordman/Operit",
    "name": "Operit",
    "owner": "AAswordman",
    "avatarUrl": "https://avatars.githubusercontent.com/u/66207760?v=4",
-   "stars": 9748,
+   "stars": 9771,
    "license": "LGPL-3.0",
    "topics": [
     "agent",
@@ -5663,7 +6028,7 @@
    },
    "themes": [],
    "cardTag": "v1.12.2",
-   "score": 7.1383,
+   "score": 7.1338,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5683,11 +6048,103 @@
    }
   },
   {
+   "repo": "zhanghai/MaterialFiles",
+   "name": "MaterialFiles",
+   "owner": "zhanghai",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/4469895?v=4",
+   "stars": 9513,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "android-application",
+    "file-manager",
+    "kotlin",
+    "kotlin-android",
+    "material-design"
+   ],
+   "latestTag": "v1.7.5",
+   "latestDate": "2026-09-20",
+   "apkCount": 2,
+   "description": "Material Design file manager for Android",
+   "summaryKo": "안드로이드용 오픈소스 파일 관리자 앱입니다.",
+   "notesKo": {
+    "tag": "v1.7.5",
+    "lines": [
+     "Shizuku 지원을 추가했습니다.",
+     "ZIP 압축 파일 생성 시 암호화를 AES-256으로 변경했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png",
+    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png",
+    "https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png"
+   ],
+   "card": {
+    "oneLiner": "안드로이드용 오픈소스 파일 관리자 앱입니다.",
+    "forWhom": "안드로이드 기기에서 깔끔한 디자인의 파일 관리자를 찾는 분",
+    "features": [
+     "루트 권한 파일 관리 지원",
+     "FTP, SFTP, SMB 등 NAS 서버 연결 지원",
+     "압축 파일 보기, 해제 및 생성 지원"
+    ],
+    "howToStart": [
+     "구글 플레이나 F-Droid, 또는 깃허브에서 앱을 내려받아 설치합니다.",
+     "앱을 실행하여 기기 내 파일과 폴더를 탐색합니다.",
+     "필요시 설정에서 테마를 바꾸거나 NAS 서버를 연결해 파일을 관리합니다."
+    ],
+    "praise": [
+     {
+      "text": "오픈소스이며 가볍고 깔끔합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=38992689",
+      "date": "2024-01-14",
+      "old": true
+     },
+     {
+      "text": "안드로이드 5.0 이상을 지원해서 인상적입니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=38993626",
+      "date": "2024-01-14",
+      "old": true
+     }
+    ],
+    "complaints": [],
+    "cautions": [],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "files-photos"
+   ],
+   "cardTag": "v1.7.5",
+   "score": 7.1332,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 58,
+     "checkedAt": "2026-11-16",
+     "asset": "app-release-fdroid.apk",
+     "sha256": "2fe900bf43d725b655008d438f5ca46d0da0f301e3784403b5b96c3fc2df6e8a"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v1.7.5",
+    "packageName": "me.zhanghai.android.files",
+    "certSha256": "9c22a742fa200c85bafbc9924a02ddc8f3a0b975d4d7b5a8da21d7cf34ce2b20"
+   }
+  },
+  {
    "repo": "M66B/FairEmail",
    "name": "FairEmail",
    "owner": "M66B",
    "avatarUrl": "https://avatars.githubusercontent.com/u/259573?v=4",
-   "stars": 4802,
+   "stars": 4807,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -5780,7 +6237,7 @@
     "privacy"
    ],
    "cardTag": "1.2341",
-   "score": 7.1377,
+   "score": 7.1326,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5806,7 +6263,7 @@
    "name": "aos-AVP",
    "owner": "nova-video-player",
    "avatarUrl": "https://avatars.githubusercontent.com/u/39300865?v=4",
-   "stars": 4822,
+   "stars": 4825,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -5903,7 +6360,7 @@
     "ad-free-media"
    ],
    "cardTag": "v6.6.5",
-   "score": 7.1285,
+   "score": 7.1233,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -5928,122 +6385,11 @@
    }
   },
   {
-   "repo": "jellyfin/jellyfin-androidtv",
-   "name": "jellyfin-androidtv",
-   "owner": "jellyfin",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/45698031?v=4",
-   "stars": 4755,
-   "license": "GPL-2.0",
-   "topics": [
-    "android",
-    "android-tv",
-    "java",
-    "jellyfin",
-    "kotlin"
-   ],
-   "latestTag": "v0.20.0",
-   "latestDate": "2026-11-10",
-   "apkCount": 2,
-   "description": "Android TV Client for Jellyfin",
-   "summaryKo": "안드로이드 TV와 파이어 TV에서 젤리핀 서버의 영상과 음악을 재생하는 앱입니다.",
-   "notesKo": {
-    "tag": "v0.20.0",
-    "lines": [
-     "재설계된 설정 및 향상된 비디오 재생과 자막 지원",
-     "트랜스코딩 시 항상 자막을 번인하는 옵션 추가",
-     "최소 안드로이드 6 요구 및 젤리핀 10.11 기반 SDK 사용"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/jellyfin/jellyfin-androidtv/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
-    "https://raw.githubusercontent.com/jellyfin/jellyfin-androidtv/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
-    "https://raw.githubusercontent.com/jellyfin/jellyfin-androidtv/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 TV와 파이어 TV에서 젤리핀 서버의 영상과 음악을 재생하는 앱입니다.",
-    "forWhom": "안드로이드 TV나 파이어 TV에서 미디어 서버를 연결해 보고 싶은 분",
-    "features": [
-     "젤리핀 미디어 서버에 연결해 동영상과 음악 재생",
-     "안드로이드 TV 및 아마존 파이어 TV 지원",
-     "자막 및 외부 플레이어 연동 설정 제공"
-    ],
-    "howToStart": [
-     "안드로이드 TV나 파이어 TV 기기에서 앱을 설치합니다.",
-     "젤리핀 서버 주소와 계정 정보를 입력해 로그인합니다.",
-     "라이브러리의 미디어를 선택해 재생합니다."
-    ],
-    "praise": [
-     {
-      "text": "인터페이스가 깔끔하고 설정하기 편합니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=31737810",
-      "date": "2022-06-14",
-      "old": true
-     },
-     {
-      "text": "안드로이드 TV 기기에서 쓰기 좋습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=36386009",
-      "date": "2023-06-19",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "특정 오디오 형식이 재생되지 않거나 멈추는 문제가 있습니다.",
-      "source": "GitHub 이슈 #5967",
-      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5967",
-      "date": "2026-11-16",
-      "old": false
-     },
-     {
-      "text": "블루투스 헤드폰 연결 시 E-AC3 재생에 실패하기도 합니다.",
-      "source": "GitHub 이슈 #5934",
-      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5934",
-      "date": "2026-11-03",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 미디어 포맷이나 자막 재생 시 코덱 설정에 따라 오류가 생길 수 있습니다.",
-      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5967"
-     },
-     {
-      "text": "리모컨으로 조작할 때 포커스 이동에 불편함이 있을 수 있습니다.",
-      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5953"
-     }
-    ],
-    "asOf": "2026-11-18",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "ad-free-media"
-   ],
-   "cardTag": "v0.20.0",
-   "score": 7.117,
-   "safety": {
-    "vt": null,
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "오류 보고"
-    ],
-    "analyzedTag": "v0.20.0",
-    "packageName": "org.jellyfin.androidtv.debug",
-    "certSha256": "e3dc0ff4fda91e2e7c14d323aaa286f229a649f39d348ae34b9d64a96b80cfbc",
-    "crashReporters": [
-     "ACRA"
-    ]
-   }
-  },
-  {
    "repo": "thtbee/nectarlink",
    "name": "nectarlink",
    "owner": "thtbee",
    "avatarUrl": "https://avatars.githubusercontent.com/u/302257494?v=4",
-   "stars": 5055,
+   "stars": 5131,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -6136,7 +6482,7 @@
     "files-photos"
    ],
    "cardTag": "v0.1.5",
-   "score": 7.1161,
+   "score": 7.1171,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6156,98 +6502,113 @@
    }
   },
   {
-   "repo": "ProtonVPN/android-app",
-   "name": "android-app",
-   "owner": "ProtonVPN",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/25028530?v=4",
-   "stars": 4324,
-   "license": "GPL-3.0",
+   "repo": "jellyfin/jellyfin-androidtv",
+   "name": "jellyfin-androidtv",
+   "owner": "jellyfin",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/45698031?v=4",
+   "stars": 4758,
+   "license": "GPL-2.0",
    "topics": [
     "android",
-    "ikev2",
+    "android-tv",
     "java",
-    "kotlin",
-    "openvpn",
-    "protonvpn",
-    "strongswan",
-    "vpn"
+    "jellyfin",
+    "kotlin"
    ],
-   "latestTag": "5.21.57.0",
-   "latestDate": "2026-11-17",
+   "latestTag": "v0.20.0",
+   "latestDate": "2026-11-10",
    "apkCount": 2,
-   "description": "Official ProtonVPN Android app",
-   "summaryKo": "안드로이드용 ProtonVPN 오픈소스 앱입니다.",
+   "description": "Android TV Client for Jellyfin",
+   "summaryKo": "안드로이드 TV와 파이어 TV에서 젤리핀 서버의 영상과 음악을 재생하는 앱입니다.",
    "notesKo": {
-    "tag": "5.21.57.0",
+    "tag": "v0.20.0",
     "lines": [
-     "힌디어 등 5개 언어가 추가되었습니다.",
-     "다른 기기 로그인 화면의 보안이 향상되었습니다.",
-     "안드로이드 TV에서 QR 코드로 구매할 수 있습니다."
+     "재설계된 설정 및 향상된 비디오 재생과 자막 지원",
+     "트랜스코딩 시 항상 자막을 번인하는 옵션 추가",
+     "최소 안드로이드 6 요구 및 젤리핀 10.11 기반 SDK 사용"
     ]
    },
    "screenshots": [
-    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/2.jpg",
-    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/3.jpg",
-    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/4.jpg",
-    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/5.jpg"
+    "https://raw.githubusercontent.com/jellyfin/jellyfin-androidtv/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+    "https://raw.githubusercontent.com/jellyfin/jellyfin-androidtv/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+    "https://raw.githubusercontent.com/jellyfin/jellyfin-androidtv/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png"
    ],
    "card": {
-    "oneLiner": "안드로이드용 ProtonVPN 오픈소스 앱입니다.",
-    "forWhom": "ProtonVPN을 안드로이드 기기에서 이용하려는 사용자",
+    "oneLiner": "안드로이드 TV와 파이어 TV에서 젤리핀 서버의 영상과 음악을 재생하는 앱입니다.",
+    "forWhom": "안드로이드 TV나 파이어 TV에서 미디어 서버를 연결해 보고 싶은 분",
     "features": [
-     "다양한 언어 지원 추가",
-     "로그인 화면 보안 강화",
-     "QR 코드를 이용한 간편 구매"
+     "젤리핀 미디어 서버에 연결해 동영상과 음악 재생",
+     "안드로이드 TV 및 아마존 파이어 TV 지원",
+     "자막 및 외부 플레이어 연동 설정 제공"
     ],
     "howToStart": [
-     "저장소를 내려받습니다.",
-     "필요한 도구를 설치합니다.",
-     "안드로이드 스튜디오에서 빌드합니다."
+     "안드로이드 TV나 파이어 TV 기기에서 앱을 설치합니다.",
+     "젤리핀 서버 주소와 계정 정보를 입력해 로그인합니다.",
+     "라이브러리의 미디어를 선택해 재생합니다."
     ],
     "praise": [
      {
-      "text": "앱 디자인이 새롭게 바뀌어 보기 좋습니다.",
-      "source": "Lemmy 댓글",
-      "url": "https://lemmy.dbzer0.com/post/17302914",
-      "date": "2024-03-27",
+      "text": "인터페이스가 깔끔하고 설정하기 편합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=31737810",
+      "date": "2022-06-14",
+      "old": true
+     },
+     {
+      "text": "안드로이드 TV 기기에서 쓰기 좋습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=36386009",
+      "date": "2023-06-19",
       "old": true
      }
     ],
-    "complaints": [],
+    "complaints": [
+     {
+      "text": "특정 오디오 형식이 재생되지 않거나 멈추는 문제가 있습니다.",
+      "source": "GitHub 이슈 #5967",
+      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5967",
+      "date": "2026-11-16",
+      "old": false
+     },
+     {
+      "text": "블루투스 헤드폰 연결 시 E-AC3 재생에 실패하기도 합니다.",
+      "source": "GitHub 이슈 #5934",
+      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5934",
+      "date": "2026-11-03",
+      "old": false
+     }
+    ],
     "cautions": [
      {
-      "text": "일부 지역에서는 연결이 원활하지 않을 수 있습니다.",
-      "url": "https://news.ycombinator.com/item?id=41173562"
+      "text": "일부 미디어 포맷이나 자막 재생 시 코덱 설정에 따라 오류가 생길 수 있습니다.",
+      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5967"
+     },
+     {
+      "text": "리모컨으로 조작할 때 포커스 이동에 불편함이 있을 수 있습니다.",
+      "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5953"
      }
     ],
     "asOf": "2026-11-18",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [
-    "network-vpn"
+    "ad-free-media"
    ],
-   "cardTag": "5.21.57.0",
-   "score": 7.1141,
+   "cardTag": "v0.20.0",
+   "score": 7.1118,
    "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 63,
-     "checkedAt": "2026-11-18",
-     "asset": "ProtonVPN-5.21.57.0.605215700.-production-vanilla-direct-release.apk",
-     "sha256": "d06b2c5017e14376b4a87a718ae4c4c4d21f6e0e0d6148b78ccef236f590345c"
-    },
+    "vt": null,
     "attested": false,
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [
      "오류 보고"
     ],
-    "analyzedTag": "5.21.57.0",
-    "packageName": "ch.protonvpn.android",
-    "certSha256": "dcc9439ec1a6c6a8d0203f3423ee42bcc8b970628e53cb73a0393f398dd5b853",
+    "analyzedTag": "v0.20.0",
+    "packageName": "org.jellyfin.androidtv.debug",
+    "certSha256": "e3dc0ff4fda91e2e7c14d323aaa286f229a649f39d348ae34b9d64a96b80cfbc",
     "crashReporters": [
-     "Sentry"
+     "ACRA"
     ]
    }
   },
@@ -6256,7 +6617,7 @@
    "name": "NeriPlayer",
    "owner": "cwuom",
    "avatarUrl": "https://avatars.githubusercontent.com/u/74239856?v=4",
-   "stars": 4315,
+   "stars": 4333,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6357,7 +6718,7 @@
     "ad-free-media"
    ],
    "cardTag": "NeriPlayer-09526815.11171823",
-   "score": 7.1132,
+   "score": 7.1095,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6377,11 +6738,107 @@
    }
   },
   {
+   "repo": "ProtonVPN/android-app",
+   "name": "android-app",
+   "owner": "ProtonVPN",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/25028530?v=4",
+   "stars": 4330,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "ikev2",
+    "java",
+    "kotlin",
+    "openvpn",
+    "protonvpn",
+    "strongswan",
+    "vpn"
+   ],
+   "latestTag": "5.21.57.0",
+   "latestDate": "2026-11-17",
+   "apkCount": 2,
+   "description": "Official ProtonVPN Android app",
+   "summaryKo": "안드로이드용 ProtonVPN 오픈소스 앱입니다.",
+   "notesKo": {
+    "tag": "5.21.57.0",
+    "lines": [
+     "힌디어 등 5개 언어가 추가되었습니다.",
+     "다른 기기 로그인 화면의 보안이 향상되었습니다.",
+     "안드로이드 TV에서 QR 코드로 구매할 수 있습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/2.jpg",
+    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/3.jpg",
+    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/4.jpg",
+    "https://raw.githubusercontent.com/ProtonVPN/android-app/master/metadata/en-US/images/phoneScreenshots/5.jpg"
+   ],
+   "card": {
+    "oneLiner": "안드로이드용 ProtonVPN 오픈소스 앱입니다.",
+    "forWhom": "ProtonVPN을 안드로이드 기기에서 이용하려는 사용자",
+    "features": [
+     "다양한 언어 지원 추가",
+     "로그인 화면 보안 강화",
+     "QR 코드를 이용한 간편 구매"
+    ],
+    "howToStart": [
+     "저장소를 내려받습니다.",
+     "필요한 도구를 설치합니다.",
+     "안드로이드 스튜디오에서 빌드합니다."
+    ],
+    "praise": [
+     {
+      "text": "앱 디자인이 새롭게 바뀌어 보기 좋습니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.dbzer0.com/post/17302914",
+      "date": "2024-03-27",
+      "old": true
+     }
+    ],
+    "complaints": [],
+    "cautions": [
+     {
+      "text": "일부 지역에서는 연결이 원활하지 않을 수 있습니다.",
+      "url": "https://news.ycombinator.com/item?id=41173562"
+     }
+    ],
+    "asOf": "2026-11-18",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "network-vpn"
+   ],
+   "cardTag": "5.21.57.0",
+   "score": 7.1092,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 63,
+     "checkedAt": "2026-11-18",
+     "asset": "ProtonVPN-5.21.57.0.605215700.-production-vanilla-direct-release.apk",
+     "sha256": "d06b2c5017e14376b4a87a718ae4c4c4d21f6e0e0d6148b78ccef236f590345c"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "오류 보고"
+    ],
+    "analyzedTag": "5.21.57.0",
+    "packageName": "ch.protonvpn.android",
+    "certSha256": "dcc9439ec1a6c6a8d0203f3423ee42bcc8b970628e53cb73a0393f398dd5b853",
+    "crashReporters": [
+     "Sentry"
+    ]
+   }
+  },
+  {
    "repo": "TeamAmaze/AmazeFileManager",
    "name": "AmazeFileManager",
    "owner": "TeamAmaze",
    "avatarUrl": "https://avatars.githubusercontent.com/u/30984365?v=4",
-   "stars": 6471,
+   "stars": 6473,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6460,7 +6917,7 @@
     "files-photos"
    ],
    "cardTag": "v3.11.4",
-   "score": 7.1083,
+   "score": 7.103,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6485,11 +6942,129 @@
    }
   },
   {
+   "repo": "InukaAsith/TwinDesk",
+   "name": "TwinDesk",
+   "owner": "InukaAsith",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/70461117?v=4",
+   "stars": 4373,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "apple-ecosystem",
+    "connect",
+    "electron",
+    "file-sharing",
+    "intel-unison-alternative",
+    "ios",
+    "ios-windows",
+    "kde-connect-alternative",
+    "kvm",
+    "linux",
+    "macbook",
+    "macos",
+    "mouse-sharing",
+    "phone-link-alternative",
+    "productivity",
+    "screen-sharing",
+    "sidecar-alternative",
+    "synergy-alternative",
+    "windows"
+   ],
+   "latestTag": "v3.2.1",
+   "latestDate": "2026-11-15",
+   "apkCount": 2,
+   "description": "All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux , Android, Web and ios / ipados . Free and open source. No account, no cloud, and no shared network needed.",
+   "summaryKo": "여러 기기를 하나의 책상처럼 묶어 쓰는 오픈소스 프로그램",
+   "notesKo": {
+    "tag": "v3.2.1",
+    "lines": [
+     "팝업 기능과 풍부한 메시지 및 사진 앨범을 추가했습니다.",
+     "휴대폰을 컴퓨터 컨트롤러로 사용할 수 있습니다.",
+     "클라우드 없는 폴더 동기화 기능을 제공합니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-android.png",
+    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-altstore.png",
+    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-windows.png",
+    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-dmg.png"
+   ],
+   "card": {
+    "oneLiner": "여러 기기를 하나의 책상처럼 묶어 쓰는 오픈소스 프로그램",
+    "forWhom": "맥, 윈도우, 리눅스, 안드로이드, 아이폰을 함께 쓰는 사용자",
+    "features": [
+     "마우스와 키보드로 여러 기기를 함께 제어",
+     "기기 간 파일 및 클립보드 공유",
+     "컴퓨터에서 폰 화면과 알림 확인"
+    ],
+    "howToStart": [
+     "각 기기에 TwinDesk를 설치합니다.",
+     "같은 네트워크나 연결 방식을 통해 기기를 서로 연결합니다.",
+     "마우스 이동이나 파일 공유 기능을 사용합니다."
+    ],
+    "praise": [
+     {
+      "text": "맥, 윈도우, 리눅스, 안드로이드, 아이폰을 연결할 수 있습니다.",
+      "source": "GitHub 이슈 #19",
+      "url": "https://github.com/InukaAsith/TwinDesk/issues/19",
+      "date": "2026-10-21",
+      "old": false
+     },
+     {
+      "text": "안드로이드 기기에서 트랙пад 제스처가 작동하지 않습니다.",
+      "source": "GitHub 이슈 #222",
+      "url": "https://github.com/InukaAsith/TwinDesk/issues/222",
+      "date": "2026-11-13",
+      "old": false
+     }
+    ],
+    "complaints": [
+     {
+      "text": "윈도우에서 관리자 권한 창이 뜰 때 마우스 제어가 멈출 수 있습니다.",
+      "source": "GitHub 이슈 #278",
+      "url": "https://github.com/InukaAsith/TwinDesk/issues/278",
+      "date": "2026-11-18",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "페더라 리눅스에서는 방화벽 포트를 수동으로 열어야 연결될 수 있습니다.",
+      "url": "https://github.com/InukaAsith/TwinDesk/issues/267"
+     }
+    ],
+    "asOf": "2026-11-21",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "v3.2.1",
+   "score": 7.1025,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 43,
+     "checkedAt": "2026-11-21",
+     "asset": "TwinDesk-3.2.1-full.apk",
+     "sha256": "3187635b8bc2fc8804c2413e662aa0acf2b186666ebaade1c964c3fd27a80008"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v3.2.1",
+    "packageName": "com.twindesk.android",
+    "certSha256": "51ea1dabf4b41aca28d1cd49cf26afd35d8d2955ace2474690d64ca0cc33d0af"
+   }
+  },
+  {
    "repo": "libre-tube/LibreTube",
    "name": "LibreTube",
    "owner": "libre-tube",
    "avatarUrl": "https://avatars.githubusercontent.com/u/96022078?v=4",
-   "stars": 13034,
+   "stars": 13036,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6583,7 +7158,7 @@
     "privacy"
    ],
    "cardTag": "v32.1",
-   "score": 7.1055,
+   "score": 7.1001,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6607,7 +7182,7 @@
    "name": "HeliBoard",
    "owner": "HeliBorg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/266185849?v=4",
-   "stars": 6623,
+   "stars": 6628,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "v4.2",
@@ -6694,7 +7269,7 @@
     "keyboards"
    ],
    "cardTag": "v4.2",
-   "score": 7.1019,
+   "score": 7.0968,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6714,113 +7289,106 @@
    }
   },
   {
-   "repo": "InukaAsith/TwinDesk",
-   "name": "TwinDesk",
-   "owner": "InukaAsith",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/70461117?v=4",
-   "stars": 4312,
+   "repo": "FossifyOrg/Gallery",
+   "name": "Gallery",
+   "owner": "FossifyOrg",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
+   "stars": 3936,
    "license": "GPL-3.0",
    "topics": [
     "android",
-    "apple-ecosystem",
-    "connect",
-    "electron",
-    "file-sharing",
-    "intel-unison-alternative",
-    "ios",
-    "ios-windows",
-    "kde-connect-alternative",
-    "kvm",
-    "linux",
-    "macbook",
-    "macos",
-    "mouse-sharing",
-    "phone-link-alternative",
-    "productivity",
-    "screen-sharing",
-    "sidecar-alternative",
-    "synergy-alternative",
-    "windows"
+    "foss",
+    "gallery",
+    "kotlin",
+    "open-source"
    ],
-   "latestTag": "v3.2.1",
-   "latestDate": "2026-11-15",
-   "apkCount": 2,
-   "description": "All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux , Android, Web and ios / ipados . Free and open source. No account, no cloud, and no shared network needed.",
-   "summaryKo": "여러 기기를 하나의 책상처럼 묶어 쓰는 오픈소스 프로그램",
+   "latestTag": "1.14.3",
+   "latestDate": "2026-11-21",
+   "apkCount": 5,
+   "description": "Browse your memories without any interruptions with this photo and video gallery",
+   "summaryKo": "광고와 추적이 없는 가벼운 안드로이드 사진 및 동영상 갤러리 앱",
+   "notesKo": {
+    "tag": "1.14.3",
+    "lines": [
+     "번역을 업데이트했습니다."
+    ]
+   },
    "screenshots": [
-    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-android.png",
-    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-altstore.png",
-    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-windows.png",
-    "https://raw.githubusercontent.com/InukaAsith/TwinDesk/HEAD/.github/assets/buttons/get-dmg.png"
+    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
    ],
    "card": {
-    "oneLiner": "여러 기기를 하나의 책상처럼 묶어 쓰는 오픈소스 프로그램",
-    "forWhom": "맥, 윈도우, 리눅스, 안드로이드, 아이폰을 함께 쓰는 사용자",
+    "oneLiner": "광고와 추적이 없는 가벼운 안드로이드 사진 및 동영상 갤러리 앱",
+    "forWhom": "광고 없는 기본 사진 갤러리 앱을 찾는 안드로이드 사용자",
     "features": [
-     "마우스와 키보드로 여러 기기를 함께 제어",
-     "기기 간 파일 및 클립보드 공유",
-     "컴퓨터에서 폰 화면과 알림 확인"
+     "기본 사진 편집 기능 제공",
+     "비밀번호와 지문으로 사진 보호",
+     "삭제된 사진을 휴지통에서 복구"
     ],
     "howToStart": [
-     "각 기기에 TwinDesk를 설치합니다.",
-     "같은 네트워크나 연결 방식을 통해 기기를 서로 연결합니다.",
-     "마우스 이동이나 파일 공유 기능을 사용합니다."
+     "구글 플레이 스토어, F-Droid 또는 IzzyOnDroid에서 Fossify Gallery를 내려받아 설치합니다.",
+     "앱을 실행하여 기기의 사진과 동영상 권한을 허용합니다.",
+     "설정에서 화면 테마와 기능을 입맛에 맞게 바꿉니다."
     ],
     "praise": [
      {
-      "text": "맥, 윈도우, 리눅스, 안드로이드, 아이폰을 연결할 수 있습니다.",
-      "source": "GitHub 이슈 #19",
-      "url": "https://github.com/InukaAsith/TwinDesk/issues/19",
-      "date": "2026-10-21",
-      "old": false
+      "text": "가볍고 복잡하지 않아서 쓰기 좋습니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://buddyverse.one/post/28483",
+      "date": "2024-10-18",
+      "old": true
      },
      {
-      "text": "안드로이드 기기에서 트랙пад 제스처가 작동하지 않습니다.",
-      "source": "GitHub 이슈 #222",
-      "url": "https://github.com/InukaAsith/TwinDesk/issues/222",
-      "date": "2026-11-13",
-      "old": false
+      "text": "기본 사진 뷰어와 편집기로 쓰기에 아주 좋습니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=42403851",
+      "date": "2024-12-12",
+      "old": true
      }
     ],
-    "complaints": [
-     {
-      "text": "윈도우에서 관리자 권한 창이 뜰 때 마우스 제어가 멈출 수 있습니다.",
-      "source": "GitHub 이슈 #278",
-      "url": "https://github.com/InukaAsith/TwinDesk/issues/278",
-      "date": "2026-11-18",
-      "old": false
-     }
-    ],
+    "complaints": [],
     "cautions": [
      {
-      "text": "페더라 리눅스에서는 방화벽 포트를 수동으로 열어야 연결될 수 있습니다.",
-      "url": "https://github.com/InukaAsith/TwinDesk/issues/267"
+      "text": "사진 편집 시 촬영 날짜 같은 메타데이터가 사라지거나 바뀔 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/Gallery/issues/29"
+     },
+     {
+      "text": "사진의 메타데이터를 지울 때 일부 정보가 완전히 지워지지 않을 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/Gallery/issues/1214"
+     },
+     {
+      "text": "동영상 재생 바에 손잡이가 없어 원하는 위치를 정확히 잡기 어렵습니다.",
+      "url": "https://github.com/FossifyOrg/Gallery/issues/1215"
      }
     ],
-    "asOf": "2026-11-21",
+    "asOf": "2026-11-22",
     "model": "gemini-flash-lite-latest"
    },
-   "themes": [],
-   "cardTag": "v3.2.1",
-   "score": 7.1019,
+   "themes": [
+    "files-photos"
+   ],
+   "cardTag": "1.14.3",
+   "score": 7.0897,
    "safety": {
     "vt": {
      "malicious": 0,
      "suspicious": 0,
-     "engines": 43,
-     "checkedAt": "2026-11-21",
-     "asset": "TwinDesk-3.2.1-full.apk",
-     "sha256": "3187635b8bc2fc8804c2413e662aa0acf2b186666ebaade1c964c3fd27a80008"
+     "engines": 66,
+     "checkedAt": "2026-11-22",
+     "asset": "gallery-52-foss-arm64-v8a-release.apk",
+     "sha256": "9fd3e3ba6843825728872cc9e7ca236450fb207c69fe7423b7aeb83dca42da67"
     },
     "attested": false,
     "attestedChecked": true,
     "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v3.2.1",
-    "packageName": "com.twindesk.android",
-    "certSha256": "51ea1dabf4b41aca28d1cd49cf26afd35d8d2955ace2474690d64ca0cc33d0af"
+    "antiFeatures": [],
+    "analyzedTag": "1.14.3",
+    "packageName": "org.fossify.gallery",
+    "certSha256": "affdb124d3f4720c2f98dbca9eacba0514fba4306e20a2786c861c3c0d6ff292"
    }
   },
   {
@@ -6828,7 +7396,7 @@
    "name": "shattered-pixel-dungeon",
    "owner": "00-Evan",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2347603?v=4",
-   "stars": 6837,
+   "stars": 6842,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -6904,7 +7472,7 @@
    },
    "themes": [],
    "cardTag": "v4.0.2",
-   "score": 7.0884,
+   "score": 7.0832,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -6928,7 +7496,7 @@
    "name": "trime",
    "owner": "osfans",
    "avatarUrl": "https://avatars.githubusercontent.com/u/7677088?v=4",
-   "stars": 4824,
+   "stars": 4825,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -7018,7 +7586,7 @@
     "keyboards"
    ],
    "cardTag": "v3.3.13",
-   "score": 7.0739,
+   "score": 7.0685,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7042,7 +7610,7 @@
    "name": "rethink-app",
    "owner": "celzero",
    "avatarUrl": "https://avatars.githubusercontent.com/u/68689239?v=4",
-   "stars": 5948,
+   "stars": 5955,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -7138,7 +7706,7 @@
     "network-vpn"
    ],
    "cardTag": "v0.5.8",
-   "score": 7.0607,
+   "score": 7.0558,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7164,7 +7732,7 @@
    "name": "AppManager",
    "owner": "MuntashirAkon",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8176128?v=4",
-   "stars": 9669,
+   "stars": 9680,
    "license": "NOASSERTION",
    "topics": [
     "adb",
@@ -7245,7 +7813,7 @@
     "phone-tools"
    ],
    "cardTag": "v4.1.1",
-   "score": 7.058,
+   "score": 7.053,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7366,7 +7934,7 @@
     "security-auth"
    ],
    "cardTag": "v1.7.0",
-   "score": 7.0576,
+   "score": 7.0521,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7390,7 +7958,7 @@
    "name": "orbot-android",
    "owner": "guardianproject",
    "avatarUrl": "https://avatars.githubusercontent.com/u/218109?v=4",
-   "stars": 3721,
+   "stars": 3720,
    "license": "NOASSERTION",
    "topics": [
     "anonymity",
@@ -7482,7 +8050,7 @@
     "network-vpn"
    ],
    "cardTag": "17.9.8-RC-1-tor-0.4.9.17",
-   "score": 7.0434,
+   "score": 7.0378,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7508,7 +8076,7 @@
    "name": "streamyfin",
    "owner": "streamyfin",
    "avatarUrl": "https://avatars.githubusercontent.com/u/193271640?v=4",
-   "stars": 5374,
+   "stars": 5376,
    "license": "MPL-2.0",
    "topics": [
     "android",
@@ -7583,7 +8151,7 @@
     "downloaders"
    ],
    "cardTag": "v0.55.2",
-   "score": 7.0331,
+   "score": 7.0278,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7603,234 +8171,99 @@
    }
   },
   {
-   "repo": "FossifyOrg/Gallery",
-   "name": "Gallery",
-   "owner": "FossifyOrg",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 3935,
+   "repo": "KernelSU-Next/KernelSU-Next",
+   "name": "KernelSU-Next",
+   "owner": "KernelSU-Next",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/196533758?v=4",
+   "stars": 4931,
    "license": "GPL-3.0",
    "topics": [
     "android",
-    "foss",
-    "gallery",
-    "kotlin",
-    "open-source"
+    "kernel",
+    "kernelsu",
+    "kernelsu-next",
+    "root",
+    "su",
+    "susfs",
+    "susfs4ksu"
    ],
-   "latestTag": "1.14.2",
-   "latestDate": "2026-11-07",
-   "apkCount": 5,
-   "description": "Browse your memories without any interruptions with this photo and video gallery",
-   "summaryKo": "광고와 데이터 수집이 없는 개인정보 보호 사진 및 동영상 앱",
-   "notesKo": {
-    "tag": "1.14.2",
-    "lines": [
-     "번역을 업데이트했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
-   ],
-   "card": {
-    "oneLiner": "광고와 데이터 수집이 없는 개인정보 보호 사진 및 동영상 앱",
-    "forWhom": "구글 포토 대신 가볍고 광고 없는 기본 갤러리 앱을 찾는 사람",
-    "features": [
-     "사진 자르기, 크기 조절 등 간단하고 강력한 편집",
-     "핀 번호나 지문으로 사진과 앱을 잠그는 보안 기능",
-     "삭제한 사진과 동영상을 쉽게 되돌리는 휴지통 기능"
-    ],
-    "howToStart": [
-     "구글 플레이 스토어, F-Droid 또는 IzzyOnDroid에서 Fossify Gallery를 내려받아 설치합니다.",
-     "앱을 실행하여 기기에 저장된 사진과 동영상 권한을 허용합니다.",
-     "설정에서 화면 테마와 기능을 내 스타일에 맞게 바꿉니다."
-    ],
-    "praise": [
-     {
-      "text": "가볍고 복잡하지 않아 쓰기 편합니다.",
-      "source": "Lemmy 댓글",
-      "url": "https://buddyverse.one/post/28483",
-      "date": "2024-10-18",
-      "old": true
-     },
-     {
-      "text": "기본 사진 뷰어와 편집기로 쓰기에 매우 좋습니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=42403851",
-      "date": "2024-12-12",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "동영상 재생 바에 손잡이가 없어 원하는 위치로 정밀하게 이동하기 어렵습니다.",
-      "source": "GitHub 이슈 #1215",
-      "url": "https://github.com/FossifyOrg/Gallery/issues/1215",
-      "date": "2026-11-07",
-      "old": false
-     },
-     {
-      "text": "사진을 편집할 때 원래 파일 대신 새 이름으로 저장 창이 떠서 번거롭습니다.",
-      "source": "GitHub 이슈 #62",
-      "url": "https://github.com/FossifyOrg/Gallery/issues/62",
-      "date": "2024-01-07",
-      "old": true
-     }
-    ],
-    "cautions": [
-     {
-      "text": "사진의 메타데이터를 지울 때 일부 식별 정보가 완전히 지워지지 않는 문제가 보고되어 있습니다.",
-      "url": "https://github.com/FossifyOrg/Gallery/issues/1214"
-     },
-     {
-      "text": "사진을 편집하면 촬영 날짜 등 기존 메타데이터가 사라지거나 현재 날짜로 바뀔 수 있습니다.",
-      "url": "https://github.com/FossifyOrg/Gallery/issues/29"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "files-photos"
-   ],
-   "cardTag": "1.14.2",
-   "score": 7.0183,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-16",
-     "asset": "gallery-42-foss-arm64-v8a-release.apk",
-     "sha256": "dd1d87612745c17c469559e56043c7838a701035d33783999ee9bd2441fe92ee"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "1.14.2",
-    "packageName": "org.fossify.gallery",
-    "certSha256": "affdb124d3f4720c2f98dbca9eacba0514fba4306e20a2786c861c3c0d6ff292"
-   }
-  },
-  {
-   "repo": "zly2006/zhihu-plus-plus",
-   "name": "zhihu-plus-plus",
-   "owner": "zly2006",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/66198935?v=4",
-   "stars": 4535,
-   "license": "AGPL-3.0",
-   "topics": [
-    "android",
-    "zhihu",
-    "zhihu-daily"
-   ],
-   "latestTag": "0.31.1",
-   "latestDate": "2026-10-23",
+   "latestTag": "v3.4.2",
+   "latestDate": "2026-10-13",
    "apkCount": 2,
-   "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
-   "summaryKo": "광고와 알고리즘 추천을 뺀 가벼운 오픈소스 지乎 클라이언트",
+   "description": "An advanced Kernel based root solution for Android",
+   "summaryKo": "안드로이드 기기에서 커널 수준으로 관리하는 루트 권한 도구",
    "notesKo": {
-    "tag": "0.31.1",
+    "tag": "v3.4.2",
     "lines": [
-     "문제 페이지 답변 카드에 답변 시간 표시 기능 추가",
-     "답변 두 번 탭 동작으로 상단 및 하단 이동 지원",
-     "초와인라인 공식裁切 등 여러 버그 수정"
+     "셀린룩스 숨기기 기능의 타이밍 부채널 탐지 수정",
+     "ksu_config를 통한 기능 강제 활성화 지원",
+     "부팅 시 커널 모듈 차단 기능 추가"
     ]
    },
    "screenshots": [
-    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/1_home.jpg",
-    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/2_follow.jpg",
-    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/3_daily.jpg",
-    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/4_people.jpg",
-    "https://raw.githubusercontent.com/zly2006/zhihu-plus-plus/master/fastlane/metadata/android/zh-CN/images/phoneScreenshots/5_article.jpg"
+    "https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next/HEAD/assets/kernelsu_next.png"
    ],
    "card": {
-    "oneLiner": "광고와 알고리즘 추천을 뺀 가벼운 오픈소스 지乎 클라이언트",
-    "forWhom": "지乎을 광고 없이 깔끔하게 보고 싶은 안드로이드 사용자",
+    "oneLiner": "안드로이드 기기에서 커널 수준으로 관리하는 루트 권한 도구",
+    "forWhom": "안드로이드 기기에서 최고 관리자 권한과 모듈을 관리하려는 사용자",
     "features": [
-     "추천 알고리즘과 광고를 없애고 깔끔하게 피드 보기",
-     "원하는 단어, 사용자, 토픽, 유료 콘텐츠 숨기기",
-     "답변 저장, 긴 글 읽기, 내보내기 등 다양한 독서 도구"
+     "커널 기반의 루트 권한 및 접근 관리",
+     "모듈과 앱 프로파일 백업 및 복원 지원",
+     "의심스러운 모듈 설치를 막는 위험 감지 기능"
     ],
     "howToStart": [
-     "릴리스 페이지에서 기기에 맞는 Full 또는 Lite 버전의 APK 파일을 내려받아 설치합니다.",
-     "앱을 실행한 뒤 휴대폰 번호 로그인이나 QR 코드, 혹은 직접 입력한 쿠키로 로그인합니다.",
-     "설정에서 화면 테마, 추천 모드, 차단할 단어 등을 원하는 대로 맞추어 사용합니다."
+     "공식 저장소나 릴리스 페이지에서 최신 앱과 설치 파일을 확인합니다.",
+     "지원하는 안드로이드 커널 및 기기 환경에 맞춰 설치를 진행합니다.",
+     "앱 관리자를 통해 루트 권한과 모듈을 설정합니다."
     ],
     "praise": [
      {
-      "text": "좌우 슬라이드로 이전과 다음 답변을 쉽게 넘겨볼 수 있습니다.",
-      "source": "GitHub 이슈 #48",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/48",
-      "date": "2026-01-22",
-      "old": false
-     },
-     {
-      "text": "앱이 매우 간결하고 순하며 기능이 알차게 들어 있습니다.",
-      "source": "GitHub 이슈 #110",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/110",
-      "date": "2026-02-21",
+      "text": "인터페이스가 아름답고 깔끔하다는 평이 있습니다.",
+      "source": "GitHub 이슈 #637",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/issues/637",
+      "date": "2025-07-07",
       "old": false
      }
     ],
     "complaints": [
      {
-      "text": "홈 화면의 새로고침 버튼과 글쓰기 버튼이 겹쳐서 불편합니다.",
-      "source": "GitHub 이슈 #825",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/825",
-      "date": "2026-11-13",
-      "old": false
-     },
-     {
-      "text": "홈 화면을 새로고침할 때 가끔 같은 내용이 중복해서 나타납니다.",
-      "source": "GitHub 이슈 #820",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/820",
-      "date": "2026-11-09",
+      "text": "장시간 사용 시 스레드 고갈 문제가 발생할 수 있습니다.",
+      "source": "GitHub 이슈 #1148",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/issues/1148",
+      "date": "2026-03-03",
       "old": false
      }
     ],
     "cautions": [
      {
-      "text": "설정에서 예측성 반환 애니메이션을 꺼도 애니메이션이 계속 나올 수 있습니다.",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/494"
-     },
-     {
-      "text": "답변 안의 코드 줄이 길 때 자동으로 줄바꿈이 되지 않거나 가로로 스크롤되지 않을 수 있습니다.",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/234"
-     },
-     {
-      "text": "일부 백신이나 시스템에서 최신 버전을 바이러스로 오인하여 경고를 띄울 수 있습니다.",
-      "url": "https://github.com/zly2006/zhihu-plus-plus/issues/798"
+      "text": "최신 커널 버전에서는 x86_64 기기에서 커널 패닉이 발생할 수 있습니다.",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next#readme"
      }
     ],
     "asOf": "2026-11-18",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [
-    "reading-news"
+    "phone-tools"
    ],
-   "cardTag": "0.31.1",
-   "score": 6.9978,
+   "cardTag": "v3.4.2",
+   "score": 6.9738,
    "safety": {
     "vt": {
      "malicious": 0,
      "suspicious": 0,
-     "engines": 67,
+     "engines": 68,
      "checkedAt": "2026-11-17",
-     "asset": "zhihu++-full.apk",
-     "sha256": "90a359e12d95e0a522d0d789ae998deb56e11e002eac7b5555b127c6e74ecd08"
+     "asset": "KernelSU_Next_v3.4.2-spoofed_33355-release.apk",
+     "sha256": "e27ad21204e8f58a4268c41725de97341c62a2f4acca7fa4dda256e9d7863d01"
     },
     "attested": false,
     "attestedChecked": true,
     "trackers": [],
     "antiFeatures": [],
-    "analyzedTag": "0.31.1",
-    "packageName": "com.github.zly2006.zhplus",
-    "certSha256": "45b5ea26b2a8bf6efd79d5d9532ed8d1cbcbe80a2629dd39d889d1209b7cca2d"
+    "analyzedTag": "v3.4.2",
+    "packageName": "kqvdie.zeykvw.hpbcyd",
+    "certSha256": "79e590113c4c4c0c222978e413a5faa801666957b1212a328e46c00c69821bf7"
    }
   },
   {
@@ -7838,7 +8271,7 @@
    "name": "Unexpected-Keyboard",
    "owner": "Julow",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2310568?v=4",
-   "stars": 3365,
+   "stars": 3369,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -7922,7 +8355,7 @@
     "keyboards"
    ],
    "cardTag": "2.2.1",
-   "score": 6.9778,
+   "score": 6.9728,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -7942,107 +8375,11 @@
    }
   },
   {
-   "repo": "KernelSU-Next/KernelSU-Next",
-   "name": "KernelSU-Next",
-   "owner": "KernelSU-Next",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/196533758?v=4",
-   "stars": 4914,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "kernel",
-    "kernelsu",
-    "kernelsu-next",
-    "root",
-    "su",
-    "susfs",
-    "susfs4ksu"
-   ],
-   "latestTag": "v3.4.2",
-   "latestDate": "2026-10-13",
-   "apkCount": 2,
-   "description": "An advanced Kernel based root solution for Android",
-   "summaryKo": "안드로이드 기기에서 커널 수준으로 관리하는 루트 권한 도구",
-   "notesKo": {
-    "tag": "v3.4.2",
-    "lines": [
-     "셀린룩스 숨기기 기능의 타이밍 부채널 탐지 수정",
-     "ksu_config를 통한 기능 강제 활성화 지원",
-     "부팅 시 커널 모듈 차단 기능 추가"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next/HEAD/assets/kernelsu_next.png"
-   ],
-   "card": {
-    "oneLiner": "안드로이드 기기에서 커널 수준으로 관리하는 루트 권한 도구",
-    "forWhom": "안드로이드 기기에서 최고 관리자 권한과 모듈을 관리하려는 사용자",
-    "features": [
-     "커널 기반의 루트 권한 및 접근 관리",
-     "모듈과 앱 프로파일 백업 및 복원 지원",
-     "의심스러운 모듈 설치를 막는 위험 감지 기능"
-    ],
-    "howToStart": [
-     "공식 저장소나 릴리스 페이지에서 최신 앱과 설치 파일을 확인합니다.",
-     "지원하는 안드로이드 커널 및 기기 환경에 맞춰 설치를 진행합니다.",
-     "앱 관리자를 통해 루트 권한과 모듈을 설정합니다."
-    ],
-    "praise": [
-     {
-      "text": "인터페이스가 아름답고 깔끔하다는 평이 있습니다.",
-      "source": "GitHub 이슈 #637",
-      "url": "https://github.com/KernelSU-Next/KernelSU-Next/issues/637",
-      "date": "2025-07-07",
-      "old": false
-     }
-    ],
-    "complaints": [
-     {
-      "text": "장시간 사용 시 스레드 고갈 문제가 발생할 수 있습니다.",
-      "source": "GitHub 이슈 #1148",
-      "url": "https://github.com/KernelSU-Next/KernelSU-Next/issues/1148",
-      "date": "2026-03-03",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "최신 커널 버전에서는 x86_64 기기에서 커널 패닉이 발생할 수 있습니다.",
-      "url": "https://github.com/KernelSU-Next/KernelSU-Next#readme"
-     }
-    ],
-    "asOf": "2026-11-18",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "phone-tools"
-   ],
-   "cardTag": "v3.4.2",
-   "score": 6.9778,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-17",
-     "asset": "KernelSU_Next_v3.4.2-spoofed_33355-release.apk",
-     "sha256": "e27ad21204e8f58a4268c41725de97341c62a2f4acca7fa4dda256e9d7863d01"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v3.4.2",
-    "packageName": "kqvdie.zeykvw.hpbcyd",
-    "certSha256": "79e590113c4c4c0c222978e413a5faa801666957b1212a328e46c00c69821bf7"
-   }
-  },
-  {
    "repo": "Gurupreet/ComposeCookBook",
    "name": "ComposeCookBook",
    "owner": "Gurupreet",
    "avatarUrl": "https://avatars.githubusercontent.com/u/4903762?v=4",
-   "stars": 6891,
+   "stars": 6892,
    "license": "MIT",
    "topics": [
     "android",
@@ -8118,7 +8455,7 @@
    },
    "themes": [],
    "cardTag": "2.0.0",
-   "score": 6.9712,
+   "score": 6.9658,
    "safety": {
     "vt": null,
     "attested": false,
@@ -8135,7 +8472,7 @@
    "name": "plain-app",
    "owner": "plainhub",
    "avatarUrl": "https://avatars.githubusercontent.com/u/262618287?v=4",
-   "stars": 7241,
+   "stars": 7246,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -8247,7 +8584,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.3.25",
-   "score": 6.9708,
+   "score": 6.9656,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -8273,7 +8610,7 @@
    "name": "Hail",
    "owner": "aistra0528",
    "avatarUrl": "https://avatars.githubusercontent.com/u/55940744?v=4",
-   "stars": 7388,
+   "stars": 7402,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -8369,7 +8706,7 @@
     "privacy"
    ],
    "cardTag": "v1.11.0",
-   "score": 6.8919,
+   "score": 6.8872,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8393,7 +8730,7 @@
    "name": "Kvaesitso",
    "owner": "MM2-0",
    "avatarUrl": "https://avatars.githubusercontent.com/u/15646950?v=4",
-   "stars": 5405,
+   "stars": 5407,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -8473,7 +8810,7 @@
    },
    "themes": [],
    "cardTag": "v1.41.0",
-   "score": 6.8658,
+   "score": 6.8604,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8497,7 +8834,7 @@
    "name": "openScale",
    "owner": "oliexdev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10166185?v=4",
-   "stars": 2676,
+   "stars": 2679,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "v3.1.4",
@@ -8565,7 +8902,7 @@
     "health-fitness"
    ],
    "cardTag": "v3.1.4",
-   "score": 6.8126,
+   "score": 6.8076,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8589,7 +8926,7 @@
    "name": "vcmi",
    "owner": "vcmi",
    "avatarUrl": "https://avatars.githubusercontent.com/u/2861395?v=4",
-   "stars": 6036,
+   "stars": 6037,
    "license": "GPL-2.0",
    "topics": [
     "android",
@@ -8662,7 +8999,7 @@
    },
    "themes": [],
    "cardTag": "1.7.5",
-   "score": 6.7438,
+   "score": 6.7384,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8778,7 +9115,7 @@
    },
    "themes": [],
    "cardTag": "v5.6.0",
-   "score": 6.7128,
+   "score": 6.7073,
    "safety": {
     "vt": null,
     "attested": false,
@@ -8795,7 +9132,7 @@
    "name": "v2rayNG",
    "owner": "2dust",
    "avatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
-   "stars": 66247,
+   "stars": 66308,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -8873,7 +9210,7 @@
     "privacy"
    ],
    "cardTag": "2.3.15",
-   "score": 6.7116,
+   "score": 6.7065,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8897,7 +9234,7 @@
    "name": "material-components-android",
    "owner": "material-components",
    "avatarUrl": "https://avatars.githubusercontent.com/u/19478152?v=4",
-   "stars": 17469,
+   "stars": 17470,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -8958,7 +9295,7 @@
    },
    "themes": [],
    "cardTag": "1.14.0",
-   "score": 6.6902,
+   "score": 6.6848,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -8982,7 +9319,7 @@
    "name": "RetroMusicPlayer",
    "owner": "RetroMusicPlayer",
    "avatarUrl": "https://avatars.githubusercontent.com/u/84670735?v=4",
-   "stars": 5405,
+   "stars": 5408,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -9065,7 +9402,7 @@
    },
    "themes": [],
    "cardTag": "v7.0.3",
-   "score": 6.6849,
+   "score": 6.6797,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -9089,7 +9426,7 @@
    "name": "Hide-My-Applist",
    "owner": "Dr-TSNG",
    "avatarUrl": "https://avatars.githubusercontent.com/u/52071314?v=4",
-   "stars": 5677,
+   "stars": 5678,
    "license": null,
    "topics": [
     "android",
@@ -9177,7 +9514,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.8.3",
-   "score": 6.6405,
+   "score": 6.6351,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9201,7 +9538,7 @@
    "name": "fcitx5-android",
    "owner": "fcitx5-android",
    "avatarUrl": "https://avatars.githubusercontent.com/u/101684439?v=4",
-   "stars": 5933,
+   "stars": 5938,
    "license": "LGPL-2.1",
    "topics": [
     "android",
@@ -9284,7 +9621,7 @@
     "keyboards"
    ],
    "cardTag": "0.1.3",
-   "score": 6.6268,
+   "score": 6.6217,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9308,7 +9645,7 @@
    "name": "AnySoftKeyboard",
    "owner": "AnySoftKeyboard",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1655410?v=4",
-   "stars": 3390,
+   "stars": 3391,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -9390,7 +9727,7 @@
     "keyboards"
    ],
    "cardTag": "1.13-r2",
-   "score": 6.6248,
+   "score": 6.6195,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -9416,7 +9753,7 @@
    "name": "quillpad",
    "owner": "quillpad",
    "avatarUrl": "https://avatars.githubusercontent.com/u/118094128?v=4",
-   "stars": 1429,
+   "stars": 1428,
    "license": "GPL-3.0",
    "topics": [
     "evernote",
@@ -9503,7 +9840,7 @@
     "notes-tasks"
    ],
    "cardTag": "v1.5.16",
-   "score": 6.6005,
+   "score": 6.5948,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9520,11 +9857,11 @@
      "오류 보고"
     ],
     "analyzedTag": "v1.5.16",
+    "packageName": "io.github.quillpad",
+    "certSha256": "3c2b48eeceed98e70a33d21d3e9ff6193343a1dddcbb9cc076b859d36cdeae6a",
     "crashReporters": [
      "ACRA"
-    ],
-    "packageName": "io.github.quillpad",
-    "certSha256": "3c2b48eeceed98e70a33d21d3e9ff6193343a1dddcbb9cc076b859d36cdeae6a"
+    ]
    }
   },
   {
@@ -9532,7 +9869,7 @@
    "name": "gopeed",
    "owner": "GopeedLab",
    "avatarUrl": "https://avatars.githubusercontent.com/u/125134399?v=4",
-   "stars": 27830,
+   "stars": 27872,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -9626,7 +9963,7 @@
     "downloaders"
    ],
    "cardTag": "v1.9.3",
-   "score": 6.5856,
+   "score": 6.5808,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9650,7 +9987,7 @@
    "name": "FlyingCarpet",
    "owner": "spieglt",
    "avatarUrl": "https://avatars.githubusercontent.com/u/22626146?v=4",
-   "stars": 5380,
+   "stars": 5384,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -9749,7 +10086,7 @@
    },
    "themes": [],
    "cardTag": "v10.0.0",
-   "score": 6.5843,
+   "score": 6.5791,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -9773,7 +10110,7 @@
    "name": "tiny_container",
    "owner": "Cateners",
    "avatarUrl": "https://avatars.githubusercontent.com/u/58554009?v=4",
-   "stars": 4399,
+   "stars": 4403,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -9863,7 +10200,7 @@
    },
    "themes": [],
    "cardTag": "v4.2.2",
-   "score": 6.5736,
+   "score": 6.5685,
    "safety": {
     "vt": null,
     "attested": false,
@@ -9880,7 +10217,7 @@
    "name": "Auxio",
    "owner": "OxygenCobalt",
    "avatarUrl": "https://avatars.githubusercontent.com/u/65370175?v=4",
-   "stars": 4483,
+   "stars": 4489,
    "license": "GPL-3.0",
    "topics": [
     "album",
@@ -9966,7 +10303,7 @@
     "ad-free-media"
    ],
    "cardTag": "v4.1.5",
-   "score": 6.5544,
+   "score": 6.5495,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10070,7 +10407,7 @@
    },
    "themes": [],
    "cardTag": "28.3",
-   "score": 6.4952,
+   "score": 6.4897,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -10094,7 +10431,7 @@
    "name": "NetGuard",
    "owner": "M66B",
    "avatarUrl": "https://avatars.githubusercontent.com/u/259573?v=4",
-   "stars": 4009,
+   "stars": 4013,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "2.337",
@@ -10176,7 +10513,7 @@
     "network-vpn"
    ],
    "cardTag": "2.337",
-   "score": 6.4894,
+   "score": 6.4844,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10202,7 +10539,7 @@
    "name": "ReadYou",
    "owner": "ReadYouApp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/221981456?v=4",
-   "stars": 7680,
+   "stars": 7686,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10280,7 +10617,7 @@
     "reading-news"
    ],
    "cardTag": "0.16.2",
-   "score": 6.4484,
+   "score": 6.4433,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10304,7 +10641,7 @@
    "name": "copymanga",
    "owner": "fumiama",
    "avatarUrl": "https://avatars.githubusercontent.com/u/41315874?v=4",
-   "stars": 4397,
+   "stars": 4399,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10409,7 +10746,7 @@
     "reading-news"
    ],
    "cardTag": "web1.6.0",
-   "score": 6.4364,
+   "score": 6.4311,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10433,7 +10770,7 @@
    "name": "WiFiAnalyzer",
    "owner": "VREMSoftwareDevelopment",
    "avatarUrl": "https://avatars.githubusercontent.com/u/6217364?v=4",
-   "stars": 5107,
+   "stars": 5111,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -10520,7 +10857,7 @@
     "phone-tools"
    ],
    "cardTag": "V3.3.1-F-DROID",
-   "score": 6.4247,
+   "score": 6.4195,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -10540,11 +10877,96 @@
    }
   },
   {
+   "repo": "super-productivity/super-productivity",
+   "name": "super-productivity",
+   "owner": "super-productivity",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/215719836?v=4",
+   "stars": 23921,
+   "license": "MIT",
+   "topics": [
+    "android",
+    "flowmodoro",
+    "flowtime",
+    "habit-tracker",
+    "ios",
+    "issue-tracker",
+    "linux",
+    "local-first",
+    "macos",
+    "open-source",
+    "pomodoro",
+    "pomodoro-timer",
+    "privacy",
+    "productivity",
+    "task-manager",
+    "time-tracker",
+    "time-tracking",
+    "to-do-list",
+    "todo",
+    "windows"
+   ],
+   "latestTag": "v20.1.0",
+   "latestDate": "2026-11-21",
+   "apkCount": 1,
+   "description": "A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.",
+   "summaryKo": "할 일 목록과 시간 기록을 함께 관리하는 생산성 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1_task-list-dark.png",
+    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2_task-list-light.png",
+    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3_daily-summary.png",
+    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4_worklog.png"
+   ],
+   "card": {
+    "oneLiner": "할 일 목록과 시간 기록을 함께 관리하는 생산성 앱",
+    "forWhom": "혼자서 집중해서 일하고 시간을 기록하고 싶은 사람",
+    "features": [
+     "할 일 목록 작성과 시간 기록",
+     "뽀모도로 등 집중 시간 측정",
+     "개인정보 보호와 오프라인 지원"
+    ],
+    "howToStart": [
+     "앱을 내려받아 실행합니다.",
+     "오늘 할 일을 입력하고 계획을 세웁니다.",
+     "집중 세션을 시작하여 시간을 기록합니다."
+    ],
+    "praise": [],
+    "complaints": [],
+    "cautions": [],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "privacy",
+    "notes-tasks"
+   ],
+   "cardTag": "v20.1.0",
+   "score": 6.3733,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 62,
+     "checkedAt": "2026-11-22",
+     "asset": "app-play-release.apk",
+     "sha256": "cc509b8d8db6587aa4f90bf9f293bdb7b9afeb4456a7865e4dff887ba5f496a3"
+    },
+    "attested": true,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v20.1.0",
+    "packageName": "com.superproductivity.superproductivity",
+    "certSha256": "163c876b917d7620a39292cc9d7c3cdf0c3c659324ab459d5dafd9b9971117aa"
+   }
+  },
+  {
    "repo": "termux/termux-app",
    "name": "termux-app",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 65306,
+   "stars": 65383,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -10622,7 +11044,7 @@
    },
    "themes": [],
    "cardTag": "v0.118.3",
-   "score": 6.315,
+   "score": 6.3155,
    "safety": {
     "vt": null,
     "attested": false,
@@ -10632,214 +11054,6 @@
     "analyzedTag": "v0.118.3",
     "packageName": "com.termux",
     "certSha256": "b6da01480eefd5fbf2cd3771b8d1021ec791304bdd6c4bf41d3faabad48ee5e1"
-   }
-  },
-  {
-   "repo": "MatsuriDayo/NekoBoxForAndroid",
-   "name": "NekoBoxForAndroid",
-   "owner": "MatsuriDayo",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/95122236?v=4",
-   "stars": 23605,
-   "license": "NOASSERTION",
-   "topics": [
-    "android",
-    "gfw",
-    "proxy",
-    "shadowsocks",
-    "sing-box",
-    "trojan",
-    "vmess",
-    "vpn"
-   ],
-   "latestTag": "1.4.2",
-   "latestDate": "2026-02-09",
-   "apkCount": 4,
-   "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
-   "summaryKo": "안드로이드에서 다양한 프록시 프로토콜을 다루는 연결 도구입니다.",
-   "notesKo": {
-    "tag": "1.4.2",
-    "lines": [
-     "핵심 sing-box를 1.12.19-neko-1 버전으로 업그레이드했습니다.",
-     "구독 업데이트 시의 설정 덮어쓰기 로직을 리팩토링 및 최적화했습니다.",
-     "본 소프트웨어는 기능 요청을 받지 않으며 유지보수가 적은 도구입니다."
-    ]
-   },
-   "screenshots": [],
-   "card": {
-    "oneLiner": "안드로이드에서 다양한 프록시 프로토콜을 다루는 연결 도구입니다.",
-    "forWhom": "안드로이드에서 프록시 노드와 연결 설정을 직접 다룰 수 있는 분",
-    "features": [
-     "sing-box 및 다양한 프록시 프로토콜 지원",
-     "여러 종류의 구독 형식 및 노드 주소 해석 기능",
-     "업데이트 시 로컬 사용자 지정 설정을 유지하는 기능"
-    ],
-    "howToStart": [
-     "깃허브에서 최신 앱 설치 파일을 내려받아 안드로이드 기기에 설치합니다.",
-     "사용할 프록시 노드 주소나 지원되는 구독 정보를 가져옵니다.",
-     "앱에서 노드를 연결하고 프록시 기능을 시작합니다."
-    ],
-    "praise": [
-     {
-      "text": "다양한 프록시 프로토콜을 쓸 수 있어서 편리합니다.",
-      "source": "Lemmy 댓글",
-      "url": "https://lemmy.sdf.org/post/37813193",
-      "date": "2025-07-02",
-      "old": false
-     },
-     {
-      "text": "프록시 클라이언트 앱으로 활용하기 좋습니다.",
-      "source": "Lemmy 댓글",
-      "url": "https://lemmy.sdf.org/post/37813193",
-      "date": "2025-07-02",
-      "old": false
-     }
-    ],
-    "complaints": [
-     {
-      "text": "로컬 SOCKS5 프록시에 인증이 없어 보안상 아쉽다는 의견이 있습니다.",
-      "source": "GitHub 이슈 #1155",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/issues/1155",
-      "date": "2026-04-07",
-      "old": false
-     },
-     {
-      "text": "스마트 TV 환경에서는 설정 버튼이 눌리지 않아 쓰기 어렵습니다.",
-      "source": "GitHub 이슈 #531",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/issues/531",
-      "date": "2024-01-18",
-      "old": true
-     }
-    ],
-    "cautions": [
-     {
-      "text": "구글 플레이 버전은 제3자가 제어하는 비공개 소스 버전이므로 다운로드를 피해야 합니다.",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid#readme"
-     },
-     {
-      "text": "기본적으로 노드 튜닝과 설정에 대한 기초 지식이 있는 사용자에게 알맞습니다.",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2"
-     },
-     {
-      "text": "프로젝트 유지보수가 적어 기능 요청을 받지 않으며 버그 수정이 제한될 수 있습니다.",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "network-vpn"
-   ],
-   "cardTag": "1.4.2",
-   "score": 6.3114,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-16",
-     "asset": "NekoBox-1.4.2-arm64-v8a.apk",
-     "sha256": "d01e76feeb05e4701f3ae382cb71c0a3ebb77039005e5893f8817e1051f8ac28"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "1.4.2",
-    "packageName": "moe.nb4a",
-    "certSha256": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
-   }
-  },
-  {
-   "repo": "super-productivity/super-productivity",
-   "name": "super-productivity",
-   "owner": "super-productivity",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/215719836?v=4",
-   "stars": 23890,
-   "license": "MIT",
-   "topics": [
-    "android",
-    "flowmodoro",
-    "flowtime",
-    "habit-tracker",
-    "ios",
-    "issue-tracker",
-    "linux",
-    "local-first",
-    "macos",
-    "open-source",
-    "pomodoro",
-    "pomodoro-timer",
-    "privacy",
-    "productivity",
-    "task-manager",
-    "time-tracker",
-    "time-tracking",
-    "to-do-list",
-    "todo",
-    "windows"
-   ],
-   "latestTag": "v20.0.0",
-   "latestDate": "2026-11-06",
-   "apkCount": 1,
-   "description": "A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.",
-   "summaryKo": "할 일 목록과 시간 기록, 일일 계획을 관리하는 오픈소스 앱",
-   "notesKo": {
-    "tag": "v20.0.0",
-    "lines": [
-     "스마트 리스트, 다중 태그 필터링 및 재설계된 뷰 Editor를 추가했습니다.",
-     "내장된 AI Command 플러그인을 추가했습니다.",
-     "반복 태그 시작 날짜 및 일정 중복 문제를 수정했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1_task-list-dark.png",
-    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2_task-list-light.png",
-    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3_daily-summary.png",
-    "https://raw.githubusercontent.com/super-productivity/super-productivity/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4_worklog.png"
-   ],
-   "card": {
-    "oneLiner": "할 일 목록과 시간 기록, 일일 계획을 관리하는 오픈소스 앱",
-    "forWhom": "할 일과 시간을 체계적으로 관리하고 싶은 사용자",
-    "features": [
-     "하위 할 일, 프로젝트, 태그로 할 일 관리",
-     "칸반 보드와 시간 기록 기능 제공",
-     "개인정보를 수집하지 않으며 오프라인 우선 작동"
-    ],
-    "howToStart": [
-     "앱을 내려받고 실행합니다.",
-     "새로운 할 일을 추가하고 프로젝트를 나눕니다.",
-     "일정을 계획하고 시간을 기록합니다."
-    ],
-    "praise": [],
-    "complaints": [],
-    "cautions": [],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "notes-tasks"
-   ],
-   "cardTag": "v20.0.0",
-   "score": 6.296,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 65,
-     "checkedAt": "2026-11-16",
-     "asset": "app-play-release.apk",
-     "sha256": "f5b43b0c61784b0069c90f49ce4deb92988e8eaf78db0792de6796849d8b4d37"
-    },
-    "attested": true,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v20.0.0",
-    "packageName": "com.superproductivity.superproductivity",
-    "certSha256": "163c876b917d7620a39292cc9d7c3cdf0c3c659324ab459d5dafd9b9971117aa"
    }
   },
   {
@@ -10921,7 +11135,7 @@
    },
    "themes": [],
    "cardTag": "v14.1.0",
-   "score": 6.2784,
+   "score": 6.273,
    "safety": {
     "vt": null,
     "attested": false,
@@ -11016,7 +11230,7 @@
     "notes-tasks"
    ],
    "cardTag": "35.0.0",
-   "score": 6.1856,
+   "score": 6.1802,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11040,7 +11254,7 @@
    "name": "KernelSU",
    "owner": "tiann",
    "avatarUrl": "https://avatars.githubusercontent.com/u/4233744?v=4",
-   "stars": 20818,
+   "stars": 20866,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11105,7 +11319,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.3.1",
-   "score": 6.0993,
+   "score": 6.0948,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11125,11 +11339,110 @@
    }
   },
   {
+   "repo": "RikkaApps/Shizuku",
+   "name": "Shizuku",
+   "owner": "RikkaApps",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/31959043?v=4",
+   "stars": 34292,
+   "license": "Apache-2.0",
+   "topics": [],
+   "latestTag": "v13.6.0",
+   "latestDate": "2025-05-25",
+   "apkCount": 1,
+   "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+   "summaryKo": "루팅 없이도 앱에 시스템 수준 권한을 안전하게 연결해 주는 도구",
+   "notesKo": {
+    "tag": "v13.6.0",
+    "lines": [
+     "안드로이드 16 QPR1 버전을 지원합니다.",
+     "신뢰할 수 있는 와이파이 연결 시 루트 권한 없이 자동 시작을 지원합니다."
+    ]
+   },
+   "screenshots": [],
+   "card": {
+    "oneLiner": "루팅 없이도 앱에 시스템 수준 권한을 안전하게 연결해 주는 도구",
+    "forWhom": "루팅 없이 고급 권한이 필요한 앱을 쓰고 싶은 사람",
+    "features": [
+     "루팅 없이 ADB 권한으로 시스템 API 중계",
+     "바인더 통신 방식을 통한 빠르고 안정적인 처리",
+     "신뢰하는 와이파이 연결 시 자동 실행 지원"
+    ],
+    "howToStart": [
+     "기기 설정에서 개발자 옵션을 켜고 무선 디버깅 환경을 준비합니다.",
+     "앱의 안내에 따라 기기와 페어링한 뒤 Shizuku 서비스를 시작합니다.",
+     "Shizuku를 지원하는 관리 앱을 열고 권한을 승인해 사용합니다."
+    ],
+    "praise": [
+     {
+      "text": "스토어 대체 앱 등에서 백그라운드로 앱을 자동 설치할 때 유용합니다.",
+      "source": "Hacker News 댓글",
+      "url": "https://news.ycombinator.com/item?id=34713332",
+      "date": "2023-02-08",
+      "old": true
+     },
+     {
+      "text": "루팅 없이도 불필요한 기본 탑재 앱이나 시스템 앱을 삭제할 때 활용할 수 있습니다.",
+      "source": "Lemmy 댓글",
+      "url": "https://lemmy.world/post/6668853",
+      "date": "2023-10-11",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "기기를 재부팅하면 서비스가 꺼져서 매번 다시 실행해야 하는 번거로움이 있습니다.",
+      "source": "GitHub 이슈 #362",
+      "url": "https://github.com/RikkaApps/Shizuku/issues/362",
+      "date": "2023-10-18",
+      "old": true
+     },
+     {
+      "text": "정상적으로 실행 중임에도 가끔 페어링에 실패했다는 잘못된 알림이 뜹니다.",
+      "source": "GitHub 이슈 #380",
+      "url": "https://github.com/RikkaApps/Shizuku/issues/380",
+      "date": "2023-11-21",
+      "old": true
+     }
+    ],
+    "cautions": [
+     {
+      "text": "오래 갱신이 없어요. 마지막 릴리스가 2025-05-25예요",
+      "url": "https://github.com/RikkaApps/Shizuku/releases"
+     },
+     {
+      "text": "ADB 방식으로 실행하면 권한 범위가 루팅 환경보다 제한되며 버전별 차이가 있습니다.",
+      "url": "https://github.com/RikkaApps/Shizuku#readme"
+     },
+     {
+      "text": "안드로이드 TV 기기에서는 리모컨으로 화면 내부 버튼을 누르기 어려울 수 있습니다.",
+      "url": "https://github.com/RikkaApps/Shizuku/issues/368"
+     }
+    ],
+    "asOf": "2026-11-16",
+    "model": "gemini-flash-latest"
+   },
+   "themes": [
+    "phone-tools"
+   ],
+   "cardTag": "v13.6.0",
+   "score": 6.0352,
+   "safety": {
+    "vt": null,
+    "attested": false,
+    "attestedChecked": false,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "v13.6.0",
+    "packageName": "moe.shizuku.privileged.api",
+    "certSha256": "268b5590e868fb08bae7e0ac413564cd1ff88f5ccff74af9dbd0dc918e30db30"
+   }
+  },
+  {
    "repo": "niedev/RTranslator",
    "name": "RTranslator",
    "owner": "niedev",
    "avatarUrl": "https://avatars.githubusercontent.com/u/32955129?v=4",
-   "stars": 10701,
+   "stars": 10705,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -11216,7 +11529,7 @@
     "privacy"
    ],
    "cardTag": "2.1.5",
-   "score": 6.0391,
+   "score": 6.0337,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11238,110 +11551,11 @@
    }
   },
   {
-   "repo": "RikkaApps/Shizuku",
-   "name": "Shizuku",
-   "owner": "RikkaApps",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/31959043?v=4",
-   "stars": 34194,
-   "license": "Apache-2.0",
-   "topics": [],
-   "latestTag": "v13.6.0",
-   "latestDate": "2025-05-25",
-   "apkCount": 1,
-   "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
-   "summaryKo": "루팅 없이도 앱에 시스템 수준 권한을 안전하게 연결해 주는 도구",
-   "notesKo": {
-    "tag": "v13.6.0",
-    "lines": [
-     "안드로이드 16 QPR1 버전을 지원합니다.",
-     "신뢰할 수 있는 와이파이 연결 시 루트 권한 없이 자동 시작을 지원합니다."
-    ]
-   },
-   "screenshots": [],
-   "card": {
-    "oneLiner": "루팅 없이도 앱에 시스템 수준 권한을 안전하게 연결해 주는 도구",
-    "forWhom": "루팅 없이 고급 권한이 필요한 앱을 쓰고 싶은 사람",
-    "features": [
-     "루팅 없이 ADB 권한으로 시스템 API 중계",
-     "바인더 통신 방식을 통한 빠르고 안정적인 처리",
-     "신뢰하는 와이파이 연결 시 자동 실행 지원"
-    ],
-    "howToStart": [
-     "기기 설정에서 개발자 옵션을 켜고 무선 디버깅 환경을 준비합니다.",
-     "앱의 안내에 따라 기기와 페어링한 뒤 Shizuku 서비스를 시작합니다.",
-     "Shizuku를 지원하는 관리 앱을 열고 권한을 승인해 사용합니다."
-    ],
-    "praise": [
-     {
-      "text": "스토어 대체 앱 등에서 백그라운드로 앱을 자동 설치할 때 유용합니다.",
-      "source": "Hacker News 댓글",
-      "url": "https://news.ycombinator.com/item?id=34713332",
-      "date": "2023-02-08",
-      "old": true
-     },
-     {
-      "text": "루팅 없이도 불필요한 기본 탑재 앱이나 시스템 앱을 삭제할 때 활용할 수 있습니다.",
-      "source": "Lemmy 댓글",
-      "url": "https://lemmy.world/post/6668853",
-      "date": "2023-10-11",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "기기를 재부팅하면 서비스가 꺼져서 매번 다시 실행해야 하는 번거로움이 있습니다.",
-      "source": "GitHub 이슈 #362",
-      "url": "https://github.com/RikkaApps/Shizuku/issues/362",
-      "date": "2023-10-18",
-      "old": true
-     },
-     {
-      "text": "정상적으로 실행 중임에도 가끔 페어링에 실패했다는 잘못된 알림이 뜹니다.",
-      "source": "GitHub 이슈 #380",
-      "url": "https://github.com/RikkaApps/Shizuku/issues/380",
-      "date": "2023-11-21",
-      "old": true
-     }
-    ],
-    "cautions": [
-     {
-      "text": "오래 갱신이 없어요. 마지막 릴리스가 2025-05-25예요",
-      "url": "https://github.com/RikkaApps/Shizuku/releases"
-     },
-     {
-      "text": "ADB 방식으로 실행하면 권한 범위가 루팅 환경보다 제한되며 버전별 차이가 있습니다.",
-      "url": "https://github.com/RikkaApps/Shizuku#readme"
-     },
-     {
-      "text": "안드로이드 TV 기기에서는 리모컨으로 화면 내부 버튼을 누르기 어려울 수 있습니다.",
-      "url": "https://github.com/RikkaApps/Shizuku/issues/368"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-latest"
-   },
-   "themes": [
-    "phone-tools"
-   ],
-   "cardTag": "v13.6.0",
-   "score": 6.034,
-   "safety": {
-    "vt": null,
-    "attested": false,
-    "attestedChecked": false,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "v13.6.0",
-    "packageName": "moe.shizuku.privileged.api",
-    "certSha256": "268b5590e868fb08bae7e0ac413564cd1ff88f5ccff74af9dbd0dc918e30db30"
-   }
-  },
-  {
    "repo": "Minireel/HGhub",
    "name": "HGhub",
    "owner": "Minireel",
    "avatarUrl": "https://avatars.githubusercontent.com/u/328980256?v=4",
-   "stars": 10448,
+   "stars": 11017,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -11412,7 +11626,7 @@
     "downloaders"
    ],
    "cardTag": "v0.0.4",
-   "score": 6.0136,
+   "score": 6.0311,
    "safety": {
     "vt": null,
     "attested": false,
@@ -11425,99 +11639,11 @@
    }
   },
   {
-   "repo": "MorpheApp/morphe-manager",
-   "name": "morphe-manager",
-   "owner": "MorpheApp",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/246280111?v=4",
-   "stars": 10656,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "apk",
-    "app",
-    "morphe",
-    "patcher",
-    "patches",
-    "youtube"
-   ],
-   "latestTag": "v2.6.0",
-   "latestDate": "2026-11-15",
-   "apkCount": 1,
-   "description": "Morphe app patcher for Android",
-   "summaryKo": "유튜브와 레딧 등의 앱을 기기 안에서 직접 수정해 광고를 없애 주는 도구",
-   "notesKo": {
-    "tag": "v2.6.0",
-    "lines": [
-     "원하는 폴더에 설정을 자동으로 백업할 수 있습니다.",
-     "선택한 폴더에서 직접 새 폴더를 만들 수 있습니다.",
-     "신뢰할 수 있는 도우미로 누락된 APK를 일괄 다운로드합니다."
-    ]
-   },
-   "screenshots": [],
-   "card": {
-    "oneLiner": "유튜브와 레딧 등의 앱을 기기 안에서 직접 수정해 광고를 없애 주는 도구",
-    "forWhom": "유튜브와 레딧을 광고 없이 보고 싶은 안드로이드 사용자",
-    "features": [
-     "간단 모드와 전문가 모드로 앱을 직접 수정",
-     "유튜브, 유튜브 뮤직, 레딧 등 다양한 앱 지원",
-     "기기 안에서 모든 작업이 처리되어 개인정보 보호"
-    ],
-    "howToStart": [
-     "공식 홈페이지에서 모프 매니저 앱을 내려받아 설치합니다.",
-     "유튜브나 레딧 등 수정할 앱을 선택합니다.",
-     "간단 모드 또는 전문가 모드를 골라 패치를 진행한 뒤 설치합니다."
-    ],
-    "praise": [],
-    "complaints": [],
-    "cautions": [
-     {
-      "text": "일부 기기나 패치 과정에서 메모리 부족 오류가 발생할 수 있습니다.",
-      "url": "https://github.com/MorpheApp/morphe-manager/issues/1119"
-     },
-     {
-      "text": "간혹 전문가 모드에서 패치 선택 시 오류가 생길 수 있습니다.",
-      "url": "https://github.com/MorpheApp/morphe-manager/issues/1058"
-     },
-     {
-      "text": "사양에 따라 패치 작업에 오랜 시간이 걸리거나 멈출 수 있습니다.",
-      "url": "https://github.com/MorpheApp/morphe-manager/issues/1021"
-     }
-    ],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "ad-free-media",
-    "privacy"
-   ],
-   "cardTag": "v2.6.0",
-   "score": 5.9948,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 58,
-     "checkedAt": "2026-11-16",
-     "asset": "morphe-manager-2.6.0.apk",
-     "sha256": "1fd2547689e87217426d817aa8cad3f53a160b08fc09032cf0f81d71714cb68c"
-    },
-    "attested": true,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v2.6.0",
-    "packageName": "app.morphe.manager",
-    "certSha256": "0b6c9515afb195fac59601696ba0a7907a0b217ccf720b43148427ccf64343e7"
-   }
-  },
-  {
    "repo": "JunkFood02/Seal",
    "name": "Seal",
    "owner": "JunkFood02",
    "avatarUrl": "https://avatars.githubusercontent.com/u/69683722?v=4",
-   "stars": 30872,
+   "stars": 30892,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11614,7 +11740,7 @@
     "downloaders"
    ],
    "cardTag": "v1.13.1",
-   "score": 5.9896,
+   "score": 5.9899,
    "safety": {
     "vt": null,
     "attested": false,
@@ -11631,7 +11757,7 @@
    "name": "Neo-Backup",
    "owner": "NeoApplications",
    "avatarUrl": "https://avatars.githubusercontent.com/u/101910870?v=4",
-   "stars": 3927,
+   "stars": 3929,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -11727,7 +11853,7 @@
     "phone-tools"
    ],
    "cardTag": "8.3.18",
-   "score": 5.9873,
+   "score": 5.9821,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11751,7 +11877,7 @@
    "name": "Lemuroid",
    "owner": "Swordfish90",
    "avatarUrl": "https://avatars.githubusercontent.com/u/6009070?v=4",
-   "stars": 4530,
+   "stars": 4532,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -11845,7 +11971,7 @@
    },
    "themes": [],
    "cardTag": "1.17.0",
-   "score": 5.9836,
+   "score": 5.9783,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -11970,7 +12096,7 @@
    },
    "themes": [],
    "cardTag": "V2.1.0",
-   "score": 5.9827,
+   "score": 5.9772,
    "safety": {
     "vt": null,
     "attested": false,
@@ -11987,7 +12113,7 @@
    "name": "android",
    "owner": "bitwarden",
    "avatarUrl": "https://avatars.githubusercontent.com/u/15990069?v=4",
-   "stars": 9667,
+   "stars": 9669,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -12057,7 +12183,7 @@
     "security-auth"
    ],
    "cardTag": "v2026.11.1-bwpm",
-   "score": 5.9744,
+   "score": 5.969,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12081,7 +12207,7 @@
    "name": "LibChecker",
    "owner": "LibChecker",
    "avatarUrl": "https://avatars.githubusercontent.com/u/116417672?v=4",
-   "stars": 7352,
+   "stars": 7353,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -12153,7 +12279,7 @@
     "phone-tools"
    ],
    "cardTag": "2.5.5.1",
-   "score": 5.7952,
+   "score": 5.7898,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12177,7 +12303,7 @@
    "name": "jev-chat-jarvis",
    "owner": "jev-chat",
    "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
-   "stars": 8480,
+   "stars": 8487,
    "license": "MIT",
    "topics": [
     "accessibility-service",
@@ -12258,7 +12384,7 @@
    },
    "themes": [],
    "cardTag": "v1.7",
-   "score": 5.6709,
+   "score": 5.6658,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12284,7 +12410,7 @@
    "name": "lawnchair",
    "owner": "LawnchairLauncher",
    "avatarUrl": "https://avatars.githubusercontent.com/u/34144436?v=4",
-   "stars": 13979,
+   "stars": 13987,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -12359,7 +12485,7 @@
    },
    "themes": [],
    "cardTag": "1.2.0.1884",
-   "score": 5.6455,
+   "score": 5.6458,
    "safety": {
     "vt": null,
     "attested": false,
@@ -12439,7 +12565,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.0",
-   "score": 5.6421,
+   "score": 5.6366,
    "safety": {
     "vt": null,
     "attested": false,
@@ -12456,7 +12582,7 @@
    "name": "kelivo",
    "owner": "Chevey339",
    "avatarUrl": "https://avatars.githubusercontent.com/u/49580479?v=4",
-   "stars": 4695,
+   "stars": 4714,
    "license": "AGPL-3.0",
    "topics": [
     "ai",
@@ -12531,7 +12657,7 @@
    },
    "themes": [],
    "cardTag": "v1.3.6",
-   "score": 5.6389,
+   "score": 5.6351,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -12557,7 +12683,7 @@
    "name": "mullvadvpn-app",
    "owner": "mullvad",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10848549?v=4",
-   "stars": 7801,
+   "stars": 7807,
    "license": "GPL-3.0",
    "topics": [
     "electron",
@@ -12602,7 +12728,7 @@
     "privacy"
    ],
    "cardTag": "android/2026.12",
-   "score": 5.6073,
+   "score": 5.6021,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12626,7 +12752,7 @@
    "name": "InstallerX-Revived",
    "owner": "wxxsfxyzm",
    "avatarUrl": "https://avatars.githubusercontent.com/u/65166044?v=4",
-   "stars": 7592,
+   "stars": 7606,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -12696,7 +12822,7 @@
     "phone-tools"
    ],
    "cardTag": "26.09",
-   "score": 5.5955,
+   "score": 5.5908,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12720,7 +12846,7 @@
    "name": "gsy_github_app_flutter",
    "owner": "CarGuo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10770362?v=4",
-   "stars": 15512,
+   "stars": 15513,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -12781,7 +12907,7 @@
    },
    "themes": [],
    "cardTag": "8.1.1",
-   "score": 5.5934,
+   "score": 5.588,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12805,7 +12931,7 @@
    "name": "ByeByeDPI",
    "owner": "romanvht",
    "avatarUrl": "https://avatars.githubusercontent.com/u/36431458?v=4",
-   "stars": 7308,
+   "stars": 7316,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -12852,7 +12978,7 @@
     "network-vpn"
    ],
    "cardTag": "v.1.8.2",
-   "score": 5.5899,
+   "score": 5.5849,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -12872,72 +12998,11 @@
    }
   },
   {
-   "repo": "TGX-Android/Telegram-X",
-   "name": "Telegram-X",
-   "owner": "TGX-Android",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/77549562?v=4",
-   "stars": 6223,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "telegram",
-    "telegram-x"
-   ],
-   "latestTag": "v0.29.1.1817",
-   "latestDate": "2026-10-11",
-   "apkCount": 4,
-   "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
-   "summaryKo": "공식 텔레그램을 기반으로 만든 대안 안드로이드 클라이언트 앱",
-   "screenshots": [
-    "https://raw.githubusercontent.com/TGX-Android/Telegram-X/HEAD/images/feature.png"
-   ],
-   "card": {
-    "oneLiner": "공식 텔레그램을 기반으로 만든 대안 안드로이드 클라이언트 앱",
-    "forWhom": "안드로이드에서 다른 텔레그램 앱을 써보고 싶은 사용자",
-    "features": [
-     "TDLib 기반의 실험적 텔레그램 클라이언트",
-     "다양한 아키텍처별 APK 및 버전 확인 지원",
-     "공식 빌드 검증을 위한 무결성 체크섬 제공"
-    ],
-    "howToStart": [
-     "구글 플레이나 깃허브 릴리스에서 앱을 내려받습니다.",
-     "필요한 경우 봇을 통해 APK 파일의 해시를 확인합니다."
-    ],
-    "praise": [],
-    "complaints": [],
-    "cautions": [],
-    "asOf": "2026-11-17",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [],
-   "cardTag": "v0.29.1.1817",
-   "score": 5.5694,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-17",
-     "asset": "Telegram-X-0.29.1.1817-legacy.apk",
-     "sha256": "020b31271e3c4b8f07a334a133d4ee2501a28fa3e2ffa9f14dcdf7988b84ee9b"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [
-     "구글 서비스 필요"
-    ],
-    "analyzedTag": "v0.29.1.1817",
-    "packageName": "org.thunderdog.challegram",
-    "certSha256": "eb801a303294ba02a84d030ebb1216c438ac985ad4b89208e32d7a7190dcdd33"
-   }
-  },
-  {
    "repo": "mikepenz/MaterialDrawer",
    "name": "MaterialDrawer",
    "owner": "mikepenz",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1476232?v=4",
-   "stars": 11641,
+   "stars": 11642,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13006,7 +13071,7 @@
    },
    "themes": [],
    "cardTag": "v9.0.2",
-   "score": 5.566,
+   "score": 5.5661,
    "safety": {
     "vt": null,
     "attested": false,
@@ -13019,11 +13084,72 @@
    }
   },
   {
+   "repo": "TGX-Android/Telegram-X",
+   "name": "Telegram-X",
+   "owner": "TGX-Android",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/77549562?v=4",
+   "stars": 6231,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "telegram",
+    "telegram-x"
+   ],
+   "latestTag": "v0.29.1.1817",
+   "latestDate": "2026-10-11",
+   "apkCount": 4,
+   "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+   "summaryKo": "공식 텔레그램을 기반으로 만든 대안 안드로이드 클라이언트 앱",
+   "screenshots": [
+    "https://raw.githubusercontent.com/TGX-Android/Telegram-X/HEAD/images/feature.png"
+   ],
+   "card": {
+    "oneLiner": "공식 텔레그램을 기반으로 만든 대안 안드로이드 클라이언트 앱",
+    "forWhom": "안드로이드에서 다른 텔레그램 앱을 써보고 싶은 사용자",
+    "features": [
+     "TDLib 기반의 실험적 텔레그램 클라이언트",
+     "다양한 아키텍처별 APK 및 버전 확인 지원",
+     "공식 빌드 검증을 위한 무결성 체크섬 제공"
+    ],
+    "howToStart": [
+     "구글 플레이나 깃허브 릴리스에서 앱을 내려받습니다.",
+     "필요한 경우 봇을 통해 APK 파일의 해시를 확인합니다."
+    ],
+    "praise": [],
+    "complaints": [],
+    "cautions": [],
+    "asOf": "2026-11-17",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [],
+   "cardTag": "v0.29.1.1817",
+   "score": 5.5645,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 67,
+     "checkedAt": "2026-11-17",
+     "asset": "Telegram-X-0.29.1.1817-legacy.apk",
+     "sha256": "020b31271e3c4b8f07a334a133d4ee2501a28fa3e2ffa9f14dcdf7988b84ee9b"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [
+     "구글 서비스 필요"
+    ],
+    "analyzedTag": "v0.29.1.1817",
+    "packageName": "org.thunderdog.challegram",
+    "certSha256": "eb801a303294ba02a84d030ebb1216c438ac985ad4b89208e32d7a7190dcdd33"
+   }
+  },
+  {
    "repo": "xiaojieonly/Ehviewer_CN_SXJ",
    "name": "Ehviewer_CN_SXJ",
    "owner": "xiaojieonly",
    "avatarUrl": "https://avatars.githubusercontent.com/u/49278135?v=4",
-   "stars": 29389,
+   "stars": 29430,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -13115,7 +13241,7 @@
    },
    "themes": [],
    "cardTag": "2.0.2.7",
-   "score": 5.5049,
+   "score": 5.5014,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13151,7 +13277,7 @@
    "name": "AdAway",
    "owner": "AdAway",
    "avatarUrl": "https://avatars.githubusercontent.com/u/20455853?v=4",
-   "stars": 9635,
+   "stars": 9636,
    "license": "GPL-3.0",
    "topics": [
     "ad-blocker",
@@ -13267,7 +13393,7 @@
    "name": "florisboard",
    "owner": "florisboard",
    "avatarUrl": "https://avatars.githubusercontent.com/u/63373248?v=4",
-   "stars": 8792,
+   "stars": 8794,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13356,7 +13482,7 @@
     "privacy"
    ],
    "cardTag": "v0.5.2",
-   "score": 5.4825,
+   "score": 5.4771,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13373,146 +13499,6 @@
     "analyzedTag": "v0.5.2",
     "packageName": "dev.patrickgold.florisboard.beta",
     "certSha256": "0b807164508eafeb1fbb815be7a23c77fe689d94b14375c99bdaa9b6577fd6d6"
-   }
-  },
-  {
-   "repo": "open-ani/animeko",
-   "name": "animeko",
-   "owner": "open-ani",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/166622089?v=4",
-   "stars": 21932,
-   "license": "AGPL-3.0",
-   "topics": [
-    "android",
-    "ani",
-    "anime",
-    "bangumi",
-    "bittorrent",
-    "bt",
-    "compose",
-    "compose-multiplatform",
-    "danmaku",
-    "ios",
-    "jetpack-compose",
-    "kotlin",
-    "kotlin-multiplatform",
-    "linux",
-    "macos",
-    "player",
-    "torrent",
-    "video",
-    "windows"
-   ],
-   "latestTag": "v6.4.1",
-   "latestDate": "2026-11-18",
-   "apkCount": 8,
-   "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
-   "summaryKo": "다양한 소스에서 애니메이션을 모아 보고 릴레이로 즐기는 플레이어",
-   "notesKo": {
-    "tag": "v6.4.1",
-    "lines": [
-     "보안 관련 취약점 수정",
-     "데스크톱 사용자 즉시 업데이트 권장"
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/subject-details.png",
-    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/subject-rating.png",
-    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/anime-schedule.png",
-    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/search-by-tag.png"
-   ],
-   "card": {
-    "oneLiner": "다양한 소스에서 애니메이션을 모아 보고 릴레이로 즐기는 플레이어",
-    "forWhom": "여러 곳에 흩어진 애니메이션 시청 기록을 한곳에서 관리하고 싶은 사람",
-    "features": [
-     "Bangumi 기반의 상세한 정보와 신선한 시간표 제공",
-     "웹사이트와 BitTorrent 등 여러 영상 소스 자동 선택 및 캐시",
-     "공익 서버와 연동되는 실시간 자막 기능"
-    ],
-    "howToStart": [
-     "앱을 내려받고 실행합니다.",
-     "원하는 애니메이션을 검색하거나 신선한 시간표를 확인합니다.",
-     "재생 버튼을 눌러 시청을 시작합니다."
-    ],
-    "praise": [
-     {
-      "text": "냉정한 냉면 같은 냉소보다 냉소적인 고정 데이터 소스 설정이 아쉽지만 자동 선택 기능이 편리합니다.",
-      "source": "GitHub 이슈 #2650",
-      "url": "https://github.com/open-ani/animeko/issues/2650",
-      "date": "2025-11-02",
-      "old": false
-     },
-     {
-      "text": "로컬 영상 파일 재생 기능이 추가되었으면 좋겠다는 의견이 있습니다.",
-      "source": "GitHub 이슈 #1888",
-      "url": "https://github.com/open-ani/animeko/issues/1888",
-      "date": "2025-04-03",
-      "old": true
-     }
-    ],
-    "complaints": [
-     {
-      "text": "냉정한 냉면 같은 냉소보다 냉소적인 고정 데이터 소스 설정이 아쉽지만 자동 선택 기능이 편리합니다.",
-      "source": "GitHub 이슈 #2650",
-      "url": "https://github.com/open-ani/animeko/issues/2650",
-      "date": "2025-11-02",
-      "old": false
-     },
-     {
-      "text": "상세 추천 목록에 부적절한 광고가 나타나는 문제가 있습니다.",
-      "source": "GitHub 이슈 #2717",
-      "url": "https://github.com/open-ani/animeko/issues/2717",
-      "date": "2025-12-08",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 버전에서는 보안 업데이트가 필요할 수 있습니다.",
-      "url": "https://github.com/open-ani/animeko/releases/tag/v6.4.1"
-     },
-     {
-      "text": "재생 중 진행 바를 조절할 때 매번 로딩이 발생할 수 있습니다.",
-      "url": "https://github.com/open-ani/animeko/issues/2323"
-     }
-    ],
-    "asOf": "2026-11-19",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "ad-free-media",
-    "downloaders"
-   ],
-   "cardTag": "v6.4.1",
-   "score": 5.4773,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-19",
-     "asset": "ani-6.4.1-arm64-v8a.apk",
-     "sha256": "0999f247b97a7d7fa251695cad84cdb98ec8ff95d5bc4f426d2cc05aecdb09c4"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [
-     {
-      "name": "Google Firebase Analytics",
-      "category": "Analytics"
-     }
-    ],
-    "antiFeatures": [
-     "추적",
-     "구글 서비스 필요",
-     "오류 보고"
-    ],
-    "analyzedTag": "v6.4.1",
-    "packageName": "me.him188.ani",
-    "certSha256": "6fb65ce60084971a84f40095979b36f9058bbc9f30949fb8094fb47e2a17e813",
-    "crashReporters": [
-     "Sentry"
-    ]
    }
   },
   {
@@ -13625,11 +13611,151 @@
    }
   },
   {
+   "repo": "open-ani/animeko",
+   "name": "animeko",
+   "owner": "open-ani",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/166622089?v=4",
+   "stars": 21968,
+   "license": "AGPL-3.0",
+   "topics": [
+    "android",
+    "ani",
+    "anime",
+    "bangumi",
+    "bittorrent",
+    "bt",
+    "compose",
+    "compose-multiplatform",
+    "danmaku",
+    "ios",
+    "jetpack-compose",
+    "kotlin",
+    "kotlin-multiplatform",
+    "linux",
+    "macos",
+    "player",
+    "torrent",
+    "video",
+    "windows"
+   ],
+   "latestTag": "v6.4.1",
+   "latestDate": "2026-11-18",
+   "apkCount": 8,
+   "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
+   "summaryKo": "다양한 소스에서 애니메이션을 모아 보고 릴레이로 즐기는 플레이어",
+   "notesKo": {
+    "tag": "v6.4.1",
+    "lines": [
+     "보안 관련 취약점 수정",
+     "데스크톱 사용자 즉시 업데이트 권장"
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/subject-details.png",
+    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/subject-rating.png",
+    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/anime-schedule.png",
+    "https://raw.githubusercontent.com/open-ani/animeko/HEAD/.readme/images/features/search-by-tag.png"
+   ],
+   "card": {
+    "oneLiner": "다양한 소스에서 애니메이션을 모아 보고 릴레이로 즐기는 플레이어",
+    "forWhom": "여러 곳에 흩어진 애니메이션 시청 기록을 한곳에서 관리하고 싶은 사람",
+    "features": [
+     "Bangumi 기반의 상세한 정보와 신선한 시간표 제공",
+     "웹사이트와 BitTorrent 등 여러 영상 소스 자동 선택 및 캐시",
+     "공익 서버와 연동되는 실시간 자막 기능"
+    ],
+    "howToStart": [
+     "앱을 내려받고 실행합니다.",
+     "원하는 애니메이션을 검색하거나 신선한 시간표를 확인합니다.",
+     "재생 버튼을 눌러 시청을 시작합니다."
+    ],
+    "praise": [
+     {
+      "text": "냉정한 냉면 같은 냉소보다 냉소적인 고정 데이터 소스 설정이 아쉽지만 자동 선택 기능이 편리합니다.",
+      "source": "GitHub 이슈 #2650",
+      "url": "https://github.com/open-ani/animeko/issues/2650",
+      "date": "2025-11-02",
+      "old": false
+     },
+     {
+      "text": "로컬 영상 파일 재생 기능이 추가되었으면 좋겠다는 의견이 있습니다.",
+      "source": "GitHub 이슈 #1888",
+      "url": "https://github.com/open-ani/animeko/issues/1888",
+      "date": "2025-04-03",
+      "old": true
+     }
+    ],
+    "complaints": [
+     {
+      "text": "냉정한 냉면 같은 냉소보다 냉소적인 고정 데이터 소스 설정이 아쉽지만 자동 선택 기능이 편리합니다.",
+      "source": "GitHub 이슈 #2650",
+      "url": "https://github.com/open-ani/animeko/issues/2650",
+      "date": "2025-11-02",
+      "old": false
+     },
+     {
+      "text": "상세 추천 목록에 부적절한 광고가 나타나는 문제가 있습니다.",
+      "source": "GitHub 이슈 #2717",
+      "url": "https://github.com/open-ani/animeko/issues/2717",
+      "date": "2025-12-08",
+      "old": false
+     }
+    ],
+    "cautions": [
+     {
+      "text": "일부 버전에서는 보안 업데이트가 필요할 수 있습니다.",
+      "url": "https://github.com/open-ani/animeko/releases/tag/v6.4.1"
+     },
+     {
+      "text": "재생 중 진행 바를 조절할 때 매번 로딩이 발생할 수 있습니다.",
+      "url": "https://github.com/open-ani/animeko/issues/2323"
+     }
+    ],
+    "asOf": "2026-11-19",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "ad-free-media",
+    "downloaders"
+   ],
+   "cardTag": "v6.4.1",
+   "score": 5.4739,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 67,
+     "checkedAt": "2026-11-19",
+     "asset": "ani-6.4.1-arm64-v8a.apk",
+     "sha256": "0999f247b97a7d7fa251695cad84cdb98ec8ff95d5bc4f426d2cc05aecdb09c4"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [
+     {
+      "name": "Google Firebase Analytics",
+      "category": "Analytics"
+     }
+    ],
+    "antiFeatures": [
+     "추적",
+     "구글 서비스 필요",
+     "오류 보고"
+    ],
+    "analyzedTag": "v6.4.1",
+    "packageName": "me.him188.ani",
+    "certSha256": "6fb65ce60084971a84f40095979b36f9058bbc9f30949fb8094fb47e2a17e813",
+    "crashReporters": [
+     "Sentry"
+    ]
+   }
+  },
+  {
    "repo": "mikepenz/AboutLibraries",
    "name": "AboutLibraries",
    "owner": "mikepenz",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1476232?v=4",
-   "stars": 4509,
+   "stars": 4510,
    "license": "Apache-2.0",
    "topics": [
     "aboutlibraries",
@@ -13705,7 +13831,7 @@
    },
    "themes": [],
    "cardTag": "15.3.0",
-   "score": 5.4405,
+   "score": 5.4351,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13729,7 +13855,7 @@
    "name": "mihon",
    "owner": "mihonapp",
    "avatarUrl": "https://avatars.githubusercontent.com/u/156513628?v=4",
-   "stars": 25494,
+   "stars": 25515,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -13820,7 +13946,7 @@
     "reading-news"
    ],
    "cardTag": "v0.21.3",
-   "score": 5.4309,
+   "score": 5.4274,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -13856,7 +13982,7 @@
    "name": "espeak-ng",
    "owner": "espeak-ng",
    "avatarUrl": "https://avatars.githubusercontent.com/u/16214005?v=4",
-   "stars": 7049,
+   "stars": 7051,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -13925,7 +14051,7 @@
    },
    "themes": [],
    "cardTag": "1.52.0",
-   "score": 5.3482,
+   "score": 5.3483,
    "safety": {
     "vt": null,
     "attested": false,
@@ -13942,7 +14068,7 @@
    "name": "orgzly-android",
    "owner": "orgzly",
    "avatarUrl": "https://avatars.githubusercontent.com/u/10672741?v=4",
-   "stars": 2818,
+   "stars": 2819,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14020,7 +14146,7 @@
     "notes-tasks"
    ],
    "cardTag": "v1.8.11",
-   "score": 5.3282,
+   "score": 5.3229,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -14040,11 +14166,99 @@
    }
   },
   {
+   "repo": "FossifyOrg/File-Manager",
+   "name": "File-Manager",
+   "owner": "FossifyOrg",
+   "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
+   "stars": 1891,
+   "license": "GPL-3.0",
+   "topics": [
+    "android",
+    "file-manager",
+    "foss",
+    "kotlin",
+    "open-source"
+   ],
+   "latestTag": "1.6.5",
+   "latestDate": "2026-11-21",
+   "apkCount": 1,
+   "description": "Easy app for managing your files without ads, respecting your privacy & security",
+   "summaryKo": "광고 없이 개인정보를 지키며 파일을 관리하는 오픈소스 앱",
+   "notesKo": {
+    "tag": "1.6.5",
+    "lines": [
+     "번역을 업데이트했습니다."
+    ]
+   },
+   "screenshots": [
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
+    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
+   ],
+   "card": {
+    "oneLiner": "광고 없이 개인정보를 지키며 파일을 관리하는 오픈소스 앱",
+    "forWhom": "광고와 추적 없는 깔끔한 파일 관리 앱을 찾는 사용자",
+    "features": [
+     "빠른 탐색과 압축 및 파일 전송 기능 제공",
+     "비밀번호나 지문으로 중요 파일과 앱 잠금",
+     "인터넷 연결 없이 기기에서 안전하게 파일 관리"
+    ],
+    "howToStart": [
+     "구글 플레이 스토어, F-Droid 또는 IzzyOnDroid에서 앱을 설치합니다.",
+     "앱을 실행하여 기기 저장소 권한을 허용합니다.",
+     "필요한 폴더를 찾고 즐겨찾기나 검색 기능을 사용하여 파일을 관리합니다."
+    ],
+    "praise": [],
+    "complaints": [],
+    "cautions": [
+     {
+      "text": "파일 삭제 시 휴지통을 거치지 않고 바로 영구 삭제될 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/89"
+     },
+     {
+      "text": "특정 안드로이드 버전이나 폴더에서 저장소 권한 문제가 발생할 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/16"
+     },
+     {
+      "text": "이름이 너무 길거나 특수한 경우 파일 관리에 오류가 생길 수 있습니다.",
+      "url": "https://github.com/FossifyOrg/File-Manager/issues/72"
+     }
+    ],
+    "asOf": "2026-11-22",
+    "model": "gemini-flash-lite-latest"
+   },
+   "themes": [
+    "files-photos"
+   ],
+   "cardTag": "1.6.5",
+   "score": 5.2714,
+   "safety": {
+    "vt": {
+     "malicious": 0,
+     "suspicious": 0,
+     "engines": 67,
+     "checkedAt": "2026-11-22",
+     "asset": "file-manager-17-foss-release.apk",
+     "sha256": "ba653eade09420992b7d0168febf2bf2b7c0b5392c0c1199a5c2a752d20dc9f4"
+    },
+    "attested": false,
+    "attestedChecked": true,
+    "trackers": [],
+    "antiFeatures": [],
+    "analyzedTag": "1.6.5",
+    "packageName": "org.fossify.filemanager",
+    "certSha256": "affdb124d3f4720c2f98dbca9eacba0514fba4306e20a2786c861c3c0d6ff292"
+   }
+  },
+  {
    "repo": "miru-project/miru-app",
    "name": "miru-app",
    "owner": "miru-project",
    "avatarUrl": "https://avatars.githubusercontent.com/u/122196438?v=4",
-   "stars": 5820,
+   "stars": 5819,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -14138,7 +14352,7 @@
     "reading-news"
    ],
    "cardTag": "v1.8.1",
-   "score": 5.265,
+   "score": 5.2649,
    "safety": {
     "vt": null,
     "attested": false,
@@ -14155,7 +14369,7 @@
    "name": "Mika",
    "owner": "wangzan101",
    "avatarUrl": "https://avatars.githubusercontent.com/u/102038245?v=4",
-   "stars": 9299,
+   "stars": 9447,
    "license": "Apache-2.0",
    "topics": [
     "accessibility",
@@ -14235,7 +14449,7 @@
    },
    "themes": [],
    "cardTag": "v0.1.50",
-   "score": 5.2241,
+   "score": 5.2251,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -14267,7 +14481,7 @@
    "name": "rikkahub",
    "owner": "rikkahub",
    "avatarUrl": "https://avatars.githubusercontent.com/u/211976783?v=4",
-   "stars": 9060,
+   "stars": 9082,
    "license": "AGPL-3.0",
    "topics": [
     "agent",
@@ -14281,17 +14495,17 @@
     "mcp",
     "openrouter"
    ],
-   "latestTag": "3.3.0",
-   "latestDate": "2026-11-16",
+   "latestTag": "3.3.1",
+   "latestDate": "2026-11-21",
    "apkCount": 1,
    "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
-   "summaryKo": "안드로이드에서 다양한 인공지능 모델을 쓸 수 있는 채팅 앱입니다.",
+   "summaryKo": "안드로이드에서 다양한 AI 모델을 연결해 대화하는 오픈소스 앱",
    "notesKo": {
-    "tag": "3.3.0",
+    "tag": "3.3.1",
     "lines": [
-     "rikkahub: DeepSeek 음성 합성 및 인식 기능이 추가되었습니다.",
-     "rikkahub: 로컬 작업 공간에서 공유 저장소 마운트를 지원합니다.",
-     "rikkahub: 채팅 기록 로드 속도와 메모리 사용량을 최적화했습니다."
+     "신규 사용자 설정을 위한 빠른 시작 페이지를 추가했습니다.",
+     "안전 모드에서 백업 내보내기 및 가져오기가 가능합니다.",
+     "내장 기본 어시스턴트를 삭제할 수 있게 되었습니다."
     ]
    },
    "screenshots": [
@@ -14301,28 +14515,28 @@
     "https://raw.githubusercontent.com/rikkahub/rikkahub/HEAD/docs/sponsors/suixiang.jpg"
    ],
    "card": {
-    "oneLiner": "안드로이드에서 다양한 인공지능 모델을 쓸 수 있는 채팅 앱입니다.",
-    "forWhom": "여러 인공지능 서비스를 스마트폰에서 편하게 쓰고 싶은 분",
+    "oneLiner": "안드로이드에서 다양한 AI 모델을 연결해 대화하는 오픈소스 앱",
+    "forWhom": "스마트폰에서 여러 AI 서비스와 챗봇을 편리하게 쓰고 싶은 사용자",
     "features": [
-     "다양한 인공지능 서비스와 맞춤형 모델 연결",
-     "리눅스 환경과 파일 조작이 가능한 작업 공간",
-     "마크다운과 표, 수식 등 깔끔한 화면 표시"
+     "다양한 AI 서비스 제공자 및 모델 연결 지원",
+     "리눅스 환경과 파일 조작이 가능한 작업 공간 제공",
+     "마크다운, 수식, 표 등을 지원하는 대화 화면"
     ],
     "howToStart": [
-     "공식 웹사이트나 구글 플레이스토어에서 앱을 내려받아 설치합니다.",
-     "앱을 열고 사용할 인공지능 서비스의 API 주소와 열쇠 값을 입력합니다.",
-     "원하는 대화 모델을 골라 대화를 시작합니다."
+     "공식 웹사이트나 구글 플레이 스토어에서 앱을 내려받습니다.",
+     "앱을 실행한 뒤 빠른 시작 화면에서 사용할 AI 모델을 설정합니다.",
+     "원하는 AI 제공자의 API 정보를 입력하고 대화를 시작합니다."
     ],
     "praise": [
      {
-      "text": "여러 AI를 하나의 대화창에 불러와 함께 대화할 수 있는 기능이 있으면 좋겠습니다.",
+      "text": "여러 AI 모델을 하나의 대화 창에 모아 함께 쓰는 기능을 제안하는 목소리가 있습니다.",
       "source": "GitHub 이슈 #1582",
       "url": "https://github.com/rikkahub/rikkahub/issues/1582",
       "date": "2026-07-26",
       "old": false
      },
      {
-      "text": "대화창 안에서 실시간으로 토큰 사용 비용과 소비 내역을 볼 수 있으면 좋겠습니다.",
+      "text": "대화 안에서 소모되는 비용이나 토큰 사용량을 확인할 수 있는 기능을 바라는 의견이 있습니다.",
       "source": "GitHub 이슈 #1053",
       "url": "https://github.com/rikkahub/rikkahub/issues/1053",
       "date": "2026-04-05",
@@ -14331,40 +14545,40 @@
     ],
     "complaints": [
      {
-      "text": "딥시크 응답 API를 쓸 때 도구를 호출하면 reasoning_text 오류가 납니다.",
-      "source": "GitHub 이슈 #1629",
-      "url": "https://github.com/rikkahub/rikkahub/issues/1629",
-      "date": "2026-07-31",
+      "text": "일부 버전에서 대화 기록을 불러오면 컨텍스트 압축 버튼이 사라진다는 문제가 보고되었습니다.",
+      "source": "GitHub 이슈 #2374",
+      "url": "https://github.com/rikkahub/rikkahub/issues/2374",
+      "date": "2026-11-21",
       "old": false
      },
      {
-      "text": "용량이 큰 세계서를 가져오면 앱이 멈추고 계속 꺼지는 문제가 생깁니다.",
-      "source": "GitHub 이슈 #2333",
-      "url": "https://github.com/rikkahub/rikkahub/issues/2333",
-      "date": "2026-11-16",
+      "text": "큰 이미지를 여러 장 보낼 때 앱 메모리 부족으로 대화창이 멈추는 현상이 나타났습니다.",
+      "source": "GitHub 이슈 #2365",
+      "url": "https://github.com/rikkahub/rikkahub/issues/2365",
+      "date": "2026-11-21",
       "old": false
      }
     ],
     "cautions": [
      {
-      "text": "공식 버전이 아닌 가짜 복제 앱은 개인정보 유출이나 과도한 권한을 요구할 수 있어 주의해야 합니다.",
+      "text": "공식 버전이 아닌 변형 앱은 개인정보 유출이나 권한 요구 위험이 있으니 주의해야 합니다.",
       "url": "https://github.com/rikkahub/rikkahub#readme"
      }
     ],
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-22",
     "model": "gemini-flash-lite-latest"
    },
    "themes": [],
-   "cardTag": "3.3.0",
-   "score": 5.2009,
+   "cardTag": "3.3.1",
+   "score": 5.2169,
    "safety": {
     "vt": {
      "malicious": 1,
      "suspicious": 0,
-     "engines": 67,
-     "checkedAt": "2026-11-17",
-     "asset": "rikkahub-3.3.0-arm64-v8a.apk",
-     "sha256": "9fbe4ee2707e5fea300de3db59878e764fbca1ef76ef23d21d14f4197dd74f87"
+     "engines": 65,
+     "checkedAt": "2026-11-22",
+     "asset": "rikkahub-3.3.1-arm64-v8a.apk",
+     "sha256": "a9c96ceeecf220c06dc53e3b95aceb7d8b581f4cdbcdedf0fece9737ec98b6f1"
     },
     "attested": false,
     "attestedChecked": true,
@@ -14379,7 +14593,7 @@
      "구글 서비스 필요",
      "오류 보고"
     ],
-    "analyzedTag": "3.3.0",
+    "analyzedTag": "3.3.1",
     "packageName": "me.rerere.rikkahub",
     "certSha256": "2ab3ecd515c24a19eb6c317dd99c0b94ac15f5822228ab9cf520a8ab444ea3f1",
     "crashReporters": [
@@ -14388,114 +14602,11 @@
    }
   },
   {
-   "repo": "FossifyOrg/File-Manager",
-   "name": "File-Manager",
-   "owner": "FossifyOrg",
-   "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 1889,
-   "license": "GPL-3.0",
-   "topics": [
-    "android",
-    "file-manager",
-    "foss",
-    "kotlin",
-    "open-source"
-   ],
-   "latestTag": "1.6.4",
-   "latestDate": "2026-11-07",
-   "apkCount": 1,
-   "description": "Easy app for managing your files without ads, respecting your privacy & security",
-   "summaryKo": "광고 없는 안드로이드 오픈소스 파일 관리자 앱",
-   "notesKo": {
-    "tag": "1.6.4",
-    "lines": [
-     "번역을 업데이트했습니다."
-    ]
-   },
-   "screenshots": [
-    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
-    "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png"
-   ],
-   "card": {
-    "oneLiner": "광고 없는 안드로이드 오픈소스 파일 관리자 앱",
-    "forWhom": "광고 없이 기기 파일을 깔끔하고 안전하게 관리하고 싶은 사용자",
-    "features": [
-     "빠른 탐색과 파일 압축 및 전송 기능",
-     "비밀번호와 지문으로 중요한 파일 잠금",
-     "인터넷 연결 없이 기기에서 안전하게 작동"
-    ],
-    "howToStart": [
-     "구글 플레이 스토어 또는 F-Droid에서 Fossify File-Manager를 설치합니다.",
-     "앱을 실행하여 기기의 저장소 권한을 허용합니다.",
-     "폴더를 탐색하고 즐겨찾기와 검색 기능을 사용하여 파일을 관리합니다."
-    ],
-    "praise": [],
-    "complaints": [
-     {
-      "text": "구글 파일 앱과 달리 삭제한 파일이 휴지통으로 이동하지 않고 바로 영구 삭제되는 문제가 있습니다.",
-      "source": "GitHub 이슈 #89",
-      "url": "https://github.com/FossifyOrg/File-Manager/issues/89",
-      "date": "2024-04-28",
-      "old": true
-     },
-     {
-      "text": "지퍼 파일 압축 풀기 기능이 작동하지 않고 앱이 강제로 종료되는 현상이 발생합니다.",
-      "source": "GitHub 이슈 #526",
-      "url": "https://github.com/FossifyOrg/File-Manager/issues/526",
-      "date": "2026-11-14",
-      "old": false
-     }
-    ],
-    "cautions": [
-     {
-      "text": "일부 기기에서 /Android/data 및 /Android/obb 폴더에 접근하지 못하는 문제가 있을 수 있습니다.",
-      "url": "https://github.com/FossifyOrg/File-Manager/issues/16"
-     },
-     {
-      "text": "이름이 긴 파일의 경우 이름이 잘려서 표시될 수 있습니다.",
-      "url": "https://github.com/FossifyOrg/File-Manager/issues/72"
-     },
-     {
-      "text": "숨기기 해제 시 특정 이름의 파일 내용이 사라지는 오류가 보고되어 있습니다.",
-      "url": "https://github.com/FossifyOrg/File-Manager/issues/517"
-     }
-    ],
-    "asOf": "2026-11-16",
-    "model": "gemini-flash-lite-latest"
-   },
-   "themes": [
-    "files-photos"
-   ],
-   "cardTag": "1.6.4",
-   "score": 5.1997,
-   "safety": {
-    "vt": {
-     "malicious": 0,
-     "suspicious": 0,
-     "engines": 68,
-     "checkedAt": "2026-11-16",
-     "asset": "file-manager-16-foss-release.apk",
-     "sha256": "6e4656b8947966a2853681691bb0005e802ee89983fb141ec0f7186497dcd5f4"
-    },
-    "attested": false,
-    "attestedChecked": true,
-    "trackers": [],
-    "antiFeatures": [],
-    "analyzedTag": "1.6.4",
-    "packageName": "org.fossify.filemanager",
-    "certSha256": "affdb124d3f4720c2f98dbca9eacba0514fba4306e20a2786c861c3c0d6ff292"
-   }
-  },
-  {
    "repo": "simondankelmann/Bluetooth-LE-Spam",
    "name": "Bluetooth-LE-Spam",
    "owner": "simondankelmann",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5880491?v=4",
-   "stars": 4994,
+   "stars": 4995,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14585,7 +14696,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.9",
-   "score": 5.1985,
+   "score": 5.1986,
    "safety": {
     "vt": null,
     "attested": false,
@@ -14602,7 +14713,7 @@
    "name": "Cashew",
    "owner": "jameskokoska",
    "avatarUrl": "https://avatars.githubusercontent.com/u/50821962?v=4",
-   "stars": 4824,
+   "stars": 4826,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -14668,7 +14779,7 @@
    },
    "themes": [],
    "cardTag": "5.3.4+396",
-   "score": 5.1835,
+   "score": 5.1837,
    "safety": {
     "vt": null,
     "attested": false,
@@ -14792,7 +14903,7 @@
    "name": "Bangumi",
    "owner": "czy0729",
    "avatarUrl": "https://avatars.githubusercontent.com/u/13514316?v=4",
-   "stars": 6265,
+   "stars": 6270,
    "license": "MIT",
    "topics": [
     "android",
@@ -14891,7 +15002,7 @@
     "reading-news"
    ],
    "cardTag": "8.42.0",
-   "score": 5.0887,
+   "score": 5.0851,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -14922,7 +15033,7 @@
    "name": "ImageToolbox",
    "owner": "T8RIN",
    "avatarUrl": "https://avatars.githubusercontent.com/u/52178347?v=4",
-   "stars": 15689,
+   "stars": 15710,
    "license": "Apache-2.0",
    "topics": [
     "ai",
@@ -15013,7 +15124,7 @@
     "files-photos"
    ],
    "cardTag": "4.2.0",
-   "score": 5.0877,
+   "score": 5.0843,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15049,7 +15160,7 @@
    "name": "tasks",
    "owner": "tasks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/9398829?v=4",
-   "stars": 5779,
+   "stars": 5784,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -15121,7 +15232,7 @@
     "notes-tasks"
    ],
    "cardTag": "15.14.1",
-   "score": 5.068,
+   "score": 5.0644,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15152,7 +15263,7 @@
    "name": "Infinity-For-Reddit",
    "owner": "Docile-Alligator",
    "avatarUrl": "https://avatars.githubusercontent.com/u/25734209?v=4",
-   "stars": 5540,
+   "stars": 5539,
    "license": "AGPL-3.0",
    "topics": [
     "android",
@@ -15236,7 +15347,7 @@
    },
    "themes": [],
    "cardTag": "v8.4.0",
-   "score": 5.0628,
+   "score": 5.059,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15373,7 +15484,7 @@
    },
    "themes": [],
    "cardTag": "17.0",
-   "score": 4.9815,
+   "score": 4.9776,
    "safety": {
     "vt": null,
     "attested": false,
@@ -15491,7 +15602,7 @@
     "security-auth"
    ],
    "cardTag": "v1.15-r6",
-   "score": 4.9731,
+   "score": 4.9692,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15606,7 +15717,7 @@
    "name": "revanced-manager",
    "owner": "ReVanced",
    "avatarUrl": "https://avatars.githubusercontent.com/u/101597779?v=4",
-   "stars": 30210,
+   "stars": 30221,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -15678,7 +15789,7 @@
     "phone-tools"
    ],
    "cardTag": "v2.6.0",
-   "score": 4.7845,
+   "score": 4.7807,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15709,7 +15820,7 @@
    "name": "VPNHotspot",
    "owner": "Mygod",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3511321?v=4",
-   "stars": 6708,
+   "stars": 6711,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -15789,7 +15900,7 @@
     "network-vpn"
    ],
    "cardTag": "v3.0.8",
-   "score": 4.7029,
+   "score": 4.6992,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15825,7 +15936,7 @@
    "name": "shadowsocks-android",
    "owner": "shadowsocks",
    "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4",
-   "stars": 36845,
+   "stars": 36847,
    "license": "NOASSERTION",
    "topics": [
     "android",
@@ -15889,7 +16000,7 @@
     "network-vpn"
    ],
    "cardTag": "v5.3.5-nightly",
-   "score": 4.5571,
+   "score": 4.5534,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -15925,7 +16036,7 @@
    "name": "SmsForwarder",
    "owner": "pppscn",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5105854?v=4",
-   "stars": 28962,
+   "stars": 28972,
    "license": "BSD-2-Clause",
    "topics": [
     "android",
@@ -16027,7 +16138,7 @@
     "phone-tools"
    ],
    "cardTag": "v3.5.0",
-   "score": 4.4993,
+   "score": 4.4956,
    "safety": {
     "vt": {
      "malicious": 14,
@@ -16172,7 +16283,7 @@
    "name": "MifareClassicTool",
    "owner": "ikarus23",
    "avatarUrl": "https://avatars.githubusercontent.com/u/1389516?v=4",
-   "stars": 6560,
+   "stars": 6563,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16218,7 +16329,7 @@
    },
    "themes": [],
    "cardTag": "v4.3.1",
-   "score": 4.1731,
+   "score": 4.1679,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16304,7 +16415,7 @@
    },
    "themes": [],
    "cardTag": "v5.2.4",
-   "score": 4.1014,
+   "score": 4.0976,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -16336,7 +16447,7 @@
    "name": "privacy-friendly-pedometer",
    "owner": "SecUSo",
    "avatarUrl": "https://avatars.githubusercontent.com/u/5667328?v=4",
-   "stars": 292,
+   "stars": 293,
    "license": "GPL-3.0",
    "topics": [],
    "latestTag": "v3.1.2",
@@ -16420,7 +16531,7 @@
     "health-fitness"
    ],
    "cardTag": "v3.1.2",
-   "score": 3.9669,
+   "score": 3.9683,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16444,7 +16555,7 @@
    "name": "GoGoGo",
    "owner": "ZCShou",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8591065?v=4",
-   "stars": 11884,
+   "stars": 11890,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16533,7 +16644,7 @@
    },
    "themes": [],
    "cardTag": "ReleaseV1.12.3",
-   "score": 3.9025,
+   "score": 3.9026,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -16568,7 +16679,7 @@
    "name": "OuterTune",
    "owner": "OuterTune",
    "avatarUrl": "https://avatars.githubusercontent.com/u/197739581?v=4",
-   "stars": 5460,
+   "stars": 5461,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16632,7 +16743,7 @@
     "downloaders"
    ],
    "cardTag": "v0.10.1",
-   "score": 3.8907,
+   "score": 3.8853,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16656,7 +16767,7 @@
    "name": "Android-DataBackup",
    "owner": "XayahSuSuSu",
    "avatarUrl": "https://avatars.githubusercontent.com/u/44322170?v=4",
-   "stars": 7603,
+   "stars": 7611,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -16721,7 +16832,7 @@
     "phone-tools"
    ],
    "cardTag": "2.0.12",
-   "score": 3.881,
+   "score": 3.8815,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -16745,7 +16856,7 @@
    "name": "flutter_deer",
    "owner": "simplezhli",
    "avatarUrl": "https://avatars.githubusercontent.com/u/12456431?v=4",
-   "stars": 8624,
+   "stars": 8625,
    "license": "Apache-2.0",
    "topics": [
     "amap",
@@ -16988,7 +17099,7 @@
    "name": "InnerTune",
    "owner": "z-huang",
    "avatarUrl": "https://avatars.githubusercontent.com/u/39427017?v=4",
-   "stars": 6153,
+   "stars": 6152,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -17111,7 +17222,7 @@
    "name": "Aliucord",
    "owner": "Aliucord",
    "avatarUrl": "https://avatars.githubusercontent.com/u/78881422?v=4",
-   "stars": 4941,
+   "stars": 4940,
    "license": "OSL-3.0",
    "topics": [
     "android",
@@ -17180,7 +17291,7 @@
    },
    "themes": [],
    "cardTag": "1.2.0",
-   "score": 3.6939,
+   "score": 3.6938,
    "safety": {
     "vt": null,
     "attested": false,
@@ -17197,7 +17308,7 @@
    "name": "termux-api",
    "owner": "termux",
    "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
-   "stars": 4680,
+   "stars": 4686,
    "license": null,
    "topics": [
     "android",
@@ -17255,7 +17366,7 @@
     "phone-tools"
    ],
    "cardTag": "v0.53.0",
-   "score": 3.6703,
+   "score": 3.6709,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -17279,7 +17390,7 @@
    "name": "komikku",
    "owner": "komikku-app",
    "avatarUrl": "https://avatars.githubusercontent.com/u/160299335?v=4",
-   "stars": 5041,
+   "stars": 5048,
    "license": "Apache-2.0",
    "topics": [
     "android",
@@ -17357,7 +17468,7 @@
     "downloaders"
    ],
    "cardTag": "v1.14.1",
-   "score": 3.5047,
+   "score": 3.5013,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -17446,7 +17557,7 @@
    },
    "themes": [],
    "cardTag": "v1.0.19",
-   "score": 3.2489,
+   "score": 3.2451,
    "safety": {
     "vt": {
      "malicious": 1,
@@ -17481,7 +17592,7 @@
    "name": "Notes",
    "owner": "FossifyOrg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 522,
+   "stars": 523,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -17554,7 +17665,7 @@
     "notes-tasks"
    ],
    "cardTag": "1.7.0",
-   "score": 3.1021,
+   "score": 3.0974,
    "safety": {
     "vt": {
      "malicious": 0,
@@ -17578,7 +17689,7 @@
    "name": "Camera",
    "owner": "FossifyOrg",
    "avatarUrl": "https://avatars.githubusercontent.com/u/152776864?v=4",
-   "stars": 495,
+   "stars": 496,
    "license": "GPL-3.0",
    "topics": [
     "android",
@@ -17656,7 +17767,7 @@
     "privacy"
    ],
    "cardTag": "1.5.0",
-   "score": 3.079,
+   "score": 3.0744,
    "safety": {
     "vt": {
      "malicious": 0,
