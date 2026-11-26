@@ -1221,7 +1221,7 @@
   "attested": false,
   "attAt": "2026-11-16",
   "vt": null,
-  "vtAt": "2026-11-25"
+  "vtAt": "2026-11-26"
  },
  "e7535ea421a25962eb2ea37c46ff867838e69d33ba6d935876ab84d108de5020": {
   "attested": false,
@@ -1535,7 +1535,7 @@
  },
  "3c8834e21772f02717c46b8c3d7ff0222e1ac67ad4c6f5809bca147355ca3e17": {
   "vt": null,
-  "vtAt": "2026-11-25",
+  "vtAt": "2026-11-26",
   "attested": false,
   "attAt": "2026-11-19"
  },
@@ -1941,19 +1941,19 @@
  },
  "a215e36f273af13ff907a101d8852a53604c1f0cb3ca39e41c35da6b44be0c54": {
   "vt": null,
-  "vtAt": "2026-11-25",
+  "vtAt": "2026-11-26",
   "attested": false,
   "attAt": "2026-11-24"
  },
  "0b27034700457a8b530a92d5831f9aa0361377dbd48c3881b3595b739f4c3ce6": {
   "vt": null,
-  "vtAt": "2026-11-25",
+  "vtAt": "2026-11-26",
   "attested": false,
   "attAt": "2026-11-24"
  },
  "b613c318bf6e5a9ed0307629d383c9ad36e6fc9769766adeabb57c937c900090": {
   "vt": null,
-  "vtAt": "2026-11-25",
+  "vtAt": "2026-11-26",
   "attested": false,
   "attAt": "2026-11-24"
  },
@@ -2018,8 +2018,12 @@
   "attAt": "2026-11-25"
  },
  "767b4aebbd277a9b521a6cf84807d87dc95f7def0b50b8eeb97e427566939ea3": {
-  "vt": null,
-  "vtAt": "2026-11-25",
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 67
+  },
+  "vtAt": "2026-11-26",
   "attested": false,
   "attAt": "2026-11-25"
  },
@@ -2055,7 +2059,7 @@
  },
  "c258179a4260f1dd4a5e4f8d3c8f30503917de1bd74b52dc11904fadc6f68708": {
   "vt": null,
-  "vtAt": "2026-11-25",
+  "vtAt": "2026-11-26",
   "attested": false,
   "attAt": "2026-11-25"
  },
@@ -2068,5 +2072,51 @@
   "vtAt": "2026-11-25",
   "attested": false,
   "attAt": "2026-11-25"
+ },
+ "17faa742240e0d9f1110f0d1d0bb3facdea3105de3fb05a08a2c652ef44ab32b": {
+  "vt": null,
+  "vtAt": "2026-11-26",
+  "attested": false,
+  "attAt": "2026-11-26"
+ },
+ "52017248d29c6e0ee8904643431c47dc06ebe69f988e384daee3f9ef90df8292": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 67
+  },
+  "vtAt": "2026-11-26",
+  "attested": false,
+  "attAt": "2026-11-26"
+ },
+ "416a45649045bd38b87a99e3384ac4684168fa540ff57a62d67272b08199ff3d": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 50
+  },
+  "vtAt": "2026-11-26",
+  "attested": false,
+  "attAt": "2026-11-26"
+ },
+ "acfdc61aabd69ce02d75b21c5b07eb1519f6a001f1c65b13e876e6ce5ac2961d": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 67
+  },
+  "vtAt": "2026-11-26",
+  "attested": false,
+  "attAt": "2026-11-26"
+ },
+ "b0a781b728fd4eb7f522efde24e86fbc8f93805fc872dc540e768df7fa9e6929": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 65
+  },
+  "vtAt": "2026-11-26",
+  "attested": true,
+  "attAt": "2026-11-26"
  }
 }
