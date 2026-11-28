@@ -1535,7 +1535,7 @@
  },
  "3c8834e21772f02717c46b8c3d7ff0222e1ac67ad4c6f5809bca147355ca3e17": {
   "vt": null,
-  "vtAt": "2026-11-27",
+  "vtAt": "2026-11-28",
   "attested": false,
   "attAt": "2026-11-19"
  },
@@ -1957,7 +1957,7 @@
  },
  "b613c318bf6e5a9ed0307629d383c9ad36e6fc9769766adeabb57c937c900090": {
   "vt": null,
-  "vtAt": "2026-11-27",
+  "vtAt": "2026-11-28",
   "attested": false,
   "attAt": "2026-11-24"
  },
@@ -2199,7 +2199,7 @@
  },
  "6dacfdacecbcff68ecc8dbc0537b58f45c4e9e652f74bee8333aee0f20e0b8aa": {
   "vt": null,
-  "vtAt": "2026-11-27",
+  "vtAt": "2026-11-28",
   "attested": false,
   "attAt": "2026-11-27"
  },
@@ -2212,5 +2212,81 @@
   "vtAt": "2026-11-27",
   "attested": false,
   "attAt": "2026-11-27"
+ },
+ "93f03af0a75603d19029c0cbfadf194834024d55e29da5bc8bcc4bf7d76d4128": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 67
+  },
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
+ },
+ "5a1430525cf89f10e0b081d2992678aa19d32d88abdbede4f38a840e839a78e4": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 67
+  },
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
+ },
+ "6186f2f9d47de74bb55494a0a0387bf46d08313187bd3480d5b5f5c6add1f209": {
+  "vt": {
+   "malicious": 1,
+   "suspicious": 0,
+   "engines": 62
+  },
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
+ },
+ "7cf723bf27dd8703681590c394986223df86bae12bae46a3d5e2b154b365b04a": {
+  "vt": null,
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
+ },
+ "5e8e65da4adc7a05db8e8221b2bcb4fa759dd8000e83906553c3b9e4f3cf4c9f": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 66
+  },
+  "vtAt": "2026-11-28",
+  "attested": true,
+  "attAt": "2026-11-28"
+ },
+ "0d58dca12cb42e9d717576dbce272738d501d8c98722ef3fe40844ff0dd40f08": {
+  "vt": {
+   "malicious": 1,
+   "suspicious": 0,
+   "engines": 66
+  },
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
+ },
+ "3fbe1ba571b45331b8b8859c9cbaf66644d3dff2f7e5e89d986999892551d4e3": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 66
+  },
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
+ },
+ "ad7caf96b407e5c941fc7fec949d248e87b6b2a62d8b2012a547da02f854553e": {
+  "vt": {
+   "malicious": 0,
+   "suspicious": 0,
+   "engines": 65
+  },
+  "vtAt": "2026-11-28",
+  "attested": false,
+  "attAt": "2026-11-28"
  }
 }
